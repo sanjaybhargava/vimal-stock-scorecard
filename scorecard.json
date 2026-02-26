@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T17:34:52Z",
+  "generated_at": "2026-02-26T17:42:51Z",
   "trades": [
     {
       "fy": "FY 2024-25",
@@ -9451,9 +9451,9 @@
   "summary": {
     "total_trades": 452,
     "total_invested": 100391429,
-    "total_my_return": 41606733,
+    "total_my_return": 51549732,
     "total_nifty_return": 58430378,
-    "net_alpha": -16823645,
+    "net_alpha": -6880646,
     "win_rate": 53,
     "by_fy": [
       {
