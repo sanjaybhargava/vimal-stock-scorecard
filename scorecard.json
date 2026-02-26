@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T17:15:31Z",
+  "generated_at": "2026-02-26T17:34:52Z",
   "trades": [
     {
       "fy": "FY 2024-25",
@@ -139,11 +139,12 @@
       "sell_price": 57.88,
       "invested": 12980,
       "sale_value": 11576,
-      "equity_gl": -1404,
+      "equity_gl": -1254,
+      "dividend_income": 150,
       "nifty_buy_tri": 149.92,
       "nifty_sell_tri": 171.23,
       "nifty_return": 1845,
-      "alpha": -3249
+      "alpha": -3099
     },
     {
       "fy": "FY 2018-19",
@@ -283,11 +284,12 @@
       "sell_price": 1543,
       "invested": 736290,
       "sale_value": 779215,
-      "equity_gl": 42925,
+      "equity_gl": 19695,
+      "option_income": -23230,
       "nifty_buy_tri": 140.81,
       "nifty_sell_tri": 147.68,
       "nifty_return": 35923,
-      "alpha": 7002
+      "alpha": -16228
     },
     {
       "fy": "FY 2020-21",
@@ -301,11 +303,13 @@
       "sell_price": 1845,
       "invested": 876514,
       "sale_value": 931725,
-      "equity_gl": 55211,
+      "equity_gl": 36147,
+      "dividend_income": 1641,
+      "option_income": -20705,
       "nifty_buy_tri": 154.14,
       "nifty_sell_tri": 158.85,
       "nifty_return": 26783,
-      "alpha": 28428
+      "alpha": 9364
     },
     {
       "fy": "FY 2021-22",
@@ -319,11 +323,12 @@
       "sell_price": 1930.4,
       "invested": 27384,
       "sale_value": 25095,
-      "equity_gl": -2289,
+      "equity_gl": 105491,
+      "option_income": 107780,
       "nifty_buy_tri": 169.3,
       "nifty_sell_tri": 226.46,
       "nifty_return": 9245,
-      "alpha": -11534
+      "alpha": 96246
     },
     {
       "fy": "FY 2021-22",
@@ -337,11 +342,12 @@
       "sell_price": 1930.4,
       "invested": 28850,
       "sale_value": 25095,
-      "equity_gl": -3755,
+      "equity_gl": 25887,
+      "option_income": 29642,
       "nifty_buy_tri": 166.52,
       "nifty_sell_tri": 226.46,
       "nifty_return": 10385,
-      "alpha": -14140
+      "alpha": 15502
     },
     {
       "fy": "FY 2021-22",
@@ -355,11 +361,12 @@
       "sell_price": 1930.4,
       "invested": 90445,
       "sale_value": 86868,
-      "equity_gl": -3577,
+      "equity_gl": 79334,
+      "option_income": 82911,
       "nifty_buy_tri": 176.32,
       "nifty_sell_tri": 226.46,
       "nifty_return": 25720,
-      "alpha": -29297
+      "alpha": 53614
     },
     {
       "fy": "FY 2019-20",
@@ -391,11 +398,12 @@
       "sell_price": 1029.63,
       "invested": 1235,
       "sale_value": 1030,
-      "equity_gl": -205,
+      "equity_gl": -198,
+      "dividend_income": 7,
       "nifty_buy_tri": 156.84,
       "nifty_sell_tri": 114.48,
       "nifty_return": -334,
-      "alpha": 129
+      "alpha": 136
     },
     {
       "fy": "FY 2019-20",
@@ -409,11 +417,12 @@
       "sell_price": 1029.63,
       "invested": 29081,
       "sale_value": 19563,
-      "equity_gl": -9518,
+      "equity_gl": -9385,
+      "dividend_income": 133,
       "nifty_buy_tri": 164.57,
       "nifty_sell_tri": 114.48,
       "nifty_return": -8851,
-      "alpha": -667
+      "alpha": -534
     },
     {
       "fy": "FY 2019-20",
@@ -427,11 +436,12 @@
       "sell_price": 1029.63,
       "invested": 1538,
       "sale_value": 1030,
-      "equity_gl": -508,
+      "equity_gl": -501,
+      "dividend_income": 7,
       "nifty_buy_tri": 164.57,
       "nifty_sell_tri": 114.48,
       "nifty_return": -468,
-      "alpha": -40
+      "alpha": -33
     },
     {
       "fy": "FY 2019-20",
@@ -445,11 +455,12 @@
       "sell_price": 1029.63,
       "invested": 1490,
       "sale_value": 1030,
-      "equity_gl": -460,
+      "equity_gl": -453,
+      "dividend_income": 7,
       "nifty_buy_tri": 178.86,
       "nifty_sell_tri": 114.48,
       "nifty_return": -536,
-      "alpha": 76
+      "alpha": 83
     },
     {
       "fy": "FY 2019-20",
@@ -463,11 +474,12 @@
       "sell_price": 1047.09,
       "invested": 31288,
       "sale_value": 21989,
-      "equity_gl": -9299,
+      "equity_gl": -9152,
+      "dividend_income": 147,
       "nifty_buy_tri": 178.86,
       "nifty_sell_tri": 114.48,
       "nifty_return": -11262,
-      "alpha": 1963
+      "alpha": 2110
     },
     {
       "fy": "FY 2020-21",
@@ -481,11 +493,12 @@
       "sell_price": 1226.52,
       "invested": 625185,
       "sale_value": 674588,
-      "equity_gl": 49403,
+      "equity_gl": 31253,
+      "option_income": -18150,
       "nifty_buy_tri": 162.81,
       "nifty_sell_tri": 167.36,
       "nifty_return": 17472,
-      "alpha": 31931
+      "alpha": 13781
     },
     {
       "fy": "FY 2020-21",
@@ -499,11 +512,12 @@
       "sell_price": 1226.52,
       "invested": 633090,
       "sale_value": 674588,
-      "equity_gl": 41498,
+      "equity_gl": 18948,
+      "option_income": -22550,
       "nifty_buy_tri": 162.96,
       "nifty_sell_tri": 167.36,
       "nifty_return": 17094,
-      "alpha": 24404
+      "alpha": 1854
     },
     {
       "fy": "FY 2018-19",
@@ -553,11 +567,12 @@
       "sell_price": 693.06,
       "invested": 16695,
       "sale_value": 14554,
-      "equity_gl": -2141,
+      "equity_gl": -1973,
+      "dividend_income": 168,
       "nifty_buy_tri": 160.46,
       "nifty_sell_tri": 173.85,
       "nifty_return": 1393,
-      "alpha": -3534
+      "alpha": -3366
     },
     {
       "fy": "FY 2019-20",
@@ -571,11 +586,12 @@
       "sell_price": 723,
       "invested": 828240,
       "sale_value": 867600,
-      "equity_gl": 39360,
+      "equity_gl": 17400,
+      "option_income": -21960,
       "nifty_buy_tri": 173.85,
       "nifty_sell_tri": 173.51,
       "nifty_return": -1620,
-      "alpha": 40980
+      "alpha": 19020
     },
     {
       "fy": "FY 2019-20",
@@ -589,11 +605,12 @@
       "sell_price": 802.63,
       "invested": 931327,
       "sale_value": 963155,
-      "equity_gl": 31827,
+      "equity_gl": 33327,
+      "option_income": 1500,
       "nifty_buy_tri": 180.75,
       "nifty_sell_tri": 178.61,
       "nifty_return": -11027,
-      "alpha": 42854
+      "alpha": 44354
     },
     {
       "fy": "FY 2020-21",
@@ -607,11 +624,13 @@
       "sell_price": 702,
       "invested": 826800,
       "sale_value": 842400,
-      "equity_gl": 15600,
+      "equity_gl": 25740,
+      "dividend_income": 11400,
+      "option_income": -1260,
       "nifty_buy_tri": 133.57,
       "nifty_sell_tri": 149.42,
       "nifty_return": 98112,
-      "alpha": -82512
+      "alpha": -72372
     },
     {
       "fy": "FY 2021-22",
@@ -625,11 +644,12 @@
       "sell_price": 401.1,
       "invested": 188026,
       "sale_value": 120329,
-      "equity_gl": -67696,
+      "equity_gl": -66646,
+      "dividend_income": 1050,
       "nifty_buy_tri": 226.46,
       "nifty_sell_tri": 269.36,
       "nifty_return": 35619,
-      "alpha": -103315
+      "alpha": -102265
     },
     {
       "fy": "FY 2021-22",
@@ -643,11 +663,12 @@
       "sell_price": 401.1,
       "invested": 1172300,
       "sale_value": 762086,
-      "equity_gl": -410214,
+      "equity_gl": -403564,
+      "dividend_income": 6650,
       "nifty_buy_tri": 240.44,
       "nifty_sell_tri": 269.36,
       "nifty_return": 141004,
-      "alpha": -551218
+      "alpha": -544568
     },
     {
       "fy": "FY 2021-22",
@@ -661,11 +682,12 @@
       "sell_price": 349.12,
       "invested": 185100,
       "sale_value": 104737,
-      "equity_gl": -80363,
+      "equity_gl": -79313,
+      "dividend_income": 1050,
       "nifty_buy_tri": 240.44,
       "nifty_sell_tri": 254.81,
       "nifty_return": 11063,
-      "alpha": -91426
+      "alpha": -90376
     },
     {
       "fy": "FY 2021-22",
@@ -679,11 +701,12 @@
       "sell_price": 349.12,
       "invested": 28684,
       "sale_value": 16060,
-      "equity_gl": -12624,
+      "equity_gl": -12463,
+      "dividend_income": 161,
       "nifty_buy_tri": 244.41,
       "nifty_sell_tri": 254.81,
       "nifty_return": 1221,
-      "alpha": -13845
+      "alpha": -13684
     },
     {
       "fy": "FY 2021-22",
@@ -733,11 +756,12 @@
       "sell_price": 332.55,
       "invested": 23383,
       "sale_value": 22281,
-      "equity_gl": -1102,
+      "equity_gl": 9286,
+      "option_income": 10388,
       "nifty_buy_tri": 254.81,
       "nifty_sell_tri": 238.63,
       "nifty_return": -1485,
-      "alpha": 383
+      "alpha": 10771
     },
     {
       "fy": "FY 2022-23",
@@ -751,11 +775,12 @@
       "sell_price": 332.55,
       "invested": 152256,
       "sale_value": 144992,
-      "equity_gl": -7264,
+      "equity_gl": 60338,
+      "option_income": 67602,
       "nifty_buy_tri": 254.81,
       "nifty_sell_tri": 238.63,
       "nifty_return": -9668,
-      "alpha": 2404
+      "alpha": 70006
     },
     {
       "fy": "FY 2019-20",
@@ -769,11 +794,12 @@
       "sell_price": 404.49,
       "invested": 2943,
       "sale_value": 4449,
-      "equity_gl": 1506,
+      "equity_gl": 1645,
+      "dividend_income": 139,
       "nifty_buy_tri": 140.52,
       "nifty_sell_tri": 114.48,
       "nifty_return": -545,
-      "alpha": 2051
+      "alpha": 2190
     },
     {
       "fy": "FY 2019-20",
@@ -787,11 +813,12 @@
       "sell_price": 404.49,
       "invested": 6347,
       "sale_value": 8899,
-      "equity_gl": 2552,
+      "equity_gl": 2830,
+      "dividend_income": 278,
       "nifty_buy_tri": 143.89,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1297,
-      "alpha": 3849
+      "alpha": 4127
     },
     {
       "fy": "FY 2019-20",
@@ -805,11 +832,12 @@
       "sell_price": 404.49,
       "invested": 2211,
       "sale_value": 2831,
-      "equity_gl": 620,
+      "equity_gl": 702,
+      "dividend_income": 82,
       "nifty_buy_tri": 152.15,
       "nifty_sell_tri": 114.48,
       "nifty_return": -547,
-      "alpha": 1167
+      "alpha": 1249
     },
     {
       "fy": "FY 2019-20",
@@ -823,11 +851,12 @@
       "sell_price": 404.49,
       "invested": 1208,
       "sale_value": 1618,
-      "equity_gl": 410,
+      "equity_gl": 457,
+      "dividend_income": 47,
       "nifty_buy_tri": 147,
       "nifty_sell_tri": 114.48,
       "nifty_return": -267,
-      "alpha": 677
+      "alpha": 724
     },
     {
       "fy": "FY 2019-20",
@@ -841,11 +870,12 @@
       "sell_price": 404.49,
       "invested": 3381,
       "sale_value": 4449,
-      "equity_gl": 1068,
+      "equity_gl": 1196,
+      "dividend_income": 128,
       "nifty_buy_tri": 149.92,
       "nifty_sell_tri": 114.48,
       "nifty_return": -799,
-      "alpha": 1867
+      "alpha": 1995
     },
     {
       "fy": "FY 2019-20",
@@ -859,11 +889,12 @@
       "sell_price": 404.49,
       "invested": 3406,
       "sale_value": 4449,
-      "equity_gl": 1043,
+      "equity_gl": 1171,
+      "dividend_income": 128,
       "nifty_buy_tri": 152.59,
       "nifty_sell_tri": 114.48,
       "nifty_return": -851,
-      "alpha": 1894
+      "alpha": 2022
     },
     {
       "fy": "FY 2019-20",
@@ -877,11 +908,12 @@
       "sell_price": 404.49,
       "invested": 7660,
       "sale_value": 9708,
-      "equity_gl": 2048,
+      "equity_gl": 2328,
+      "dividend_income": 280,
       "nifty_buy_tri": 155.24,
       "nifty_sell_tri": 114.48,
       "nifty_return": -2011,
-      "alpha": 4059
+      "alpha": 4339
     },
     {
       "fy": "FY 2019-20",
@@ -895,11 +927,12 @@
       "sell_price": 404.49,
       "invested": 3188,
       "sale_value": 4045,
-      "equity_gl": 857,
+      "equity_gl": 974,
+      "dividend_income": 117,
       "nifty_buy_tri": 156.07,
       "nifty_sell_tri": 114.48,
       "nifty_return": -849,
-      "alpha": 1706
+      "alpha": 1823
     },
     {
       "fy": "FY 2019-20",
@@ -913,11 +946,12 @@
       "sell_price": 411.68,
       "invested": 4593,
       "sale_value": 4117,
-      "equity_gl": -476,
+      "equity_gl": -462,
+      "dividend_income": 14,
       "nifty_buy_tri": 156.84,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1240,
-      "alpha": 764
+      "alpha": 778
     },
     {
       "fy": "FY 2019-20",
@@ -931,11 +965,12 @@
       "sell_price": 411.68,
       "invested": 3051,
       "sale_value": 2882,
-      "equity_gl": -170,
+      "equity_gl": -160,
+      "dividend_income": 10,
       "nifty_buy_tri": 164.57,
       "nifty_sell_tri": 114.48,
       "nifty_return": -929,
-      "alpha": 759
+      "alpha": 769
     },
     {
       "fy": "FY 2019-20",
@@ -1039,11 +1074,12 @@
       "sell_price": 1392.05,
       "invested": 27615,
       "sale_value": 40369,
-      "equity_gl": 12754,
+      "equity_gl": 13276,
+      "dividend_income": 522,
       "nifty_buy_tri": 169.3,
       "nifty_sell_tri": 226.46,
       "nifty_return": 9324,
-      "alpha": 3430
+      "alpha": 3952
     },
     {
       "fy": "FY 2021-22",
@@ -1057,11 +1093,12 @@
       "sell_price": 1392.05,
       "invested": 24986,
       "sale_value": 40369,
-      "equity_gl": 15383,
+      "equity_gl": 15905,
+      "dividend_income": 522,
       "nifty_buy_tri": 166.52,
       "nifty_sell_tri": 226.46,
       "nifty_return": 8994,
-      "alpha": 6389
+      "alpha": 6911
     },
     {
       "fy": "FY 2021-22",
@@ -1165,11 +1202,12 @@
       "sell_price": 2033,
       "invested": 18580,
       "sale_value": 30495,
-      "equity_gl": 11915,
+      "equity_gl": 12710,
+      "dividend_income": 795,
       "nifty_buy_tri": 152.59,
       "nifty_sell_tri": 114.48,
       "nifty_return": -4641,
-      "alpha": 16556
+      "alpha": 17351
     },
     {
       "fy": "FY 2019-20",
@@ -1183,11 +1221,12 @@
       "sell_price": 2033,
       "invested": 6138,
       "sale_value": 10165,
-      "equity_gl": 4027,
+      "equity_gl": 4292,
+      "dividend_income": 265,
       "nifty_buy_tri": 155.24,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1612,
-      "alpha": 5639
+      "alpha": 5904
     },
     {
       "fy": "FY 2019-20",
@@ -1201,11 +1240,12 @@
       "sell_price": 2033,
       "invested": 2512,
       "sale_value": 4066,
-      "equity_gl": 1554,
+      "equity_gl": 1660,
+      "dividend_income": 106,
       "nifty_buy_tri": 156.07,
       "nifty_sell_tri": 114.48,
       "nifty_return": -669,
-      "alpha": 2223
+      "alpha": 2329
     },
     {
       "fy": "FY 2019-20",
@@ -1219,11 +1259,12 @@
       "sell_price": 2046.05,
       "invested": 10991,
       "sale_value": 12276,
-      "equity_gl": 1285,
+      "equity_gl": 1351,
+      "dividend_income": 66,
       "nifty_buy_tri": 156.84,
       "nifty_sell_tri": 114.48,
       "nifty_return": -2968,
-      "alpha": 4253
+      "alpha": 4319
     },
     {
       "fy": "FY 2019-20",
@@ -1237,11 +1278,12 @@
       "sell_price": 2046.05,
       "invested": 3932,
       "sale_value": 4092,
-      "equity_gl": 161,
+      "equity_gl": 183,
+      "dividend_income": 22,
       "nifty_buy_tri": 164.57,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1197,
-      "alpha": 1358
+      "alpha": 1380
     },
     {
       "fy": "FY 2019-20",
@@ -1273,11 +1315,13 @@
       "sell_price": 2412.47,
       "invested": 1197500,
       "sale_value": 1206235,
-      "equity_gl": 8735,
+      "equity_gl": 28298,
+      "dividend_income": 18750,
+      "option_income": 813,
       "nifty_buy_tri": 136.96,
       "nifty_sell_tri": 207.08,
       "nifty_return": 613089,
-      "alpha": -604354
+      "alpha": -584791
     },
     {
       "fy": "FY 2020-21",
@@ -1291,11 +1335,13 @@
       "sell_price": 2412.47,
       "invested": 231430,
       "sale_value": 241247,
-      "equity_gl": 9817,
+      "equity_gl": 13665,
+      "dividend_income": 3750,
+      "option_income": 98,
       "nifty_buy_tri": 133.03,
       "nifty_sell_tri": 207.08,
       "nifty_return": 128824,
-      "alpha": -119007
+      "alpha": -115159
     },
     {
       "fy": "FY 2020-21",
@@ -1309,11 +1355,13 @@
       "sell_price": 2416,
       "invested": 2699109,
       "sale_value": 2891952,
-      "equity_gl": 192843,
+      "equity_gl": 214940,
+      "dividend_income": 28130,
+      "option_income": -6033,
       "nifty_buy_tri": 163.18,
       "nifty_sell_tri": 207.08,
       "nifty_return": 726136,
-      "alpha": -533293
+      "alpha": -511196
     },
     {
       "fy": "FY 2020-21",
@@ -1327,11 +1375,13 @@
       "sell_price": 2416,
       "invested": 6591,
       "sale_value": 7248,
-      "equity_gl": 657,
+      "equity_gl": 675,
+      "dividend_income": 42,
+      "option_income": -24,
       "nifty_buy_tri": 167.61,
       "nifty_sell_tri": 207.08,
       "nifty_return": 1552,
-      "alpha": -895
+      "alpha": -877
     },
     {
       "fy": "FY 2019-20",
@@ -1471,11 +1521,12 @@
       "sell_price": 1039.21,
       "invested": 961000,
       "sale_value": 1039207,
-      "equity_gl": 78207,
+      "equity_gl": 32207,
+      "option_income": -46000,
       "nifty_buy_tri": 145.59,
       "nifty_sell_tri": 151.33,
       "nifty_return": 37888,
-      "alpha": 40319
+      "alpha": -5681
     },
     {
       "fy": "FY 2020-21",
@@ -1489,11 +1540,12 @@
       "sell_price": 1152,
       "invested": 590630,
       "sale_value": 633600,
-      "equity_gl": 42970,
+      "equity_gl": 20420,
+      "option_income": -22550,
       "nifty_buy_tri": 160.45,
       "nifty_sell_tri": 162.07,
       "nifty_return": 5963,
-      "alpha": 37007
+      "alpha": 14457
     },
     {
       "fy": "FY 2018-19",
@@ -1525,11 +1577,13 @@
       "sell_price": 452.5,
       "invested": 353280,
       "sale_value": 288243,
-      "equity_gl": -65038,
+      "equity_gl": -27901,
+      "dividend_income": 1911,
+      "option_income": 35226,
       "nifty_buy_tri": 171.71,
       "nifty_sell_tri": 169.52,
       "nifty_return": -4506,
-      "alpha": -60532
+      "alpha": -23395
     },
     {
       "fy": "FY 2019-20",
@@ -1543,11 +1597,13 @@
       "sell_price": 451.5,
       "invested": 201320,
       "sale_value": 163895,
-      "equity_gl": -37425,
+      "equity_gl": -16262,
+      "dividend_income": 1089,
+      "option_income": 20074,
       "nifty_buy_tri": 171.71,
       "nifty_sell_tri": 169.52,
       "nifty_return": -2568,
-      "alpha": -34857
+      "alpha": -13694
     },
     {
       "fy": "FY 2019-20",
@@ -1561,11 +1617,13 @@
       "sell_price": 379,
       "invested": 551943,
       "sale_value": 435850,
-      "equity_gl": -116093,
+      "equity_gl": -82101,
+      "dividend_income": 4600,
+      "option_income": 29392,
       "nifty_buy_tri": 181.35,
       "nifty_sell_tri": 114.48,
       "nifty_return": -203520,
-      "alpha": 87427
+      "alpha": 121419
     },
     {
       "fy": "FY 2019-20",
@@ -1579,11 +1637,13 @@
       "sell_price": 379,
       "invested": 499445,
       "sale_value": 435850,
-      "equity_gl": -63595,
+      "equity_gl": -45606,
+      "dividend_income": 4600,
+      "option_income": 13389,
       "nifty_buy_tri": 177.37,
       "nifty_sell_tri": 114.48,
       "nifty_return": -177088,
-      "alpha": 113493
+      "alpha": 131482
     },
     {
       "fy": "FY 2020-21",
@@ -1597,11 +1657,12 @@
       "sell_price": 645.5,
       "invested": 153540,
       "sale_value": 193650,
-      "equity_gl": 40110,
+      "equity_gl": 42795,
+      "option_income": 2685,
       "nifty_buy_tri": 128.82,
       "nifty_sell_tri": 133.57,
       "nifty_return": 5662,
-      "alpha": 34448
+      "alpha": 37133
     },
     {
       "fy": "FY 2020-21",
@@ -1615,11 +1676,12 @@
       "sell_price": 645.5,
       "invested": 1042034,
       "sale_value": 1291000,
-      "equity_gl": 248966,
+      "equity_gl": 266866,
+      "option_income": 17900,
       "nifty_buy_tri": 128.82,
       "nifty_sell_tri": 133.57,
       "nifty_return": 38423,
-      "alpha": 210543
+      "alpha": 228443
     },
     {
       "fy": "FY 2020-21",
@@ -1633,11 +1695,12 @@
       "sell_price": 687.3,
       "invested": 824200,
       "sale_value": 893490,
-      "equity_gl": 69290,
+      "equity_gl": 33540,
+      "option_income": -35750,
       "nifty_buy_tri": 158.85,
       "nifty_sell_tri": 160.45,
       "nifty_return": 8302,
-      "alpha": 60988
+      "alpha": 25238
     },
     {
       "fy": "FY 2019-20",
@@ -1759,11 +1822,12 @@
       "sell_price": 239.35,
       "invested": 18058,
       "sale_value": 17233,
-      "equity_gl": -824,
+      "equity_gl": -788,
+      "dividend_income": 36,
       "nifty_buy_tri": 160.46,
       "nifty_sell_tri": 176.62,
       "nifty_return": 1819,
-      "alpha": -2643
+      "alpha": -2607
     },
     {
       "fy": "FY 2018-19",
@@ -1777,11 +1841,12 @@
       "sell_price": 562.03,
       "invested": 29865,
       "sale_value": 28102,
-      "equity_gl": -1763,
+      "equity_gl": -1713,
+      "dividend_income": 50,
       "nifty_buy_tri": 163.64,
       "nifty_sell_tri": 171.23,
       "nifty_return": 1385,
-      "alpha": -3148
+      "alpha": -3098
     },
     {
       "fy": "FY 2019-20",
@@ -1795,11 +1860,12 @@
       "sell_price": 427.29,
       "invested": 846678,
       "sale_value": 906720,
-      "equity_gl": 60042,
+      "equity_gl": 52907,
+      "option_income": -7135,
       "nifty_buy_tri": 173.51,
       "nifty_sell_tri": 175.34,
       "nifty_return": 8930,
-      "alpha": 51112
+      "alpha": 43977
     },
     {
       "fy": "FY 2020-21",
@@ -1813,11 +1879,12 @@
       "sell_price": 392,
       "invested": 606900,
       "sale_value": 666400,
-      "equity_gl": 59500,
+      "equity_gl": 52761,
+      "option_income": -6739,
       "nifty_buy_tri": 164.91,
       "nifty_sell_tri": 165.52,
       "nifty_return": 2245,
-      "alpha": 57255
+      "alpha": 50516
     },
     {
       "fy": "FY 2019-20",
@@ -1849,11 +1916,12 @@
       "sell_price": 4100.78,
       "invested": 937497,
       "sale_value": 1025195,
-      "equity_gl": 87698,
+      "equity_gl": 170458,
+      "option_income": 82760,
       "nifty_buy_tri": 128.82,
       "nifty_sell_tri": 153,
       "nifty_return": 175972,
-      "alpha": -88274
+      "alpha": -5514
     },
     {
       "fy": "FY 2020-21",
@@ -1867,11 +1935,12 @@
       "sell_price": 4100.78,
       "invested": 1005000,
       "sale_value": 1025195,
-      "equity_gl": 20195,
+      "equity_gl": 18322,
+      "option_income": -1873,
       "nifty_buy_tri": 151.33,
       "nifty_sell_tri": 153,
       "nifty_return": 11091,
-      "alpha": 9104
+      "alpha": 7231
     },
     {
       "fy": "FY 2024-25",
@@ -1885,11 +1954,13 @@
       "sell_price": 6669,
       "invested": 2238500,
       "sale_value": 3334500,
-      "equity_gl": 1096000,
+      "equity_gl": 1473831,
+      "dividend_income": 13500,
+      "option_income": 364331,
       "nifty_buy_tri": 220.94,
       "nifty_sell_tri": 445.45,
       "nifty_return": 2274670,
-      "alpha": -1178670
+      "alpha": -800839
     },
     {
       "fy": "FY 2018-19",
@@ -1957,11 +2028,12 @@
       "sell_price": 339.49,
       "invested": 546677,
       "sale_value": 645028,
-      "equity_gl": 98351,
+      "equity_gl": 101201,
+      "dividend_income": 2850,
       "nifty_buy_tri": 162.19,
       "nifty_sell_tri": 176.18,
       "nifty_return": 47155,
-      "alpha": 51196
+      "alpha": 54046
     },
     {
       "fy": "FY 2018-19",
@@ -1975,11 +2047,12 @@
       "sell_price": 339.49,
       "invested": 497700,
       "sale_value": 611079,
-      "equity_gl": 113379,
+      "equity_gl": 116079,
+      "dividend_income": 2700,
       "nifty_buy_tri": 164.4,
       "nifty_sell_tri": 176.18,
       "nifty_return": 35662,
-      "alpha": 77717
+      "alpha": 80417
     },
     {
       "fy": "FY 2018-19",
@@ -1993,11 +2066,12 @@
       "sell_price": 339.49,
       "invested": 512190,
       "sale_value": 611079,
-      "equity_gl": 98889,
+      "equity_gl": 101589,
+      "dividend_income": 2700,
       "nifty_buy_tri": 160.06,
       "nifty_sell_tri": 176.18,
       "nifty_return": 51584,
-      "alpha": 47305
+      "alpha": 50005
     },
     {
       "fy": "FY 2019-20",
@@ -2011,11 +2085,12 @@
       "sell_price": 423.8,
       "invested": 611,
       "sale_value": 848,
-      "equity_gl": 237,
+      "equity_gl": 239,
+      "dividend_income": 2,
       "nifty_buy_tri": 164.45,
       "nifty_sell_tri": 164.57,
       "nifty_return": 0,
-      "alpha": 237
+      "alpha": 239
     },
     {
       "fy": "FY 2019-20",
@@ -2029,11 +2104,12 @@
       "sell_price": 464.05,
       "invested": 611,
       "sale_value": 928,
-      "equity_gl": 318,
+      "equity_gl": 320,
+      "dividend_income": 2,
       "nifty_buy_tri": 164.45,
       "nifty_sell_tri": 173.85,
       "nifty_return": 35,
-      "alpha": 283
+      "alpha": 285
     },
     {
       "fy": "FY 2019-20",
@@ -2047,11 +2123,12 @@
       "sell_price": 529.6,
       "invested": 3053,
       "sale_value": 5296,
-      "equity_gl": 2243,
+      "equity_gl": 2253,
+      "dividend_income": 10,
       "nifty_buy_tri": 164.45,
       "nifty_sell_tri": 173.29,
       "nifty_return": 164,
-      "alpha": 2079
+      "alpha": 2089
     },
     {
       "fy": "FY 2019-20",
@@ -2065,11 +2142,13 @@
       "sell_price": 546.5,
       "invested": 26252,
       "sale_value": 46999,
-      "equity_gl": 20748,
+      "equity_gl": 21477,
+      "dividend_income": 86,
+      "option_income": 643,
       "nifty_buy_tri": 164.45,
       "nifty_sell_tri": 179.93,
       "nifty_return": 2471,
-      "alpha": 18277
+      "alpha": 19006
     },
     {
       "fy": "FY 2019-20",
@@ -2083,11 +2162,12 @@
       "sell_price": 546.5,
       "invested": 28690,
       "sale_value": 37709,
-      "equity_gl": 9018,
+      "equity_gl": 9534,
+      "option_income": 516,
       "nifty_buy_tri": 160.46,
       "nifty_sell_tri": 179.93,
       "nifty_return": 3481,
-      "alpha": 5537
+      "alpha": 6053
     },
     {
       "fy": "FY 2019-20",
@@ -2101,11 +2181,12 @@
       "sell_price": 546.5,
       "invested": 5833,
       "sale_value": 8198,
-      "equity_gl": 2364,
+      "equity_gl": 2476,
+      "option_income": 112,
       "nifty_buy_tri": 156.84,
       "nifty_sell_tri": 179.93,
       "nifty_return": 859,
-      "alpha": 1505
+      "alpha": 1617
     },
     {
       "fy": "FY 2019-20",
@@ -2119,11 +2200,12 @@
       "sell_price": 546.5,
       "invested": 3397,
       "sale_value": 4372,
-      "equity_gl": 975,
+      "equity_gl": 1035,
+      "option_income": 60,
       "nifty_buy_tri": 164.57,
       "nifty_sell_tri": 179.93,
       "nifty_return": 317,
-      "alpha": 658
+      "alpha": 718
     },
     {
       "fy": "FY 2019-20",
@@ -2137,11 +2219,12 @@
       "sell_price": 546.5,
       "invested": 638719,
       "sale_value": 654161,
-      "equity_gl": 15441,
+      "equity_gl": 24397,
+      "option_income": 8956,
       "nifty_buy_tri": 181.35,
       "nifty_sell_tri": 179.93,
       "nifty_return": -5001,
-      "alpha": 20442
+      "alpha": 29398
     },
     {
       "fy": "FY 2019-20",
@@ -2155,11 +2238,12 @@
       "sell_price": 297.85,
       "invested": 42154,
       "sale_value": 23530,
-      "equity_gl": -18624,
+      "equity_gl": -18400,
+      "option_income": 224,
       "nifty_buy_tri": 181.35,
       "nifty_sell_tri": 114.48,
       "nifty_return": -15544,
-      "alpha": -3080
+      "alpha": -2856
     },
     {
       "fy": "FY 2019-20",
@@ -2173,11 +2257,12 @@
       "sell_price": 298.35,
       "invested": 52826,
       "sale_value": 29537,
-      "equity_gl": -23290,
+      "equity_gl": -23009,
+      "option_income": 281,
       "nifty_buy_tri": 181.35,
       "nifty_sell_tri": 114.48,
       "nifty_return": -19479,
-      "alpha": -3811
+      "alpha": -3530
     },
     {
       "fy": "FY 2019-20",
@@ -2209,11 +2294,12 @@
       "sell_price": 387,
       "invested": 474375,
       "sale_value": 532125,
-      "equity_gl": 57750,
+      "equity_gl": 46681,
+      "option_income": -11069,
       "nifty_buy_tri": 136.77,
       "nifty_sell_tri": 144.14,
       "nifty_return": 25562,
-      "alpha": 32188
+      "alpha": 21119
     },
     {
       "fy": "FY 2020-21",
@@ -2227,11 +2313,12 @@
       "sell_price": 327.47,
       "invested": 405625,
       "sale_value": 450270,
-      "equity_gl": 44645,
+      "equity_gl": 11782,
+      "option_income": -32863,
       "nifty_buy_tri": 133.57,
       "nifty_sell_tri": 139.1,
       "nifty_return": 16793,
-      "alpha": 27852
+      "alpha": -5011
     },
     {
       "fy": "FY 2020-21",
@@ -2245,11 +2332,12 @@
       "sell_price": 366.5,
       "invested": 481250,
       "sale_value": 503938,
-      "equity_gl": 22688,
+      "equity_gl": 24063,
+      "option_income": 1375,
       "nifty_buy_tri": 149.31,
       "nifty_sell_tri": 155.25,
       "nifty_return": 19146,
-      "alpha": 3542
+      "alpha": 4917
     },
     {
       "fy": "FY 2020-21",
@@ -2263,11 +2351,12 @@
       "sell_price": 408.5,
       "invested": 979000,
       "sale_value": 1123375,
-      "equity_gl": 144375,
+      "equity_gl": 145979,
+      "option_income": 1604,
       "nifty_buy_tri": 154.14,
       "nifty_sell_tri": 174.16,
       "nifty_return": 127154,
-      "alpha": 17221
+      "alpha": 18825
     },
     {
       "fy": "FY 2020-21",
@@ -2281,11 +2370,12 @@
       "sell_price": 408.5,
       "invested": 484688,
       "sale_value": 561688,
-      "equity_gl": 77000,
+      "equity_gl": 77802,
+      "option_income": 802,
       "nifty_buy_tri": 154.14,
       "nifty_sell_tri": 174.16,
       "nifty_return": 62952,
-      "alpha": 14048
+      "alpha": 14850
     },
     {
       "fy": "FY 2019-20",
@@ -2299,11 +2389,12 @@
       "sell_price": 1429.1,
       "invested": 2828,
       "sale_value": 2858,
-      "equity_gl": 30,
+      "equity_gl": 72,
+      "dividend_income": 42,
       "nifty_buy_tri": 139.48,
       "nifty_sell_tri": 169.9,
       "nifty_return": 617,
-      "alpha": -587
+      "alpha": -545
     },
     {
       "fy": "FY 2019-20",
@@ -2317,11 +2408,12 @@
       "sell_price": 1429.1,
       "invested": 5882,
       "sale_value": 5716,
-      "equity_gl": -166,
+      "equity_gl": -82,
+      "dividend_income": 84,
       "nifty_buy_tri": 143.89,
       "nifty_sell_tri": 169.9,
       "nifty_return": 1063,
-      "alpha": -1229
+      "alpha": -1145
     },
     {
       "fy": "FY 2019-20",
@@ -2335,11 +2427,12 @@
       "sell_price": 1429.1,
       "invested": 3280,
       "sale_value": 2858,
-      "equity_gl": -422,
+      "equity_gl": -392,
+      "dividend_income": 30,
       "nifty_buy_tri": 152.15,
       "nifty_sell_tri": 169.9,
       "nifty_return": 383,
-      "alpha": -805
+      "alpha": -775
     },
     {
       "fy": "FY 2019-20",
@@ -2353,11 +2446,12 @@
       "sell_price": 1429.1,
       "invested": 1618,
       "sale_value": 1429,
-      "equity_gl": -189,
+      "equity_gl": -174,
+      "dividend_income": 15,
       "nifty_buy_tri": 147,
       "nifty_sell_tri": 169.9,
       "nifty_return": 252,
-      "alpha": -441
+      "alpha": -426
     },
     {
       "fy": "FY 2019-20",
@@ -2371,11 +2465,12 @@
       "sell_price": 1429.1,
       "invested": 3203,
       "sale_value": 2858,
-      "equity_gl": -344,
+      "equity_gl": -314,
+      "dividend_income": 30,
       "nifty_buy_tri": 149.92,
       "nifty_sell_tri": 169.9,
       "nifty_return": 427,
-      "alpha": -771
+      "alpha": -741
     },
     {
       "fy": "FY 2019-20",
@@ -2389,11 +2484,12 @@
       "sell_price": 1429.1,
       "invested": 3402,
       "sale_value": 2858,
-      "equity_gl": -543,
+      "equity_gl": -513,
+      "dividend_income": 30,
       "nifty_buy_tri": 152.59,
       "nifty_sell_tri": 169.9,
       "nifty_return": 386,
-      "alpha": -929
+      "alpha": -899
     },
     {
       "fy": "FY 2019-20",
@@ -2407,11 +2503,12 @@
       "sell_price": 1429.1,
       "invested": 12000,
       "sale_value": 10004,
-      "equity_gl": -1997,
+      "equity_gl": -1892,
+      "dividend_income": 105,
       "nifty_buy_tri": 155.24,
       "nifty_sell_tri": 169.9,
       "nifty_return": 1133,
-      "alpha": -3130
+      "alpha": -3025
     },
     {
       "fy": "FY 2019-20",
@@ -2425,11 +2522,12 @@
       "sell_price": 1429.1,
       "invested": 3390,
       "sale_value": 2858,
-      "equity_gl": -532,
+      "equity_gl": -502,
+      "dividend_income": 30,
       "nifty_buy_tri": 156.07,
       "nifty_sell_tri": 169.9,
       "nifty_return": 300,
-      "alpha": -832
+      "alpha": -802
     },
     {
       "fy": "FY 2024-25",
@@ -2443,11 +2541,12 @@
       "sell_price": 8010,
       "invested": 354216,
       "sale_value": 400500,
-      "equity_gl": 46284,
+      "equity_gl": 51159,
+      "dividend_income": 4875,
       "nifty_buy_tri": 220.48,
       "nifty_sell_tri": 445.45,
       "nifty_return": 361429,
-      "alpha": -315145
+      "alpha": -310270
     },
     {
       "fy": "FY 2018-19",
@@ -2479,11 +2578,13 @@
       "sell_price": 570,
       "invested": 658357,
       "sale_value": 570000,
-      "equity_gl": -88357,
+      "equity_gl": -20241,
+      "dividend_income": 8500,
+      "option_income": 59616,
       "nifty_buy_tri": 170.41,
       "nifty_sell_tri": 181.35,
       "nifty_return": 42265,
-      "alpha": -130622
+      "alpha": -62506
     },
     {
       "fy": "FY 2019-20",
@@ -2497,11 +2598,12 @@
       "sell_price": 568,
       "invested": 603536,
       "sale_value": 568000,
-      "equity_gl": -35536,
+      "equity_gl": -4202,
+      "option_income": 31334,
       "nifty_buy_tri": 173.85,
       "nifty_sell_tri": 177.8,
       "nifty_return": 13713,
-      "alpha": -49249
+      "alpha": -17915
     },
     {
       "fy": "FY 2021-22",
@@ -2515,11 +2617,12 @@
       "sell_price": 744.11,
       "invested": 27605,
       "sale_value": 33485,
-      "equity_gl": 5880,
+      "equity_gl": 92627,
+      "option_income": 86747,
       "nifty_buy_tri": 169.3,
       "nifty_sell_tri": 226.46,
       "nifty_return": 9320,
-      "alpha": -3440
+      "alpha": 83307
     },
     {
       "fy": "FY 2021-22",
@@ -2533,11 +2636,12 @@
       "sell_price": 744.11,
       "invested": 28111,
       "sale_value": 34229,
-      "equity_gl": 6119,
+      "equity_gl": 107077,
+      "option_income": 100958,
       "nifty_buy_tri": 166.52,
       "nifty_sell_tri": 226.46,
       "nifty_return": 10119,
-      "alpha": -4000
+      "alpha": 96958
     },
     {
       "fy": "FY 2021-22",
@@ -2551,11 +2655,12 @@
       "sell_price": 744.11,
       "invested": 27763,
       "sale_value": 33485,
-      "equity_gl": 5722,
+      "equity_gl": 106124,
+      "option_income": 100402,
       "nifty_buy_tri": 185.9,
       "nifty_sell_tri": 226.46,
       "nifty_return": 6057,
-      "alpha": -335
+      "alpha": 100067
     },
     {
       "fy": "FY 2021-22",
@@ -2569,11 +2674,12 @@
       "sell_price": 744.11,
       "invested": 28821,
       "sale_value": 29020,
-      "equity_gl": 199,
+      "equity_gl": 66859,
+      "option_income": 66660,
       "nifty_buy_tri": 213.1,
       "nifty_sell_tri": 226.46,
       "nifty_return": 1807,
-      "alpha": -1608
+      "alpha": 65052
     },
     {
       "fy": "FY 2021-22",
@@ -2587,11 +2693,12 @@
       "sell_price": 744.11,
       "invested": 29423,
       "sale_value": 28276,
-      "equity_gl": -1147,
+      "equity_gl": 63804,
+      "option_income": 64951,
       "nifty_buy_tri": 207.27,
       "nifty_sell_tri": 226.46,
       "nifty_return": 2724,
-      "alpha": -3871
+      "alpha": 61080
     },
     {
       "fy": "FY 2021-22",
@@ -2605,11 +2712,12 @@
       "sell_price": 744.11,
       "invested": 30362,
       "sale_value": 26788,
-      "equity_gl": -3574,
+      "equity_gl": 57959,
+      "option_income": 61533,
       "nifty_buy_tri": 226.97,
       "nifty_sell_tri": 226.46,
       "nifty_return": -68,
-      "alpha": -3506
+      "alpha": 58027
     },
     {
       "fy": "FY 2017-18",
@@ -2623,11 +2731,12 @@
       "sell_price": 642.35,
       "invested": 6805,
       "sale_value": 6423,
-      "equity_gl": -381,
+      "equity_gl": -319,
+      "dividend_income": 62,
       "nifty_buy_tri": 152.15,
       "nifty_sell_tri": 155.24,
       "nifty_return": 138,
-      "alpha": -519
+      "alpha": -457
     },
     {
       "fy": "FY 2017-18",
@@ -2749,11 +2858,12 @@
       "sell_price": 86.1,
       "invested": 4289,
       "sale_value": 1722,
-      "equity_gl": -2567,
+      "equity_gl": -2537,
+      "dividend_income": 30,
       "nifty_buy_tri": 173.29,
       "nifty_sell_tri": 139.1,
       "nifty_return": -846,
-      "alpha": -1721
+      "alpha": -1691
     },
     {
       "fy": "FY 2024-25",
@@ -2767,11 +2877,12 @@
       "sell_price": 1556,
       "invested": 222800,
       "sale_value": 311200,
-      "equity_gl": 88400,
+      "equity_gl": 89550,
+      "dividend_income": 1150,
       "nifty_buy_tri": 274.47,
       "nifty_sell_tri": 445.45,
       "nifty_return": 138792,
-      "alpha": -50392
+      "alpha": -49242
     },
     {
       "fy": "FY 2019-20",
@@ -2929,11 +3040,12 @@
       "sell_price": 687,
       "invested": 20129,
       "sale_value": 13740,
-      "equity_gl": -6389,
+      "equity_gl": -6249,
+      "dividend_income": 140,
       "nifty_buy_tri": 158.83,
       "nifty_sell_tri": 114.48,
       "nifty_return": -5621,
-      "alpha": -768
+      "alpha": -628
     },
     {
       "fy": "FY 2019-20",
@@ -2947,11 +3059,12 @@
       "sell_price": 687,
       "invested": 5032,
       "sale_value": 3435,
-      "equity_gl": -1597,
+      "equity_gl": -1562,
+      "dividend_income": 35,
       "nifty_buy_tri": 156.84,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1359,
-      "alpha": -238
+      "alpha": -203
     },
     {
       "fy": "FY 2019-20",
@@ -2965,11 +3078,12 @@
       "sell_price": 687,
       "invested": 2251,
       "sale_value": 1374,
-      "equity_gl": -877,
+      "equity_gl": -863,
+      "dividend_income": 14,
       "nifty_buy_tri": 164.57,
       "nifty_sell_tri": 114.48,
       "nifty_return": -685,
-      "alpha": -192
+      "alpha": -178
     },
     {
       "fy": "FY 2019-20",
@@ -3001,11 +3115,12 @@
       "sell_price": 36,
       "invested": 471100,
       "sale_value": 252000,
-      "equity_gl": -219100,
+      "equity_gl": -145001,
+      "option_income": 74099,
       "nifty_buy_tri": 173.85,
       "nifty_sell_tri": 133.21,
       "nifty_return": -110127,
-      "alpha": -108973
+      "alpha": -34874
     },
     {
       "fy": "FY 2019-20",
@@ -3019,11 +3134,12 @@
       "sell_price": 36,
       "invested": 83395,
       "sale_value": 46800,
-      "equity_gl": -36595,
+      "equity_gl": -28994,
+      "option_income": 7601,
       "nifty_buy_tri": 177.53,
       "nifty_sell_tri": 133.21,
       "nifty_return": -20819,
-      "alpha": -15776
+      "alpha": -8175
     },
     {
       "fy": "FY 2019-20",
@@ -3037,11 +3153,12 @@
       "sell_price": 1077.25,
       "invested": 3132,
       "sale_value": 6464,
-      "equity_gl": 3332,
+      "equity_gl": 3414,
+      "dividend_income": 83,
       "nifty_buy_tri": 140.52,
       "nifty_sell_tri": 114.48,
       "nifty_return": -580,
-      "alpha": 3912
+      "alpha": 3994
     },
     {
       "fy": "FY 2019-20",
@@ -3055,11 +3172,12 @@
       "sell_price": 1077.25,
       "invested": 3161,
       "sale_value": 6464,
-      "equity_gl": 3302,
+      "equity_gl": 3385,
+      "dividend_income": 83,
       "nifty_buy_tri": 143.89,
       "nifty_sell_tri": 114.48,
       "nifty_return": -646,
-      "alpha": 3948
+      "alpha": 4031
     },
     {
       "fy": "FY 2019-20",
@@ -3073,11 +3191,12 @@
       "sell_price": 1079.31,
       "invested": 3161,
       "sale_value": 6476,
-      "equity_gl": 3315,
+      "equity_gl": 3397,
+      "dividend_income": 83,
       "nifty_buy_tri": 143.89,
       "nifty_sell_tri": 114.48,
       "nifty_return": -646,
-      "alpha": 3961
+      "alpha": 4043
     },
     {
       "fy": "FY 2019-20",
@@ -3091,11 +3210,12 @@
       "sell_price": 1079.31,
       "invested": 3820,
       "sale_value": 6476,
-      "equity_gl": 2656,
+      "equity_gl": 2718,
+      "dividend_income": 62,
       "nifty_buy_tri": 152.15,
       "nifty_sell_tri": 114.48,
       "nifty_return": -946,
-      "alpha": 3602
+      "alpha": 3664
     },
     {
       "fy": "FY 2019-20",
@@ -3109,11 +3229,12 @@
       "sell_price": 1079.31,
       "invested": 1884,
       "sale_value": 3238,
-      "equity_gl": 1354,
+      "equity_gl": 1385,
+      "dividend_income": 31,
       "nifty_buy_tri": 147,
       "nifty_sell_tri": 114.48,
       "nifty_return": -417,
-      "alpha": 1771
+      "alpha": 1802
     },
     {
       "fy": "FY 2019-20",
@@ -3127,11 +3248,12 @@
       "sell_price": 1079.31,
       "invested": 2035,
       "sale_value": 3238,
-      "equity_gl": 1203,
+      "equity_gl": 1234,
+      "dividend_income": 31,
       "nifty_buy_tri": 149.92,
       "nifty_sell_tri": 114.48,
       "nifty_return": -481,
-      "alpha": 1684
+      "alpha": 1715
     },
     {
       "fy": "FY 2019-20",
@@ -3145,11 +3267,12 @@
       "sell_price": 1079.31,
       "invested": 5856,
       "sale_value": 8634,
-      "equity_gl": 2778,
+      "equity_gl": 2860,
+      "dividend_income": 82,
       "nifty_buy_tri": 152.59,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1463,
-      "alpha": 4241
+      "alpha": 4323
     },
     {
       "fy": "FY 2019-20",
@@ -3163,11 +3286,12 @@
       "sell_price": 1079.31,
       "invested": 9269,
       "sale_value": 12952,
-      "equity_gl": 3682,
+      "equity_gl": 3805,
+      "dividend_income": 123,
       "nifty_buy_tri": 155.24,
       "nifty_sell_tri": 114.48,
       "nifty_return": -2434,
-      "alpha": 6116
+      "alpha": 6239
     },
     {
       "fy": "FY 2019-20",
@@ -3181,11 +3305,12 @@
       "sell_price": 1079.31,
       "invested": 4772,
       "sale_value": 6476,
-      "equity_gl": 1704,
+      "equity_gl": 1765,
+      "dividend_income": 62,
       "nifty_buy_tri": 156.07,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1272,
-      "alpha": 2976
+      "alpha": 3037
     },
     {
       "fy": "FY 2019-20",
@@ -3307,11 +3432,12 @@
       "sell_price": 494.05,
       "invested": 19470,
       "sale_value": 14821,
-      "equity_gl": -4648,
+      "equity_gl": -4528,
+      "dividend_income": 120,
       "nifty_buy_tri": 158.83,
       "nifty_sell_tri": 114.48,
       "nifty_return": -5437,
-      "alpha": 789
+      "alpha": 909
     },
     {
       "fy": "FY 2019-20",
@@ -3325,11 +3451,12 @@
       "sell_price": 494.05,
       "invested": 5126,
       "sale_value": 3952,
-      "equity_gl": -1174,
+      "equity_gl": -1142,
+      "dividend_income": 32,
       "nifty_buy_tri": 156.84,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1384,
-      "alpha": 210
+      "alpha": 242
     },
     {
       "fy": "FY 2019-20",
@@ -3343,11 +3470,12 @@
       "sell_price": 494.05,
       "invested": 2106,
       "sale_value": 1482,
-      "equity_gl": -624,
+      "equity_gl": -612,
+      "dividend_income": 12,
       "nifty_buy_tri": 164.57,
       "nifty_sell_tri": 114.48,
       "nifty_return": -641,
-      "alpha": 17
+      "alpha": 29
     },
     {
       "fy": "FY 2019-20",
@@ -3793,11 +3921,13 @@
       "sell_price": 108.8,
       "invested": 246960,
       "sale_value": 261120,
-      "equity_gl": 14160,
+      "equity_gl": 24960,
+      "dividend_income": 22800,
+      "option_income": -12000,
       "nifty_buy_tri": 176.32,
       "nifty_sell_tri": 190.53,
       "nifty_return": 19903,
-      "alpha": -5743
+      "alpha": 5057
     },
     {
       "fy": "FY 2020-21",
@@ -3811,11 +3941,13 @@
       "sell_price": 108.8,
       "invested": 1029000,
       "sale_value": 1088000,
-      "equity_gl": 59000,
+      "equity_gl": 104000,
+      "dividend_income": 95000,
+      "option_income": -50000,
       "nifty_buy_tri": 176.32,
       "nifty_sell_tri": 190.53,
       "nifty_return": 82929,
-      "alpha": -23929
+      "alpha": 21071
     },
     {
       "fy": "FY 2022-23",
@@ -3829,11 +3961,12 @@
       "sell_price": 890.32,
       "invested": 519000,
       "sale_value": 890320,
-      "equity_gl": 371320,
+      "equity_gl": 373820,
+      "dividend_income": 2500,
       "nifty_buy_tri": 201.74,
       "nifty_sell_tri": 281.36,
       "nifty_return": 204832,
-      "alpha": 166488
+      "alpha": 168988
     },
     {
       "fy": "FY 2022-23",
@@ -3847,11 +3980,12 @@
       "sell_price": 890.32,
       "invested": 513800,
       "sale_value": 890320,
-      "equity_gl": 376520,
+      "equity_gl": 379020,
+      "dividend_income": 2500,
       "nifty_buy_tri": 205.48,
       "nifty_sell_tri": 281.36,
       "nifty_return": 189737,
-      "alpha": 186783
+      "alpha": 189283
     },
     {
       "fy": "FY 2022-23",
@@ -3865,11 +3999,12 @@
       "sell_price": 890.32,
       "invested": 525500,
       "sale_value": 445160,
-      "equity_gl": -80340,
+      "equity_gl": -79090,
+      "dividend_income": 1250,
       "nifty_buy_tri": 235.42,
       "nifty_sell_tri": 281.36,
       "nifty_return": 102546,
-      "alpha": -182886
+      "alpha": -181636
     },
     {
       "fy": "FY 2019-20",
@@ -3883,11 +4018,12 @@
       "sell_price": 64.2,
       "invested": 666400,
       "sale_value": 513600,
-      "equity_gl": -152800,
+      "equity_gl": -120400,
+      "option_income": 32400,
       "nifty_buy_tri": 177.8,
       "nifty_sell_tri": 133.21,
       "nifty_return": -167125,
-      "alpha": 14325
+      "alpha": 46725
     },
     {
       "fy": "FY 2018-19",
@@ -3901,11 +4037,12 @@
       "sell_price": 6013,
       "invested": 3387,
       "sale_value": 6013,
-      "equity_gl": 2626,
+      "equity_gl": 2649,
+      "dividend_income": 24,
       "nifty_buy_tri": 139.48,
       "nifty_sell_tri": 157.15,
       "nifty_return": 429,
-      "alpha": 2197
+      "alpha": 2220
     },
     {
       "fy": "FY 2018-19",
@@ -3919,11 +4056,12 @@
       "sell_price": 6013,
       "invested": 3523,
       "sale_value": 6013,
-      "equity_gl": 2490,
+      "equity_gl": 2514,
+      "dividend_income": 24,
       "nifty_buy_tri": 140.52,
       "nifty_sell_tri": 157.15,
       "nifty_return": 417,
-      "alpha": 2073
+      "alpha": 2097
     },
     {
       "fy": "FY 2018-19",
@@ -3937,11 +4075,12 @@
       "sell_price": 6013,
       "invested": 14401,
       "sale_value": 24052,
-      "equity_gl": 9651,
+      "equity_gl": 9745,
+      "dividend_income": 94,
       "nifty_buy_tri": 143.89,
       "nifty_sell_tri": 157.15,
       "nifty_return": 1327,
-      "alpha": 8324
+      "alpha": 8418
     },
     {
       "fy": "FY 2018-19",
@@ -3955,11 +4094,12 @@
       "sell_price": 6013,
       "invested": 8147,
       "sale_value": 12026,
-      "equity_gl": 3879,
+      "equity_gl": 3904,
+      "dividend_income": 25,
       "nifty_buy_tri": 152.15,
       "nifty_sell_tri": 157.15,
       "nifty_return": 268,
-      "alpha": 3611
+      "alpha": 3636
     },
     {
       "fy": "FY 2018-19",
@@ -3973,11 +4113,12 @@
       "sell_price": 6013,
       "invested": 4089,
       "sale_value": 6013,
-      "equity_gl": 1924,
+      "equity_gl": 1936,
+      "dividend_income": 13,
       "nifty_buy_tri": 147,
       "nifty_sell_tri": 157.15,
       "nifty_return": 282,
-      "alpha": 1642
+      "alpha": 1654
     },
     {
       "fy": "FY 2018-19",
@@ -3991,11 +4132,12 @@
       "sell_price": 6013,
       "invested": 4255,
       "sale_value": 6013,
-      "equity_gl": 1758,
+      "equity_gl": 1771,
+      "dividend_income": 13,
       "nifty_buy_tri": 149.92,
       "nifty_sell_tri": 157.15,
       "nifty_return": 205,
-      "alpha": 1553
+      "alpha": 1566
     },
     {
       "fy": "FY 2018-19",
@@ -4009,11 +4151,12 @@
       "sell_price": 6013,
       "invested": 8622,
       "sale_value": 12026,
-      "equity_gl": 3404,
+      "equity_gl": 3429,
+      "dividend_income": 25,
       "nifty_buy_tri": 152.59,
       "nifty_sell_tri": 157.15,
       "nifty_return": 258,
-      "alpha": 3146
+      "alpha": 3171
     },
     {
       "fy": "FY 2018-19",
@@ -4027,11 +4170,12 @@
       "sell_price": 6013,
       "invested": 13425,
       "sale_value": 18039,
-      "equity_gl": 4614,
+      "equity_gl": 4652,
+      "dividend_income": 38,
       "nifty_buy_tri": 155.24,
       "nifty_sell_tri": 157.15,
       "nifty_return": 165,
-      "alpha": 4449
+      "alpha": 4487
     },
     {
       "fy": "FY 2018-19",
@@ -4045,11 +4189,12 @@
       "sell_price": 6013,
       "invested": 9298,
       "sale_value": 12026,
-      "equity_gl": 2728,
+      "equity_gl": 2753,
+      "dividend_income": 25,
       "nifty_buy_tri": 156.07,
       "nifty_sell_tri": 157.15,
       "nifty_return": 64,
-      "alpha": 2664
+      "alpha": 2689
     },
     {
       "fy": "FY 2018-19",
@@ -4099,11 +4244,13 @@
       "sell_price": 2850,
       "invested": 86409,
       "sale_value": 85500,
-      "equity_gl": -909,
+      "equity_gl": -1161,
+      "dividend_income": 450,
+      "option_income": -702,
       "nifty_buy_tri": 169.9,
       "nifty_sell_tri": 165.15,
       "nifty_return": -2416,
-      "alpha": 1507
+      "alpha": 1255
     },
     {
       "fy": "FY 2019-20",
@@ -4117,11 +4264,12 @@
       "sell_price": 2850,
       "invested": 281861,
       "sale_value": 302100,
-      "equity_gl": 20239,
+      "equity_gl": 17757,
+      "option_income": -2482,
       "nifty_buy_tri": 161.92,
       "nifty_sell_tri": 165.15,
       "nifty_return": 5623,
-      "alpha": 14616
+      "alpha": 12134
     },
     {
       "fy": "FY 2019-20",
@@ -4135,11 +4283,12 @@
       "sell_price": 3290,
       "invested": 79772,
       "sale_value": 98700,
-      "equity_gl": 18928,
+      "equity_gl": 17367,
+      "option_income": -1561,
       "nifty_buy_tri": 161.92,
       "nifty_sell_tri": 178.38,
       "nifty_return": 8109,
-      "alpha": 10819
+      "alpha": 9258
     },
     {
       "fy": "FY 2019-20",
@@ -4153,11 +4302,12 @@
       "sell_price": 3290,
       "invested": 5273,
       "sale_value": 6580,
-      "equity_gl": 1307,
+      "equity_gl": 1219,
+      "option_income": -88,
       "nifty_buy_tri": 156.84,
       "nifty_sell_tri": 178.38,
       "nifty_return": 724,
-      "alpha": 583
+      "alpha": 495
     },
     {
       "fy": "FY 2019-20",
@@ -4171,11 +4321,12 @@
       "sell_price": 3290,
       "invested": 11496,
       "sale_value": 13160,
-      "equity_gl": 1664,
+      "equity_gl": 1737,
+      "option_income": 73,
       "nifty_buy_tri": 164.57,
       "nifty_sell_tri": 178.38,
       "nifty_return": 965,
-      "alpha": 699
+      "alpha": 772
     },
     {
       "fy": "FY 2019-20",
@@ -4189,11 +4340,12 @@
       "sell_price": 3290,
       "invested": 503972,
       "sale_value": 539560,
-      "equity_gl": 35588,
+      "equity_gl": 38574,
+      "option_income": 2986,
       "nifty_buy_tri": 175.91,
       "nifty_sell_tri": 178.38,
       "nifty_return": 7076,
-      "alpha": 28512
+      "alpha": 31498
     },
     {
       "fy": "FY 2019-20",
@@ -4207,11 +4359,12 @@
       "sell_price": 2379.87,
       "invested": 110628,
       "sale_value": 85675,
-      "equity_gl": -24953,
+      "equity_gl": -27011,
+      "option_income": -2058,
       "nifty_buy_tri": 175.91,
       "nifty_sell_tri": 114.48,
       "nifty_return": -38633,
-      "alpha": 13680
+      "alpha": 11622
     },
     {
       "fy": "FY 2020-21",
@@ -4225,11 +4378,12 @@
       "sell_price": 3488,
       "invested": 674800,
       "sale_value": 697600,
-      "equity_gl": 22800,
+      "equity_gl": 12600,
+      "option_income": -10200,
       "nifty_buy_tri": 146.78,
       "nifty_sell_tri": 155.25,
       "nifty_return": 38940,
-      "alpha": -16140
+      "alpha": -26340
     },
     {
       "fy": "FY 2021-22",
@@ -4243,11 +4397,13 @@
       "sell_price": 3505.25,
       "invested": 149735,
       "sale_value": 136705,
-      "equity_gl": -13030,
+      "equity_gl": 474855,
+      "dividend_income": 5655,
+      "option_income": 482230,
       "nifty_buy_tri": 163.18,
       "nifty_sell_tri": 226.46,
       "nifty_return": 58066,
-      "alpha": -71096
+      "alpha": 416789
     },
     {
       "fy": "FY 2019-20",
@@ -4297,11 +4453,12 @@
       "sell_price": 514.7,
       "invested": 3572,
       "sale_value": 3603,
-      "equity_gl": 31,
+      "equity_gl": 66,
+      "dividend_income": 35,
       "nifty_buy_tri": 139.48,
       "nifty_sell_tri": 155.24,
       "nifty_return": 404,
-      "alpha": -373
+      "alpha": -338
     },
     {
       "fy": "FY 2017-18",
@@ -4315,11 +4472,12 @@
       "sell_price": 514.7,
       "invested": 6956,
       "sale_value": 7206,
-      "equity_gl": 250,
+      "equity_gl": 320,
+      "dividend_income": 70,
       "nifty_buy_tri": 143.89,
       "nifty_sell_tri": 155.24,
       "nifty_return": 549,
-      "alpha": -299
+      "alpha": -229
     },
     {
       "fy": "FY 2017-18",
@@ -4495,11 +4653,12 @@
       "sell_price": 13467.4,
       "invested": 25337,
       "sale_value": 26935,
-      "equity_gl": 1598,
+      "equity_gl": 1604,
+      "dividend_income": 6,
       "nifty_buy_tri": 160.46,
       "nifty_sell_tri": 114.48,
       "nifty_return": -7260,
-      "alpha": 8858
+      "alpha": 8864
     },
     {
       "fy": "FY 2019-20",
@@ -4513,11 +4672,12 @@
       "sell_price": 253,
       "invested": 398140,
       "sale_value": 430100,
-      "equity_gl": 31960,
+      "equity_gl": 16660,
+      "option_income": -15300,
       "nifty_buy_tri": 179.93,
       "nifty_sell_tri": 178.82,
       "nifty_return": -2456,
-      "alpha": 34416
+      "alpha": 19116
     },
     {
       "fy": "FY 2020-21",
@@ -4531,11 +4691,12 @@
       "sell_price": 145.2,
       "invested": 449400,
       "sale_value": 435600,
-      "equity_gl": -13800,
+      "equity_gl": -4650,
+      "option_income": 9150,
       "nifty_buy_tri": 162.81,
       "nifty_sell_tri": 164.09,
       "nifty_return": 3533,
-      "alpha": -17333
+      "alpha": -8183
     },
     {
       "fy": "FY 2020-21",
@@ -4549,11 +4710,12 @@
       "sell_price": 166.97,
       "invested": 426000,
       "sale_value": 500916,
-      "equity_gl": 74916,
+      "equity_gl": 54216,
+      "option_income": -20700,
       "nifty_buy_tri": 164.91,
       "nifty_sell_tri": 167.36,
       "nifty_return": 6329,
-      "alpha": 68587
+      "alpha": 47887
     },
     {
       "fy": "FY 2017-18",
@@ -4765,11 +4927,13 @@
       "sell_price": 2951,
       "invested": 1363900,
       "sale_value": 6787300,
-      "equity_gl": 5423400,
+      "equity_gl": 5437213,
+      "dividend_income": 63250,
+      "option_income": -49437,
       "nifty_buy_tri": 167.72,
       "nifty_sell_tri": 445.45,
       "nifty_return": 2258502,
-      "alpha": 3164898
+      "alpha": 3178711
     },
     {
       "fy": "FY 2019-20",
@@ -4801,11 +4965,12 @@
       "sell_price": 3685.83,
       "invested": 73215,
       "sale_value": 81088,
-      "equity_gl": 7873,
+      "equity_gl": 7895,
+      "dividend_income": 22,
       "nifty_buy_tri": 160.46,
       "nifty_sell_tri": 133.21,
       "nifty_return": -12434,
-      "alpha": 20307
+      "alpha": 20329
     },
     {
       "fy": "FY 2019-20",
@@ -4891,11 +5056,12 @@
       "sell_price": 903.18,
       "invested": 579575,
       "sale_value": 632226,
-      "equity_gl": 52651,
+      "equity_gl": 39001,
+      "option_income": -13650,
       "nifty_buy_tri": 135.86,
       "nifty_sell_tri": 133.57,
       "nifty_return": -9769,
-      "alpha": 62420
+      "alpha": 48770
     },
     {
       "fy": "FY 2020-21",
@@ -4909,11 +5075,12 @@
       "sell_price": 940,
       "invested": 615195,
       "sale_value": 658000,
-      "equity_gl": 42805,
+      "equity_gl": 27953,
+      "option_income": -14852,
       "nifty_buy_tri": 139.1,
       "nifty_sell_tri": 145.59,
       "nifty_return": 28703,
-      "alpha": 14102
+      "alpha": -750
     },
     {
       "fy": "FY 2020-21",
@@ -4927,11 +5094,12 @@
       "sell_price": 940,
       "invested": 639100,
       "sale_value": 658000,
-      "equity_gl": 18900,
+      "equity_gl": 10302,
+      "option_income": -8598,
       "nifty_buy_tri": 149.42,
       "nifty_sell_tri": 145.59,
       "nifty_return": -16382,
-      "alpha": 35282
+      "alpha": 26684
     },
     {
       "fy": "FY 2018-19",
@@ -4945,11 +5113,12 @@
       "sell_price": 1036.34,
       "invested": 13487,
       "sale_value": 12436,
-      "equity_gl": -1051,
+      "equity_gl": -1030,
+      "dividend_income": 21,
       "nifty_buy_tri": 143.89,
       "nifty_sell_tri": 163.64,
       "nifty_return": 1851,
-      "alpha": -2902
+      "alpha": -2881
     },
     {
       "fy": "FY 2018-19",
@@ -4963,11 +5132,12 @@
       "sell_price": 1036.34,
       "invested": 3279,
       "sale_value": 3109,
-      "equity_gl": -170,
+      "equity_gl": -167,
+      "dividend_income": 3,
       "nifty_buy_tri": 152.15,
       "nifty_sell_tri": 163.64,
       "nifty_return": 248,
-      "alpha": -418
+      "alpha": -415
     },
     {
       "fy": "FY 2018-19",
@@ -4981,11 +5151,12 @@
       "sell_price": 1036.34,
       "invested": 3236,
       "sale_value": 3109,
-      "equity_gl": -127,
+      "equity_gl": -124,
+      "dividend_income": 3,
       "nifty_buy_tri": 147,
       "nifty_sell_tri": 163.64,
       "nifty_return": 366,
-      "alpha": -493
+      "alpha": -490
     },
     {
       "fy": "FY 2018-19",
@@ -4999,11 +5170,12 @@
       "sell_price": 1036.34,
       "invested": 2359,
       "sale_value": 2073,
-      "equity_gl": -287,
+      "equity_gl": -285,
+      "dividend_income": 2,
       "nifty_buy_tri": 149.92,
       "nifty_sell_tri": 163.64,
       "nifty_return": 216,
-      "alpha": -503
+      "alpha": -501
     },
     {
       "fy": "FY 2018-19",
@@ -5017,11 +5189,12 @@
       "sell_price": 1036.34,
       "invested": 4992,
       "sale_value": 4145,
-      "equity_gl": -847,
+      "equity_gl": -843,
+      "dividend_income": 4,
       "nifty_buy_tri": 152.59,
       "nifty_sell_tri": 163.64,
       "nifty_return": 362,
-      "alpha": -1209
+      "alpha": -1205
     },
     {
       "fy": "FY 2018-19",
@@ -5035,11 +5208,12 @@
       "sell_price": 1036.34,
       "invested": 8910,
       "sale_value": 6218,
-      "equity_gl": -2692,
+      "equity_gl": -2686,
+      "dividend_income": 6,
       "nifty_buy_tri": 155.24,
       "nifty_sell_tri": 163.64,
       "nifty_return": 482,
-      "alpha": -3174
+      "alpha": -3168
     },
     {
       "fy": "FY 2018-19",
@@ -5053,11 +5227,12 @@
       "sell_price": 1036.34,
       "invested": 4442,
       "sale_value": 3109,
-      "equity_gl": -1333,
+      "equity_gl": -1330,
+      "dividend_income": 3,
       "nifty_buy_tri": 156.07,
       "nifty_sell_tri": 163.64,
       "nifty_return": 215,
-      "alpha": -1548
+      "alpha": -1545
     },
     {
       "fy": "FY 2022-23",
@@ -5071,11 +5246,12 @@
       "sell_price": 2162.1,
       "invested": 179290,
       "sale_value": 216210,
-      "equity_gl": 36920,
+      "equity_gl": 43420,
+      "dividend_income": 6500,
       "nifty_buy_tri": 226.46,
       "nifty_sell_tri": 238.63,
       "nifty_return": 9635,
-      "alpha": 27285
+      "alpha": 33785
     },
     {
       "fy": "FY 2022-23",
@@ -5089,11 +5265,12 @@
       "sell_price": 2162.1,
       "invested": 30934,
       "sale_value": 32432,
-      "equity_gl": 1497,
+      "equity_gl": 2472,
+      "dividend_income": 975,
       "nifty_buy_tri": 244.41,
       "nifty_sell_tri": 238.63,
       "nifty_return": -732,
-      "alpha": 2229
+      "alpha": 3204
     },
     {
       "fy": "FY 2022-23",
@@ -5215,11 +5392,12 @@
       "sell_price": 1910.96,
       "invested": 49261,
       "sale_value": 59240,
-      "equity_gl": 9979,
+      "equity_gl": 10475,
+      "dividend_income": 496,
       "nifty_buy_tri": 160.46,
       "nifty_sell_tri": 114.48,
       "nifty_return": -14116,
-      "alpha": 24095
+      "alpha": 24591
     },
     {
       "fy": "FY 2018-19",
@@ -5269,11 +5447,13 @@
       "sell_price": 225.4,
       "invested": 551250,
       "sale_value": 202860,
-      "equity_gl": -348390,
+      "equity_gl": -327330,
+      "dividend_income": 450,
+      "option_income": 20610,
       "nifty_buy_tri": 168.63,
       "nifty_sell_tri": 169.52,
       "nifty_return": 2909,
-      "alpha": -351299
+      "alpha": -330239
     },
     {
       "fy": "FY 2021-22",
@@ -5377,11 +5557,12 @@
       "sell_price": 518.2,
       "invested": 20802,
       "sale_value": 15546,
-      "equity_gl": -5256,
+      "equity_gl": -4806,
+      "dividend_income": 450,
       "nifty_buy_tri": 173.29,
       "nifty_sell_tri": 114.48,
       "nifty_return": -7060,
-      "alpha": 1804
+      "alpha": 2254
     },
     {
       "fy": "FY 2022-23",
@@ -5395,11 +5576,12 @@
       "sell_price": 813.1,
       "invested": 219766,
       "sale_value": 340691,
-      "equity_gl": 120925,
+      "equity_gl": 122916,
+      "dividend_income": 1990,
       "nifty_buy_tri": 220.48,
       "nifty_sell_tri": 238.63,
       "nifty_return": 18091,
-      "alpha": 102834
+      "alpha": 104825
     },
     {
       "fy": "FY 2024-25",
@@ -5413,11 +5595,12 @@
       "sell_price": 816,
       "invested": 42485,
       "sale_value": 66096,
-      "equity_gl": 23612,
+      "equity_gl": 25061,
+      "dividend_income": 1450,
       "nifty_buy_tri": 220.48,
       "nifty_sell_tri": 450.42,
       "nifty_return": 44307,
-      "alpha": -20695
+      "alpha": -19246
     },
     {
       "fy": "FY 2024-25",
@@ -5431,11 +5614,12 @@
       "sell_price": 816,
       "invested": 186125,
       "sale_value": 204000,
-      "equity_gl": 17875,
+      "equity_gl": 22350,
+      "dividend_income": 4475,
       "nifty_buy_tri": 226.46,
       "nifty_sell_tri": 450.42,
       "nifty_return": 184070,
-      "alpha": -166195
+      "alpha": -161720
     },
     {
       "fy": "FY 2024-25",
@@ -5449,11 +5633,12 @@
       "sell_price": 816,
       "invested": 34774,
       "sale_value": 31008,
-      "equity_gl": -3766,
+      "equity_gl": -3086,
+      "dividend_income": 680,
       "nifty_buy_tri": 244.41,
       "nifty_sell_tri": 450.42,
       "nifty_return": 29310,
-      "alpha": -33076
+      "alpha": -32396
     },
     {
       "fy": "FY 2024-25",
@@ -5467,11 +5652,12 @@
       "sell_price": 816,
       "invested": 45243,
       "sale_value": 26928,
-      "equity_gl": -18315,
+      "equity_gl": -17823,
+      "dividend_income": 492,
       "nifty_buy_tri": 274.25,
       "nifty_sell_tri": 450.42,
       "nifty_return": 29063,
-      "alpha": -47378
+      "alpha": -46886
     },
     {
       "fy": "FY 2024-25",
@@ -5485,11 +5671,12 @@
       "sell_price": 816,
       "invested": 50740,
       "sale_value": 35088,
-      "equity_gl": -15652,
+      "equity_gl": -15087,
+      "dividend_income": 565,
       "nifty_buy_tri": 271.56,
       "nifty_sell_tri": 450.42,
       "nifty_return": 33419,
-      "alpha": -49071
+      "alpha": -48506
     },
     {
       "fy": "FY 2024-25",
@@ -5503,11 +5690,12 @@
       "sell_price": 816,
       "invested": 53578,
       "sale_value": 44880,
-      "equity_gl": -8698,
+      "equity_gl": -7974,
+      "dividend_income": 723,
       "nifty_buy_tri": 254.81,
       "nifty_sell_tri": 450.42,
       "nifty_return": 41130,
-      "alpha": -49828
+      "alpha": -49104
     },
     {
       "fy": "FY 2017-18",
@@ -5521,11 +5709,12 @@
       "sell_price": 1042.2,
       "invested": 6327,
       "sale_value": 5211,
-      "equity_gl": -1116,
+      "equity_gl": -1086,
+      "dividend_income": 30,
       "nifty_buy_tri": 152.15,
       "nifty_sell_tri": 152.59,
       "nifty_return": 18,
-      "alpha": -1134
+      "alpha": -1104
     },
     {
       "fy": "FY 2017-18",
@@ -5539,11 +5728,12 @@
       "sell_price": 1042.2,
       "invested": 1215,
       "sale_value": 1042,
-      "equity_gl": -173,
+      "equity_gl": -167,
+      "dividend_income": 6,
       "nifty_buy_tri": 147,
       "nifty_sell_tri": 152.59,
       "nifty_return": 46,
-      "alpha": -219
+      "alpha": -213
     },
     {
       "fy": "FY 2017-18",
@@ -5557,11 +5747,12 @@
       "sell_price": 1042.2,
       "invested": 4334,
       "sale_value": 4169,
-      "equity_gl": -165,
+      "equity_gl": -141,
+      "dividend_income": 24,
       "nifty_buy_tri": 149.92,
       "nifty_sell_tri": 152.59,
       "nifty_return": 77,
-      "alpha": -242
+      "alpha": -218
     },
     {
       "fy": "FY 2019-20",
@@ -5575,11 +5766,12 @@
       "sell_price": 1480.27,
       "invested": 21279,
       "sale_value": 20724,
-      "equity_gl": -555,
+      "equity_gl": -471,
+      "dividend_income": 84,
       "nifty_buy_tri": 160.46,
       "nifty_sell_tri": 178.86,
       "nifty_return": 2440,
-      "alpha": -2995
+      "alpha": -2911
     },
     {
       "fy": "FY 2019-20",
@@ -5593,11 +5785,12 @@
       "sell_price": 1480.27,
       "invested": 1503,
       "sale_value": 1480,
-      "equity_gl": -23,
+      "equity_gl": -17,
+      "dividend_income": 6,
       "nifty_buy_tri": 157.45,
       "nifty_sell_tri": 178.86,
       "nifty_return": 204,
-      "alpha": -227
+      "alpha": -221
     },
     {
       "fy": "FY 2017-18",
@@ -5611,11 +5804,12 @@
       "sell_price": 240.74,
       "invested": 3460,
       "sale_value": 3852,
-      "equity_gl": 392,
+      "equity_gl": 440,
+      "dividend_income": 48,
       "nifty_buy_tri": 139.48,
       "nifty_sell_tri": 155.24,
       "nifty_return": 391,
-      "alpha": 1
+      "alpha": 49
     },
     {
       "fy": "FY 2017-18",
@@ -5719,11 +5913,12 @@
       "sell_price": 426.9,
       "invested": 19885,
       "sale_value": 16222,
-      "equity_gl": -3663,
+      "equity_gl": -3603,
+      "dividend_income": 60,
       "nifty_buy_tri": 173.85,
       "nifty_sell_tri": 114.48,
       "nifty_return": -6791,
-      "alpha": 3128
+      "alpha": 3188
     },
     {
       "fy": "FY 2019-20",
@@ -5737,11 +5932,12 @@
       "sell_price": 2251.05,
       "invested": 28956,
       "sale_value": 29264,
-      "equity_gl": 307,
+      "equity_gl": 892,
+      "dividend_income": 585,
       "nifty_buy_tri": 160.46,
       "nifty_sell_tri": 173.85,
       "nifty_return": 2416,
-      "alpha": -2109
+      "alpha": -1524
     },
     {
       "fy": "FY 2019-20",
@@ -5755,11 +5951,13 @@
       "sell_price": 2202.49,
       "invested": 552000,
       "sale_value": 550623,
-      "equity_gl": -1377,
+      "equity_gl": 16388,
+      "dividend_income": 1250,
+      "option_income": 16515,
       "nifty_buy_tri": 180.78,
       "nifty_sell_tri": 177.37,
       "nifty_return": -10412,
-      "alpha": 9035
+      "alpha": 26800
     },
     {
       "fy": "FY 2019-20",
@@ -5773,11 +5971,13 @@
       "sell_price": 1709,
       "invested": 531250,
       "sale_value": 427250,
-      "equity_gl": -104000,
+      "equity_gl": -98352,
+      "dividend_income": 3000,
+      "option_income": 2648,
       "nifty_buy_tri": 178.38,
       "nifty_sell_tri": 114.48,
       "nifty_return": -190307,
-      "alpha": 86307
+      "alpha": 91955
     },
     {
       "fy": "FY 2020-21",
@@ -5791,11 +5991,13 @@
       "sell_price": 2118,
       "invested": 496750,
       "sale_value": 529500,
-      "equity_gl": 32750,
+      "equity_gl": 22113,
+      "dividend_income": 1500,
+      "option_income": -12137,
       "nifty_buy_tri": 133.57,
       "nifty_sell_tri": 149.31,
       "nifty_return": 58537,
-      "alpha": -25787
+      "alpha": -36424
     },
     {
       "fy": "FY 2020-21",
@@ -5809,11 +6011,12 @@
       "sell_price": 2303,
       "invested": 640500,
       "sale_value": 690900,
-      "equity_gl": 50400,
+      "equity_gl": 19440,
+      "option_income": -30960,
       "nifty_buy_tri": 163.91,
       "nifty_sell_tri": 166.05,
       "nifty_return": 8362,
-      "alpha": 42038
+      "alpha": 11078
     },
     {
       "fy": "FY 2019-20",
@@ -5827,11 +6030,12 @@
       "sell_price": 617,
       "invested": 21426,
       "sale_value": 14808,
-      "equity_gl": -6618,
+      "equity_gl": -6330,
+      "dividend_income": 288,
       "nifty_buy_tri": 158.83,
       "nifty_sell_tri": 114.48,
       "nifty_return": -5983,
-      "alpha": -635
+      "alpha": -347
     },
     {
       "fy": "FY 2019-20",
@@ -5845,11 +6049,12 @@
       "sell_price": 617,
       "invested": 5490,
       "sale_value": 3702,
-      "equity_gl": -1788,
+      "equity_gl": -1716,
+      "dividend_income": 72,
       "nifty_buy_tri": 156.84,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1483,
-      "alpha": -305
+      "alpha": -233
     },
     {
       "fy": "FY 2019-20",
@@ -5863,11 +6068,12 @@
       "sell_price": 617,
       "invested": 1940,
       "sale_value": 1234,
-      "equity_gl": -706,
+      "equity_gl": -682,
+      "dividend_income": 24,
       "nifty_buy_tri": 164.57,
       "nifty_sell_tri": 114.48,
       "nifty_return": -590,
-      "alpha": -116
+      "alpha": -92
     },
     {
       "fy": "FY 2021-22",
@@ -5989,11 +6195,12 @@
       "sell_price": 57.85,
       "invested": 199760,
       "sale_value": 127270,
-      "equity_gl": -72490,
+      "equity_gl": -44667,
+      "option_income": 27823,
       "nifty_buy_tri": 164.06,
       "nifty_sell_tri": 173.59,
       "nifty_return": 11604,
-      "alpha": -84094
+      "alpha": -56271
     },
     {
       "fy": "FY 2019-20",
@@ -6007,11 +6214,12 @@
       "sell_price": 66.6,
       "invested": 125840,
       "sale_value": 146520,
-      "equity_gl": 20680,
+      "equity_gl": 35906,
+      "option_income": 15226,
       "nifty_buy_tri": 160.58,
       "nifty_sell_tri": 175.91,
       "nifty_return": 12013,
-      "alpha": 8667
+      "alpha": 23893
     },
     {
       "fy": "FY 2019-20",
@@ -6025,11 +6233,12 @@
       "sell_price": 66.6,
       "invested": 94050,
       "sale_value": 146520,
-      "equity_gl": 52470,
+      "equity_gl": 57601,
+      "option_income": 5131,
       "nifty_buy_tri": 164.21,
       "nifty_sell_tri": 175.91,
       "nifty_return": 6701,
-      "alpha": 45769
+      "alpha": 50900
     },
     {
       "fy": "FY 2019-20",
@@ -6079,11 +6288,13 @@
       "sell_price": 7440,
       "invested": 517800,
       "sale_value": 558000,
-      "equity_gl": 40200,
+      "equity_gl": -63068,
+      "dividend_income": 6000,
+      "option_income": -109268,
       "nifty_buy_tri": 158.84,
       "nifty_sell_tri": 180.78,
       "nifty_return": 71522,
-      "alpha": -31322
+      "alpha": -134590
     },
     {
       "fy": "FY 2019-20",
@@ -6097,11 +6308,12 @@
       "sell_price": 7440,
       "invested": 181450,
       "sale_value": 186000,
-      "equity_gl": 4550,
+      "equity_gl": 2808,
+      "option_income": -1742,
       "nifty_buy_tri": 177.53,
       "nifty_sell_tri": 180.78,
       "nifty_return": 3322,
-      "alpha": 1228
+      "alpha": -514
     },
     {
       "fy": "FY 2019-20",
@@ -6115,11 +6327,12 @@
       "sell_price": 5580,
       "invested": 1356000,
       "sale_value": 1116000,
-      "equity_gl": -240000,
+      "equity_gl": -206516,
+      "option_income": 33484,
       "nifty_buy_tri": 178.61,
       "nifty_sell_tri": 133.21,
       "nifty_return": -344675,
-      "alpha": 104675
+      "alpha": 138159
     },
     {
       "fy": "FY 2019-20",
@@ -6133,11 +6346,12 @@
       "sell_price": 5580,
       "invested": 648800,
       "sale_value": 558000,
-      "equity_gl": -90800,
+      "equity_gl": -79479,
+      "option_income": 11321,
       "nifty_buy_tri": 174.43,
       "nifty_sell_tri": 133.21,
       "nifty_return": -153320,
-      "alpha": 62520
+      "alpha": 73841
     },
     {
       "fy": "FY 2020-21",
@@ -6151,11 +6365,12 @@
       "sell_price": 5336.81,
       "invested": 497800,
       "sale_value": 533681,
-      "equity_gl": 35881,
+      "equity_gl": 46181,
+      "option_income": 10300,
       "nifty_buy_tri": 136.66,
       "nifty_sell_tri": 139.1,
       "nifty_return": 8888,
-      "alpha": 26993
+      "alpha": 37293
     },
     {
       "fy": "FY 2020-21",
@@ -6169,11 +6384,12 @@
       "sell_price": 6456,
       "invested": 588500,
       "sale_value": 645600,
-      "equity_gl": 57100,
+      "equity_gl": 34855,
+      "option_income": -22245,
       "nifty_buy_tri": 162.07,
       "nifty_sell_tri": 165.52,
       "nifty_return": 12527,
-      "alpha": 44573
+      "alpha": 22328
     },
     {
       "fy": "FY 2024-25",
@@ -6187,11 +6403,13 @@
       "sell_price": 12300.09,
       "invested": 27615,
       "sale_value": 49200,
-      "equity_gl": 21585,
+      "equity_gl": 247915,
+      "dividend_income": 1280,
+      "option_income": 225050,
       "nifty_buy_tri": 169.3,
       "nifty_sell_tri": 443.33,
       "nifty_return": 44698,
-      "alpha": -23113
+      "alpha": 203217
     },
     {
       "fy": "FY 2024-25",
@@ -6205,11 +6423,13 @@
       "sell_price": 12300.09,
       "invested": 25814,
       "sale_value": 49200,
-      "equity_gl": 23387,
+      "equity_gl": 249717,
+      "dividend_income": 1280,
+      "option_income": 225050,
       "nifty_buy_tri": 166.52,
       "nifty_sell_tri": 443.33,
       "nifty_return": 42911,
-      "alpha": -19524
+      "alpha": 206806
     },
     {
       "fy": "FY 2024-25",
@@ -6223,11 +6443,13 @@
       "sell_price": 12300.09,
       "invested": 27200,
       "sale_value": 49200,
-      "equity_gl": 22001,
+      "equity_gl": 279319,
+      "dividend_income": 1280,
+      "option_income": 256038,
       "nifty_buy_tri": 185.9,
       "nifty_sell_tri": 443.33,
       "nifty_return": 37666,
-      "alpha": -15665
+      "alpha": 241653
     },
     {
       "fy": "FY 2024-25",
@@ -6241,11 +6463,13 @@
       "sell_price": 12300.09,
       "invested": 22923,
       "sale_value": 36900,
-      "equity_gl": 13977,
+      "equity_gl": 192774,
+      "dividend_income": 960,
+      "option_income": 177837,
       "nifty_buy_tri": 213.1,
       "nifty_sell_tri": 443.33,
       "nifty_return": 24766,
-      "alpha": -10789
+      "alpha": 168008
     },
     {
       "fy": "FY 2024-25",
@@ -6259,11 +6483,13 @@
       "sell_price": 12300.09,
       "invested": 23833,
       "sale_value": 36900,
-      "equity_gl": 13067,
+      "equity_gl": 191864,
+      "dividend_income": 960,
+      "option_income": 177837,
       "nifty_buy_tri": 207.27,
       "nifty_sell_tri": 443.33,
       "nifty_return": 27144,
-      "alpha": -14077
+      "alpha": 164720
     },
     {
       "fy": "FY 2024-25",
@@ -6277,11 +6503,13 @@
       "sell_price": 12300.09,
       "invested": 21150,
       "sale_value": 36900,
-      "equity_gl": 15750,
+      "equity_gl": 109168,
+      "dividend_income": 960,
+      "option_income": 92458,
       "nifty_buy_tri": 226.97,
       "nifty_sell_tri": 443.33,
       "nifty_return": 20161,
-      "alpha": -4411
+      "alpha": 89007
     },
     {
       "fy": "FY 2024-25",
@@ -6295,11 +6523,13 @@
       "sell_price": 12300.09,
       "invested": 21024,
       "sale_value": 36900,
-      "equity_gl": 15876,
+      "equity_gl": 61248,
+      "dividend_income": 960,
+      "option_income": 44412,
       "nifty_buy_tri": 244.41,
       "nifty_sell_tri": 443.33,
       "nifty_return": 17111,
-      "alpha": -1235
+      "alpha": 44137
     },
     {
       "fy": "FY 2024-25",
@@ -6313,11 +6543,13 @@
       "sell_price": 12300.09,
       "invested": 21425,
       "sale_value": 36900,
-      "equity_gl": 15476,
+      "equity_gl": 60713,
+      "dividend_income": 825,
+      "option_income": 44412,
       "nifty_buy_tri": 274.25,
       "nifty_sell_tri": 443.33,
       "nifty_return": 13209,
-      "alpha": 2267
+      "alpha": 47504
     },
     {
       "fy": "FY 2024-25",
@@ -6331,11 +6563,13 @@
       "sell_price": 12300.09,
       "invested": 32031,
       "sale_value": 49200,
-      "equity_gl": 17169,
+      "equity_gl": 77485,
+      "dividend_income": 1100,
+      "option_income": 59216,
       "nifty_buy_tri": 271.56,
       "nifty_sell_tri": 443.33,
       "nifty_return": 20261,
-      "alpha": -3092
+      "alpha": 57224
     },
     {
       "fy": "FY 2024-25",
@@ -6349,11 +6583,13 @@
       "sell_price": 12300.09,
       "invested": 36150,
       "sale_value": 61500,
-      "equity_gl": 25350,
+      "equity_gl": 100744,
+      "dividend_income": 1375,
+      "option_income": 74019,
       "nifty_buy_tri": 254.81,
       "nifty_sell_tri": 443.33,
       "nifty_return": 26745,
-      "alpha": -1395
+      "alpha": 73999
     },
     {
       "fy": "FY 2024-25",
@@ -6367,11 +6603,13 @@
       "sell_price": 12300.09,
       "invested": 495825,
       "sale_value": 787205,
-      "equity_gl": 291381,
+      "equity_gl": 1113865,
+      "dividend_income": 17600,
+      "option_income": 804884,
       "nifty_buy_tri": 238.63,
       "nifty_sell_tri": 443.33,
       "nifty_return": 425325,
-      "alpha": -133944
+      "alpha": 688540
     },
     {
       "fy": "FY 2019-20",
@@ -6385,11 +6623,12 @@
       "sell_price": 592.5,
       "invested": 789040,
       "sale_value": 829500,
-      "equity_gl": 40460,
+      "equity_gl": 56954,
+      "option_income": 16494,
       "nifty_buy_tri": 176.88,
       "nifty_sell_tri": 181.35,
       "nifty_return": 19940,
-      "alpha": 20520
+      "alpha": 37014
     },
     {
       "fy": "FY 2019-20",
@@ -6403,11 +6642,12 @@
       "sell_price": 283.4,
       "invested": 3451,
       "sale_value": 1700,
-      "equity_gl": -1751,
+      "equity_gl": -1655,
+      "option_income": 96,
       "nifty_buy_tri": 173.29,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1171,
-      "alpha": -580
+      "alpha": -484
     },
     {
       "fy": "FY 2017-18",
@@ -6421,11 +6661,12 @@
       "sell_price": 797.08,
       "invested": 3855,
       "sale_value": 3188,
-      "equity_gl": -667,
+      "equity_gl": -663,
+      "dividend_income": 3,
       "nifty_buy_tri": 139.48,
       "nifty_sell_tri": 152.59,
       "nifty_return": 362,
-      "alpha": -1029
+      "alpha": -1025
     },
     {
       "fy": "FY 2017-18",
@@ -6439,11 +6680,12 @@
       "sell_price": 797.08,
       "invested": 6382,
       "sale_value": 6377,
-      "equity_gl": -5,
+      "equity_gl": 1,
+      "dividend_income": 7,
       "nifty_buy_tri": 143.89,
       "nifty_sell_tri": 152.59,
       "nifty_return": 386,
-      "alpha": -391
+      "alpha": -385
     },
     {
       "fy": "FY 2017-18",
@@ -6583,11 +6825,13 @@
       "sell_price": 461,
       "invested": 2701467,
       "sale_value": 2734652,
-      "equity_gl": 33185,
+      "equity_gl": 231570,
+      "dividend_income": 34141,
+      "option_income": 164244,
       "nifty_buy_tri": 163.18,
       "nifty_sell_tri": 175.5,
       "nifty_return": 203959,
-      "alpha": -170774
+      "alpha": 27611
     },
     {
       "fy": "FY 2020-21",
@@ -6601,11 +6845,13 @@
       "sell_price": 461,
       "invested": 279996,
       "sale_value": 261848,
-      "equity_gl": -18148,
+      "equity_gl": -3493,
+      "dividend_income": 3269,
+      "option_income": 11386,
       "nifty_buy_tri": 168.08,
       "nifty_sell_tri": 175.5,
       "nifty_return": 12361,
-      "alpha": -30509
+      "alpha": -15854
     },
     {
       "fy": "FY 2020-21",
@@ -6619,11 +6865,12 @@
       "sell_price": 592,
       "invested": 3032250,
       "sale_value": 3848000,
-      "equity_gl": 815750,
+      "equity_gl": -63505,
+      "option_income": -879255,
       "nifty_buy_tri": 213.1,
       "nifty_sell_tri": 217.64,
       "nifty_return": 64601,
-      "alpha": 751149
+      "alpha": -128106
     },
     {
       "fy": "FY 2017-18",
@@ -6637,11 +6884,12 @@
       "sell_price": 1119.55,
       "invested": 12819,
       "sale_value": 11196,
-      "equity_gl": -1624,
+      "equity_gl": -1284,
+      "dividend_income": 340,
       "nifty_buy_tri": 149.92,
       "nifty_sell_tri": 152.59,
       "nifty_return": 228,
-      "alpha": -1852
+      "alpha": -1512
     },
     {
       "fy": "FY 2019-20",
@@ -6655,11 +6903,12 @@
       "sell_price": 1733,
       "invested": 116000,
       "sale_value": 173300,
-      "equity_gl": 57300,
+      "equity_gl": 58400,
+      "dividend_income": 1100,
       "nifty_buy_tri": 165.17,
       "nifty_sell_tri": 168.14,
       "nifty_return": 2086,
-      "alpha": 55214
+      "alpha": 56314
     },
     {
       "fy": "FY 2019-20",
@@ -6691,11 +6940,13 @@
       "sell_price": 2535,
       "invested": 2702000,
       "sale_value": 1267501,
-      "equity_gl": -1434499,
+      "equity_gl": -988871,
+      "dividend_income": 14475,
+      "option_income": 431153,
       "nifty_buy_tri": 209.15,
       "nifty_sell_tri": 445.45,
       "nifty_return": 3052750,
-      "alpha": -4487249
+      "alpha": -4041621
     },
     {
       "fy": "FY 2019-20",
@@ -6727,11 +6978,12 @@
       "sell_price": 1784.95,
       "invested": 30085,
       "sale_value": 24989,
-      "equity_gl": -5096,
+      "equity_gl": -5079,
+      "dividend_income": 17,
       "nifty_buy_tri": 164.57,
       "nifty_sell_tri": 114.48,
       "nifty_return": -9157,
-      "alpha": 4061
+      "alpha": 4078
     },
     {
       "fy": "FY 2019-20",
@@ -6745,11 +6997,12 @@
       "sell_price": 1784.95,
       "invested": 2547,
       "sale_value": 1785,
-      "equity_gl": -762,
+      "equity_gl": -761,
+      "dividend_income": 1,
       "nifty_buy_tri": 173.85,
       "nifty_sell_tri": 114.48,
       "nifty_return": -870,
-      "alpha": 108
+      "alpha": 109
     },
     {
       "fy": "FY 2019-20",
@@ -6763,11 +7016,12 @@
       "sell_price": 508.36,
       "invested": 12975,
       "sale_value": 15251,
-      "equity_gl": 2276,
+      "equity_gl": 3416,
+      "dividend_income": 1140,
       "nifty_buy_tri": 149.92,
       "nifty_sell_tri": 114.48,
       "nifty_return": -3067,
-      "alpha": 5343
+      "alpha": 6483
     },
     {
       "fy": "FY 2019-20",
@@ -6781,11 +7035,12 @@
       "sell_price": 508.36,
       "invested": 2751,
       "sale_value": 3050,
-      "equity_gl": 299,
+      "equity_gl": 527,
+      "dividend_income": 228,
       "nifty_buy_tri": 152.59,
       "nifty_sell_tri": 114.48,
       "nifty_return": -687,
-      "alpha": 986
+      "alpha": 1214
     },
     {
       "fy": "FY 2019-20",
@@ -6799,11 +7054,12 @@
       "sell_price": 508.36,
       "invested": 6635,
       "sale_value": 7117,
-      "equity_gl": 482,
+      "equity_gl": 1014,
+      "dividend_income": 532,
       "nifty_buy_tri": 155.24,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1742,
-      "alpha": 2224
+      "alpha": 2756
     },
     {
       "fy": "FY 2019-20",
@@ -6817,11 +7073,12 @@
       "sell_price": 508.36,
       "invested": 2752,
       "sale_value": 3050,
-      "equity_gl": 298,
+      "equity_gl": 526,
+      "dividend_income": 228,
       "nifty_buy_tri": 156.07,
       "nifty_sell_tri": 114.48,
       "nifty_return": -733,
-      "alpha": 1031
+      "alpha": 1259
     },
     {
       "fy": "FY 2019-20",
@@ -6835,11 +7092,12 @@
       "sell_price": 508.36,
       "invested": 9965,
       "sale_value": 7117,
-      "equity_gl": -2847,
+      "equity_gl": -2707,
+      "dividend_income": 140,
       "nifty_buy_tri": 158.83,
       "nifty_sell_tri": 114.48,
       "nifty_return": -2782,
-      "alpha": -65
+      "alpha": 75
     },
     {
       "fy": "FY 2019-20",
@@ -6853,11 +7111,12 @@
       "sell_price": 508.36,
       "invested": 5667,
       "sale_value": 4067,
-      "equity_gl": -1600,
+      "equity_gl": -1520,
+      "dividend_income": 80,
       "nifty_buy_tri": 156.84,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1531,
-      "alpha": -69
+      "alpha": 11
     },
     {
       "fy": "FY 2019-20",
@@ -6871,11 +7130,12 @@
       "sell_price": 508.36,
       "invested": 3493,
       "sale_value": 2542,
-      "equity_gl": -951,
+      "equity_gl": -901,
+      "dividend_income": 50,
       "nifty_buy_tri": 164.57,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1063,
-      "alpha": 112
+      "alpha": 162
     },
     {
       "fy": "FY 2019-20",
@@ -6925,11 +7185,12 @@
       "sell_price": 1767.94,
       "invested": 10214,
       "sale_value": 10608,
-      "equity_gl": 394,
+      "equity_gl": 490,
+      "dividend_income": 96,
       "nifty_buy_tri": 161.92,
       "nifty_sell_tri": 114.48,
       "nifty_return": -2992,
-      "alpha": 3386
+      "alpha": 3482
     },
     {
       "fy": "FY 2019-20",
@@ -6943,11 +7204,12 @@
       "sell_price": 1767.94,
       "invested": 10116,
       "sale_value": 10608,
-      "equity_gl": 492,
+      "equity_gl": 588,
+      "dividend_income": 96,
       "nifty_buy_tri": 158.83,
       "nifty_sell_tri": 114.48,
       "nifty_return": -2825,
-      "alpha": 3317
+      "alpha": 3413
     },
     {
       "fy": "FY 2019-20",
@@ -6961,11 +7223,12 @@
       "sell_price": 1767.94,
       "invested": 5083,
       "sale_value": 5304,
-      "equity_gl": 221,
+      "equity_gl": 269,
+      "dividend_income": 48,
       "nifty_buy_tri": 156.84,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1373,
-      "alpha": 1594
+      "alpha": 1642
     },
     {
       "fy": "FY 2019-20",
@@ -6979,11 +7242,12 @@
       "sell_price": 1767.94,
       "invested": 1594,
       "sale_value": 1768,
-      "equity_gl": 174,
+      "equity_gl": 190,
+      "dividend_income": 16,
       "nifty_buy_tri": 164.57,
       "nifty_sell_tri": 114.48,
       "nifty_return": -485,
-      "alpha": 659
+      "alpha": 675
     },
     {
       "fy": "FY 2019-20",
@@ -7033,11 +7297,12 @@
       "sell_price": 1417,
       "invested": 181800,
       "sale_value": 212550,
-      "equity_gl": 30750,
+      "equity_gl": 32025,
+      "dividend_income": 1275,
       "nifty_buy_tri": 226.46,
       "nifty_sell_tri": 445.45,
       "nifty_return": 175803,
-      "alpha": -145053
+      "alpha": -143778
     },
     {
       "fy": "FY 2024-25",
@@ -7051,11 +7316,12 @@
       "sell_price": 1417,
       "invested": 36237,
       "sale_value": 32591,
-      "equity_gl": -3646,
+      "equity_gl": -3451,
+      "dividend_income": 196,
       "nifty_buy_tri": 244.41,
       "nifty_sell_tri": 445.45,
       "nifty_return": 29807,
-      "alpha": -33453
+      "alpha": -33258
     },
     {
       "fy": "FY 2024-25",
@@ -7069,11 +7335,12 @@
       "sell_price": 1417,
       "invested": 32861,
       "sale_value": 55263,
-      "equity_gl": 22402,
+      "equity_gl": 22733,
+      "dividend_income": 332,
       "nifty_buy_tri": 274.25,
       "nifty_sell_tri": 445.45,
       "nifty_return": 20514,
-      "alpha": 1888
+      "alpha": 2219
     },
     {
       "fy": "FY 2024-25",
@@ -7087,11 +7354,12 @@
       "sell_price": 1417,
       "invested": 46348,
       "sale_value": 72267,
-      "equity_gl": 25919,
+      "equity_gl": 26352,
+      "dividend_income": 434,
       "nifty_buy_tri": 271.56,
       "nifty_sell_tri": 445.45,
       "nifty_return": 29678,
-      "alpha": -3759
+      "alpha": -3326
     },
     {
       "fy": "FY 2024-25",
@@ -7105,11 +7373,12 @@
       "sell_price": 1417,
       "invested": 55704,
       "sale_value": 93522,
-      "equity_gl": 37818,
+      "equity_gl": 38379,
+      "dividend_income": 561,
       "nifty_buy_tri": 254.81,
       "nifty_sell_tri": 445.45,
       "nifty_return": 41676,
-      "alpha": -3858
+      "alpha": -3297
     },
     {
       "fy": "FY 2019-20",
@@ -7141,11 +7410,12 @@
       "sell_price": 323.66,
       "invested": 305489,
       "sale_value": 291297,
-      "equity_gl": -14192,
+      "equity_gl": -9114,
+      "option_income": 5078,
       "nifty_buy_tri": 175.34,
       "nifty_sell_tri": 177.53,
       "nifty_return": 3816,
-      "alpha": -18008
+      "alpha": -12930
     },
     {
       "fy": "FY 2019-20",
@@ -7159,11 +7429,12 @@
       "sell_price": 367.8,
       "invested": 543092,
       "sale_value": 588480,
-      "equity_gl": 45388,
+      "equity_gl": 31265,
+      "option_income": -14123,
       "nifty_buy_tri": 175.34,
       "nifty_sell_tri": 180.75,
       "nifty_return": 16757,
-      "alpha": 28631
+      "alpha": 14508
     },
     {
       "fy": "FY 2021-22",
@@ -7213,11 +7484,12 @@
       "sell_price": 1473,
       "invested": 656310,
       "sale_value": 441900,
-      "equity_gl": -214410,
+      "equity_gl": -213510,
+      "dividend_income": 900,
       "nifty_buy_tri": 234.55,
       "nifty_sell_tri": 269.36,
       "nifty_return": 97404,
-      "alpha": -311814
+      "alpha": -310914
     },
     {
       "fy": "FY 2021-22",
@@ -7231,11 +7503,12 @@
       "sell_price": 1473,
       "invested": 624000,
       "sale_value": 441900,
-      "equity_gl": -182100,
+      "equity_gl": -181200,
+      "dividend_income": 900,
       "nifty_buy_tri": 240.15,
       "nifty_sell_tri": 269.36,
       "nifty_return": 75899,
-      "alpha": -257999
+      "alpha": -257099
     },
     {
       "fy": "FY 2019-20",
@@ -7267,11 +7540,12 @@
       "sell_price": 1283.45,
       "invested": 2928,
       "sale_value": 3850,
-      "equity_gl": 922,
+      "equity_gl": 931,
+      "dividend_income": 9,
       "nifty_buy_tri": 140.52,
       "nifty_sell_tri": 114.48,
       "nifty_return": -543,
-      "alpha": 1465
+      "alpha": 1474
     },
     {
       "fy": "FY 2019-20",
@@ -7285,11 +7559,12 @@
       "sell_price": 1283.45,
       "invested": 5608,
       "sale_value": 7701,
-      "equity_gl": 2093,
+      "equity_gl": 2110,
+      "dividend_income": 18,
       "nifty_buy_tri": 143.89,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1146,
-      "alpha": 3239
+      "alpha": 3256
     },
     {
       "fy": "FY 2019-20",
@@ -7303,11 +7578,12 @@
       "sell_price": 1283.45,
       "invested": 3929,
       "sale_value": 3850,
-      "equity_gl": -78,
+      "equity_gl": -70,
+      "dividend_income": 9,
       "nifty_buy_tri": 152.15,
       "nifty_sell_tri": 114.48,
       "nifty_return": -973,
-      "alpha": 895
+      "alpha": 903
     },
     {
       "fy": "FY 2019-20",
@@ -7321,11 +7597,12 @@
       "sell_price": 1283.45,
       "invested": 2594,
       "sale_value": 2567,
-      "equity_gl": -27,
+      "equity_gl": -21,
+      "dividend_income": 6,
       "nifty_buy_tri": 147,
       "nifty_sell_tri": 114.48,
       "nifty_return": -574,
-      "alpha": 547
+      "alpha": 553
     },
     {
       "fy": "FY 2019-20",
@@ -7339,11 +7616,12 @@
       "sell_price": 1283.45,
       "invested": 2783,
       "sale_value": 2567,
-      "equity_gl": -216,
+      "equity_gl": -210,
+      "dividend_income": 6,
       "nifty_buy_tri": 149.92,
       "nifty_sell_tri": 114.48,
       "nifty_return": -658,
-      "alpha": 442
+      "alpha": 448
     },
     {
       "fy": "FY 2019-20",
@@ -7357,11 +7635,12 @@
       "sell_price": 1283.45,
       "invested": 5532,
       "sale_value": 5134,
-      "equity_gl": -399,
+      "equity_gl": -388,
+      "dividend_income": 11,
       "nifty_buy_tri": 152.59,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1382,
-      "alpha": 983
+      "alpha": 994
     },
     {
       "fy": "FY 2019-20",
@@ -7375,11 +7654,12 @@
       "sell_price": 1283.45,
       "invested": 15078,
       "sale_value": 12834,
-      "equity_gl": -2243,
+      "equity_gl": -2216,
+      "dividend_income": 27,
       "nifty_buy_tri": 155.24,
       "nifty_sell_tri": 114.48,
       "nifty_return": -3959,
-      "alpha": 1716
+      "alpha": 1743
     },
     {
       "fy": "FY 2019-20",
@@ -7393,11 +7673,12 @@
       "sell_price": 1283.45,
       "invested": 4608,
       "sale_value": 3850,
-      "equity_gl": -757,
+      "equity_gl": -749,
+      "dividend_income": 8,
       "nifty_buy_tri": 156.07,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1228,
-      "alpha": 471
+      "alpha": 479
     },
     {
       "fy": "FY 2019-20",
@@ -7411,11 +7692,12 @@
       "sell_price": 1283.45,
       "invested": 5006,
       "sale_value": 5134,
-      "equity_gl": 128,
+      "equity_gl": 133,
+      "dividend_income": 5,
       "nifty_buy_tri": 156.84,
       "nifty_sell_tri": 114.48,
       "nifty_return": -1352,
-      "alpha": 1480
+      "alpha": 1485
     },
     {
       "fy": "FY 2019-20",
@@ -7429,11 +7711,12 @@
       "sell_price": 1283.45,
       "invested": 6620,
       "sale_value": 6417,
-      "equity_gl": -203,
+      "equity_gl": -197,
+      "dividend_income": 6,
       "nifty_buy_tri": 164.57,
       "nifty_sell_tri": 114.48,
       "nifty_return": -2015,
-      "alpha": 1812
+      "alpha": 1818
     },
     {
       "fy": "FY 2018-19",
@@ -7501,11 +7784,12 @@
       "sell_price": 598.5,
       "invested": 141600,
       "sale_value": 119700,
-      "equity_gl": -21900,
+      "equity_gl": -21633,
+      "dividend_income": 267,
       "nifty_buy_tri": 274.47,
       "nifty_sell_tri": 269.36,
       "nifty_return": -2636,
-      "alpha": -19264
+      "alpha": -18997
     },
     {
       "fy": "FY 2019-20",
@@ -7537,11 +7821,12 @@
       "sell_price": 7456.65,
       "invested": 21104,
       "sale_value": 22370,
-      "equity_gl": 1266,
+      "equity_gl": 1267,
+      "dividend_income": 2,
       "nifty_buy_tri": 160.46,
       "nifty_sell_tri": 133.21,
       "nifty_return": -3584,
-      "alpha": 4850
+      "alpha": 4851
     },
     {
       "fy": "FY 2020-21",
@@ -7555,11 +7840,13 @@
       "sell_price": 462,
       "invested": 683550,
       "sale_value": 646800,
-      "equity_gl": -36750,
+      "equity_gl": 91547,
+      "dividend_income": 3500,
+      "option_income": 124797,
       "nifty_buy_tri": 155.25,
       "nifty_sell_tri": 166.52,
       "nifty_return": 49621,
-      "alpha": -86371
+      "alpha": 41926
     },
     {
       "fy": "FY 2020-21",
@@ -7573,11 +7860,13 @@
       "sell_price": 462,
       "invested": 382500,
       "sale_value": 415800,
-      "equity_gl": 33300,
+      "equity_gl": 51653,
+      "dividend_income": 2250,
+      "option_income": 16103,
       "nifty_buy_tri": 164.09,
       "nifty_sell_tri": 166.52,
       "nifty_return": 5664,
-      "alpha": 27636
+      "alpha": 45989
     },
     {
       "fy": "FY 2020-21",
@@ -7843,11 +8132,12 @@
       "sell_price": 3520,
       "invested": 1008000,
       "sale_value": 6336000,
-      "equity_gl": 5328000,
+      "equity_gl": 4096400,
+      "option_income": -1231600,
       "nifty_buy_tri": 100,
       "nifty_sell_tri": 264.23,
       "nifty_return": 1655438,
-      "alpha": 3672562
+      "alpha": 2440962
     },
     {
       "fy": "FY 2022-23",
@@ -7861,11 +8151,13 @@
       "sell_price": 2618,
       "invested": 33200,
       "sale_value": 104720,
-      "equity_gl": 71520,
+      "equity_gl": 78535,
+      "dividend_income": 6720,
+      "option_income": 295,
       "nifty_buy_tri": 100,
       "nifty_sell_tri": 267.14,
       "nifty_return": 55490,
-      "alpha": 16030
+      "alpha": 23045
     },
     {
       "fy": "FY 2024-25",
@@ -7879,11 +8171,13 @@
       "sell_price": 2403,
       "invested": 2490000,
       "sale_value": 7209000,
-      "equity_gl": 4719000,
+      "equity_gl": 5874933,
+      "dividend_income": 675000,
+      "option_income": 480933,
       "nifty_buy_tri": 100,
       "nifty_sell_tri": 401.09,
       "nifty_return": 7497141,
-      "alpha": -2778141
+      "alpha": -1622208
     },
     {
       "fy": "FY 2024-25",
@@ -7897,11 +8191,13 @@
       "sell_price": 2745,
       "invested": 2490000,
       "sale_value": 8235000,
-      "equity_gl": 5745000,
+      "equity_gl": 6815417,
+      "dividend_income": 747000,
+      "option_income": 323417,
       "nifty_buy_tri": 100,
       "nifty_sell_tri": 429.97,
       "nifty_return": 8216253,
-      "alpha": -2471253
+      "alpha": -1400836
     },
     {
       "fy": "FY 2025-26",
@@ -7915,11 +8211,13 @@
       "sell_price": 2405.07,
       "invested": 2490000,
       "sale_value": 7215219,
-      "equity_gl": 4725219,
+      "equity_gl": 7157080,
+      "dividend_income": 963000,
+      "option_income": 1468861,
       "nifty_buy_tri": 100,
       "nifty_sell_tri": 435.05,
       "nifty_return": 8342745,
-      "alpha": -3617526
+      "alpha": -1185665
     },
     {
       "fy": "FY 2024-25",
@@ -7933,11 +8231,13 @@
       "sell_price": 152.12,
       "invested": 1062500,
       "sale_value": 646499,
-      "equity_gl": -416001,
+      "equity_gl": 190075,
+      "dividend_income": 84213,
+      "option_income": 521863,
       "nifty_buy_tri": 100,
       "nifty_sell_tri": 450.42,
       "nifty_return": 3723213,
-      "alpha": -4139214
+      "alpha": -3533138
     },
     {
       "fy": "FY 2022-23",
@@ -7951,11 +8251,12 @@
       "sell_price": 90.6,
       "invested": 48000,
       "sale_value": 181200,
-      "equity_gl": 133200,
+      "equity_gl": 134010,
+      "dividend_income": 810,
       "nifty_buy_tri": 100,
       "nifty_sell_tri": 289.13,
       "nifty_return": 90782,
-      "alpha": 42418
+      "alpha": 43228
     },
     {
       "fy": "FY 2018-19",
@@ -7969,11 +8270,12 @@
       "sell_price": 294.4,
       "invested": 47300,
       "sale_value": 32384,
-      "equity_gl": -14916,
+      "equity_gl": -14757,
+      "dividend_income": 160,
       "nifty_buy_tri": 100,
       "nifty_sell_tri": 163.64,
       "nifty_return": 30102,
-      "alpha": -45018
+      "alpha": -44859
     },
     {
       "fy": "FY 2019-20",
@@ -7987,11 +8289,13 @@
       "sell_price": 2379.87,
       "invested": 94180,
       "sale_value": 80916,
-      "equity_gl": -13264,
+      "equity_gl": -15947,
+      "dividend_income": 1649,
+      "option_income": -4332,
       "nifty_buy_tri": 100,
       "nifty_sell_tri": 114.48,
       "nifty_return": 13637,
-      "alpha": -26901
+      "alpha": -29584
     },
     {
       "fy": "FY 2019-20",
@@ -8005,11 +8309,13 @@
       "sell_price": 31.17,
       "invested": 177280,
       "sale_value": 1995,
-      "equity_gl": -175285,
+      "equity_gl": -180335,
+      "dividend_income": 3104,
+      "option_income": -8154,
       "nifty_buy_tri": 100,
       "nifty_sell_tri": 114.48,
       "nifty_return": 25670,
-      "alpha": -200955
+      "alpha": -206005
     },
     {
       "fy": "FY 2024-25",
@@ -8041,11 +8347,12 @@
       "sell_price": 1900,
       "invested": 19780,
       "sale_value": 87400,
-      "equity_gl": 67620,
+      "equity_gl": 70173,
+      "dividend_income": 2553,
       "nifty_buy_tri": 100,
       "nifty_sell_tri": 281.88,
       "nifty_return": 35976,
-      "alpha": 31644
+      "alpha": 34197
     },
     {
       "fy": "FY 2019-20",
@@ -8059,11 +8366,13 @@
       "sell_price": 225.4,
       "invested": 387000,
       "sale_value": 202860,
-      "equity_gl": -184140,
+      "equity_gl": -161430,
+      "dividend_income": 2100,
+      "option_income": 20610,
       "nifty_buy_tri": 100,
       "nifty_sell_tri": 169.52,
       "nifty_return": 269042,
-      "alpha": -453182
+      "alpha": -430472
     },
     {
       "fy": "FY 2024-25",
@@ -8077,11 +8386,13 @@
       "sell_price": 2535,
       "invested": 2200000,
       "sale_value": 5070003,
-      "equity_gl": 2870003,
+      "equity_gl": 4468736,
+      "dividend_income": 79900,
+      "option_income": 1518833,
       "nifty_buy_tri": 100,
       "nifty_sell_tri": 445.45,
       "nifty_return": 7599900,
-      "alpha": -4729897
+      "alpha": -3131164
     },
     {
       "fy": "FY 2024-25",
@@ -8095,11 +8406,12 @@
       "sell_price": 1417,
       "invested": 155700,
       "sale_value": 245141,
-      "equity_gl": 89441,
+      "equity_gl": 91777,
+      "dividend_income": 2336,
       "nifty_buy_tri": 100,
       "nifty_sell_tri": 445.45,
       "nifty_return": 537866,
-      "alpha": -448425
+      "alpha": -446089
     },
     {
       "fy": "FY 2019-20",
@@ -8113,11 +8425,12 @@
       "sell_price": 1283.45,
       "invested": 34485,
       "sale_value": 42354,
-      "equity_gl": 7869,
+      "equity_gl": 7974,
+      "dividend_income": 106,
       "nifty_buy_tri": 100,
       "nifty_sell_tri": 114.48,
       "nifty_return": 4993,
-      "alpha": 2876
+      "alpha": 2981
     },
     {
       "fy": "FY 2021-22",
@@ -8131,11 +8444,12 @@
       "sell_price": 523.05,
       "invested": 145000,
       "sale_value": 261525,
-      "equity_gl": 116525,
+      "equity_gl": 124899,
+      "dividend_income": 8374,
       "nifty_buy_tri": 100,
       "nifty_sell_tri": 269.36,
       "nifty_return": 245572,
-      "alpha": -129047
+      "alpha": -120673
     }
   ],
   "open_positions": [
@@ -9137,119 +9451,778 @@
   "summary": {
     "total_trades": 452,
     "total_invested": 100391429,
-    "total_my_return": 31884548,
+    "total_my_return": 41606733,
     "total_nifty_return": 58430378,
-    "net_alpha": -26545830,
-    "win_rate": 49,
+    "net_alpha": -16823645,
+    "win_rate": 53,
     "by_fy": [
       {
         "fy": "FY 2017-18",
         "type": "Short",
         "num_trades": 41,
         "invested": 151996,
-        "my_return": -3773,
+        "my_return": -3148,
         "nifty_return": 6552,
-        "alpha": -10325
+        "alpha": -9700
       },
       {
         "fy": "FY 2018-19",
         "type": "Long",
         "num_trades": 10,
         "invested": 116447,
-        "my_return": 18158,
+        "my_return": 18596,
         "nifty_return": 33517,
-        "alpha": -15359
+        "alpha": -14921
       },
       {
         "fy": "FY 2018-19",
         "type": "Short",
         "num_trades": 41,
         "invested": 11038779,
-        "my_return": 562119,
+        "my_return": 570611,
         "nifty_return": 176066,
-        "alpha": 386053
+        "alpha": 394545
       },
       {
         "fy": "FY 2019-20",
         "type": "Long",
         "num_trades": 66,
         "invested": 1134341,
-        "my_return": -224611,
+        "my_return": -202098,
         "nifty_return": 273228,
-        "alpha": -497839
+        "alpha": -475326
       },
       {
         "fy": "FY 2019-20",
         "type": "Short",
         "num_trades": 157,
         "invested": 17554116,
-        "my_return": -1413489,
+        "my_return": -1082174,
         "nifty_return": -1446162,
-        "alpha": 32673
+        "alpha": 363988
       },
       {
         "fy": "FY 2020-21",
         "type": "Short",
         "num_trades": 50,
         "invested": 39927069,
-        "my_return": 2406876,
+        "my_return": 1753703,
         "nifty_return": 3242349,
-        "alpha": -835473
+        "alpha": -1488646
       },
       {
         "fy": "FY 2021-22",
         "type": "Long",
         "num_trades": 2,
         "invested": 164780,
-        "my_return": 184145,
+        "my_return": 195072,
         "nifty_return": 281548,
-        "alpha": -97403
+        "alpha": -86476
       },
       {
         "fy": "FY 2021-22",
         "type": "Short",
         "num_trades": 30,
         "invested": 4861353,
-        "my_return": -1074299,
+        "my_return": 127192,
         "nifty_return": 614688,
-        "alpha": -1688987
+        "alpha": -487496
       },
       {
         "fy": "FY 2022-23",
         "type": "Long",
         "num_trades": 9,
         "invested": 3077490,
-        "my_return": 6359562,
+        "my_return": 5151503,
         "nifty_return": 2325819,
-        "alpha": 4033743
+        "alpha": 2825684
       },
       {
         "fy": "FY 2022-23",
         "type": "Short",
         "num_trades": 5,
         "invested": 337668,
-        "my_return": -57966,
+        "my_return": 20024,
         "nifty_return": -27079,
-        "alpha": -30887
+        "alpha": 47103
       },
       {
         "fy": "FY 2024-25",
         "type": "Long",
         "num_trades": 40,
         "invested": 19537390,
-        "my_return": 20402607,
+        "my_return": 27900372,
         "nifty_return": 44607107,
-        "alpha": -24204500
+        "alpha": -16706735
       },
       {
         "fy": "FY 2025-26",
         "type": "Long",
         "num_trades": 1,
         "invested": 2490000,
-        "my_return": 4725219,
+        "my_return": 7157080,
         "nifty_return": 8342745,
-        "alpha": -3617526
+        "alpha": -1185665
       }
     ]
-  }
+  },
+  "dividend_summary": {
+    "total_dividend_income": 3025294,
+    "by_fy": [
+      {
+        "fy": "FY 2017-18",
+        "dividend_income": 625
+      },
+      {
+        "fy": "FY 2018-19",
+        "dividend_income": 8933
+      },
+      {
+        "fy": "FY 2019-20",
+        "dividend_income": 49222
+      },
+      {
+        "fy": "FY 2020-21",
+        "dividend_income": 226203
+      },
+      {
+        "fy": "FY 2021-22",
+        "dividend_income": 28604
+      },
+      {
+        "fy": "FY 2022-23",
+        "dividend_income": 23245
+      },
+      {
+        "fy": "FY 2024-25",
+        "dividend_income": 1725462
+      },
+      {
+        "fy": "FY 2025-26",
+        "dividend_income": 963000
+      }
+    ]
+  },
+  "fno_summary": {
+    "total_option_income": 6696903,
+    "unattributed": 9942999,
+    "by_fy": [
+      {
+        "fy": "FY 2019-20",
+        "option_income": 304613
+      },
+      {
+        "fy": "FY 2020-21",
+        "option_income": -879376
+      },
+      {
+        "fy": "FY 2021-22",
+        "option_income": 1183814
+      },
+      {
+        "fy": "FY 2022-23",
+        "option_income": -1153315
+      },
+      {
+        "fy": "FY 2024-25",
+        "option_income": 5772306
+      },
+      {
+        "fy": "FY 2025-26",
+        "option_income": 1468861
+      }
+    ]
+  },
+  "unattributed_fno": [
+    {
+      "underlying": "ACC",
+      "net_pnl": -431250,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "ADANIENT",
+      "net_pnl": 44745,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "ADANIPORTS",
+      "net_pnl": 84500,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "AMBUJACEM",
+      "net_pnl": -83385,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "APLAPOLLO",
+      "net_pnl": 82618,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "APOLLOHOSP",
+      "net_pnl": -7341,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "APOLLOTYRE",
+      "net_pnl": -109310,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "ASHOKLEY",
+      "net_pnl": 156750,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "ASIANPAINT",
+      "net_pnl": 139723,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "AXISBANK",
+      "net_pnl": 413771,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "BAJAJ-AUTO",
+      "net_pnl": 581457,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "BAJAJFINSV",
+      "net_pnl": 211575,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "BAJFINANCE",
+      "net_pnl": 517727,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "BANKBARODA",
+      "net_pnl": 601236,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "BANKNIFTY",
+      "net_pnl": -1609484,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "BATAINDIA",
+      "net_pnl": -35200,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "BEL",
+      "net_pnl": 3420,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "BHARTIARTL",
+      "net_pnl": 162428,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "BHEL",
+      "net_pnl": 150150,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "BIOCON",
+      "net_pnl": 592820,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "BOSCHLTD",
+      "net_pnl": 25263,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "BPCL",
+      "net_pnl": 50400,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "BRITANNIA",
+      "net_pnl": 56261,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "CADILAHC",
+      "net_pnl": 96910,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "CIPLA",
+      "net_pnl": -128624,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "COALINDIA",
+      "net_pnl": -178859,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "COFORGE",
+      "net_pnl": 46443,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "COLPAL",
+      "net_pnl": -656,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "CROMPTON",
+      "net_pnl": 29100,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "CUMMINSIND",
+      "net_pnl": 100350,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "DABUR",
+      "net_pnl": 19625,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "DIVISLAB",
+      "net_pnl": 206670,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "DIXON",
+      "net_pnl": -3640376,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "DLF",
+      "net_pnl": -4351669,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "DRREDDY",
+      "net_pnl": 150031,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "EICHERMOT",
+      "net_pnl": 676082,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "ETERNAL",
+      "net_pnl": 15035,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "FORTIS",
+      "net_pnl": -61147,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "FSL",
+      "net_pnl": 35100,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "GAIL",
+      "net_pnl": 409920,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "GLENMARK",
+      "net_pnl": -1550436,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "GODREJCP",
+      "net_pnl": 513575,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "GRASIM",
+      "net_pnl": 352703,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "HAL",
+      "net_pnl": 332739,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "HAVELLS",
+      "net_pnl": -211950,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "HCLTECH",
+      "net_pnl": -124810,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "HDFC",
+      "net_pnl": -66900,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "HDFCBANK",
+      "net_pnl": -516257,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "HDFCLIFE",
+      "net_pnl": 67100,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "HEROMOTOCO",
+      "net_pnl": 460890,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "HINDALCO",
+      "net_pnl": 737906,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "HINDPETRO",
+      "net_pnl": 40500,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "HINDUNILVR",
+      "net_pnl": 210630,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "ICICIBANK",
+      "net_pnl": -222580,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "IDFCFIRSTB",
+      "net_pnl": 21982,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "INDHOTEL",
+      "net_pnl": 6000,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "INDIACEM",
+      "net_pnl": 82070,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "INDIGO",
+      "net_pnl": 197079,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "INDUSINDBK",
+      "net_pnl": 976832,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "INFY",
+      "net_pnl": 891375,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "IOC",
+      "net_pnl": 344094,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "ITC",
+      "net_pnl": -230560,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "JSWSTEEL",
+      "net_pnl": 347828,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "JUBLFOOD",
+      "net_pnl": -32875,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "KFINTECH",
+      "net_pnl": 9600,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "KOTAKBANK",
+      "net_pnl": 277260,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "LT",
+      "net_pnl": 82214,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "LTIM",
+      "net_pnl": 47302,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "LTTS",
+      "net_pnl": 116000,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "LUPIN",
+      "net_pnl": 407681,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "M\u0026M",
+      "net_pnl": 845754,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "M\u0026MFIN",
+      "net_pnl": 249788,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "MARICO",
+      "net_pnl": 207540,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "MARUTI",
+      "net_pnl": -238255,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "MAXHEALTH",
+      "net_pnl": -39060,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "MINDTREE",
+      "net_pnl": 50440,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "MOTHERSON",
+      "net_pnl": 255980,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "MPHASIS",
+      "net_pnl": 447425,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "MUTHOOTFIN",
+      "net_pnl": 117851,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "NAUKRI",
+      "net_pnl": 392073,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "NESTLEIND",
+      "net_pnl": 192098,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "NIFTY",
+      "net_pnl": -606198,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "NTPC",
+      "net_pnl": 683775,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "OFSS",
+      "net_pnl": 88900,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "ONGC",
+      "net_pnl": 157356,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "PAGEIND",
+      "net_pnl": 39150,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "PETRONET",
+      "net_pnl": 195750,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "PFC",
+      "net_pnl": 223080,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "PIDILITIND",
+      "net_pnl": 233113,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "PNB",
+      "net_pnl": -533600,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "POWERGRID",
+      "net_pnl": 415890,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "PVR",
+      "net_pnl": 166626,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "RBLBANK",
+      "net_pnl": 17146,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "RECLTD",
+      "net_pnl": 549350,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "RELIANCE",
+      "net_pnl": 381172,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "SBICARD",
+      "net_pnl": 55080,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "SBILIFE",
+      "net_pnl": -101699,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "SBIN",
+      "net_pnl": 448200,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "SHREECEM",
+      "net_pnl": 84051,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "SHRIRAMFIN",
+      "net_pnl": 424173,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "SIEMENS",
+      "net_pnl": 190150,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "SRF",
+      "net_pnl": 332702,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "SUNPHARMA",
+      "net_pnl": 125003,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "TATACHEM",
+      "net_pnl": 306983,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "TATACONSUM",
+      "net_pnl": 19655,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "TATAMOTORS",
+      "net_pnl": 371746,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "TATAPOWER",
+      "net_pnl": 334295,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "TATASTEEL",
+      "net_pnl": 55825,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "TCS",
+      "net_pnl": -62179,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "TECHM",
+      "net_pnl": 638310,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "TITAN",
+      "net_pnl": 118125,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "TRENT",
+      "net_pnl": 964120,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "TVSMOTOR",
+      "net_pnl": -88550,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "UPL",
+      "net_pnl": -279045,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "VEDL",
+      "net_pnl": 255114,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "WIPRO",
+      "net_pnl": 293525,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "ZEEL",
+      "net_pnl": 1839600,
+      "note": "No equity position to attribute to"
+    },
+    {
+      "underlying": "ZYDUSLIFE",
+      "net_pnl": 534870,
+      "note": "No equity position to attribute to"
+    }
+  ]
 }
