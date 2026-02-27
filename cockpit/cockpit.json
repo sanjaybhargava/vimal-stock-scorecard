@@ -1,28 +1,28 @@
 {
   "report_date": "2026-02-23",
   "portfolio": {
-    "total_invested": 63337440,
-    "total_current": 114710466,
+    "total_invested": 63337442,
+    "total_current": 114826873,
     "by_class": {
-      "stock": {
-        "invested": 52309756,
-        "current": 102023916,
-        "count": 28
+      "active_mf": {
+        "invested": 594552,
+        "current": 521600,
+        "count": 1
       },
       "gold_etf": {
         "invested": 1650341,
         "current": 3176550,
         "count": 1
       },
-      "active_mf": {
-        "invested": 594552,
-        "current": 580000,
-        "count": 1
-      },
       "index_mf": {
         "invested": 8782791,
-        "current": 8930000,
+        "current": 9104800,
         "count": 1
+      },
+      "stock": {
+        "invested": 52309758,
+        "current": 102023923,
+        "count": 28
       }
     }
   },
@@ -38,7 +38,7 @@
         "invested": 2504589,
         "current": 11091007,
         "nifty": 6478901,
-        "option_income": 122916,
+        "option_income": 122919,
         "lots": [
           {
             "buy_date": "2020-09-17",
@@ -55,7 +55,7 @@
             "days_held": 1985,
             "years_held": 5.43,
             "too_early": false,
-            "option_income": 26634
+            "option_income": 26636
           },
           {
             "buy_date": "2020-10-16",
@@ -64,7 +64,7 @@
             "invested": 741326,
             "current_price": 1997.3,
             "current_value": 3697002,
-            "nifty_buy_tri": 174.0,
+            "nifty_buy_tri": 174,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 1909042,
             "nifty_cagr": 19.32,
@@ -72,12 +72,12 @@
             "days_held": 1956,
             "years_held": 5.36,
             "too_early": false,
-            "option_income": 96282
+            "option_income": 96283
           }
         ],
         "deep_dive": false,
         "asset_class": "stock",
-        "surplus": 3805465
+        "surplus": 3805468
       },
       {
         "name": "Nippon Gold ETF",
@@ -96,7 +96,7 @@
             "quantity": 7403,
             "buy_price": 67.54,
             "invested": 499999,
-            "current_price": 130.0,
+            "current_price": 130,
             "current_value": 962390,
             "nifty_buy_tri": 394.76,
             "nifty_report_tri": 448.08,
@@ -113,7 +113,7 @@
             "quantity": 1,
             "buy_price": 67.54,
             "invested": 68,
-            "current_price": 130.0,
+            "current_price": 130,
             "current_value": 130,
             "nifty_buy_tri": 395.02,
             "nifty_report_tri": 448.08,
@@ -130,7 +130,7 @@
             "quantity": 17030,
             "buy_price": 67.54,
             "invested": 1150206,
-            "current_price": 130.0,
+            "current_price": 130,
             "current_value": 2213900,
             "nifty_buy_tri": 395.02,
             "nifty_report_tri": 448.08,
@@ -147,7 +147,7 @@
             "quantity": 1,
             "buy_price": 67.92,
             "invested": 68,
-            "current_price": 130.0,
+            "current_price": 130,
             "current_value": 130,
             "nifty_buy_tri": 402.08,
             "nifty_report_tri": 448.08,
@@ -168,13 +168,13 @@
         "name": "Muthoot Finance",
         "symbol": "MUTHOOTFIN",
         "cagr": 27.2,
-        "niftyCagr": 20.0,
-        "hurdle": 23.0,
+        "niftyCagr": 20,
+        "hurdle": 23,
         "hurdlePct": 3,
         "invested": 769198,
         "current": 2604900,
         "nifty": 2068256,
-        "option_income": -1163,
+        "option_income": -1153,
         "lots": [
           {
             "buy_date": "2020-09-22",
@@ -191,12 +191,12 @@
             "days_held": 1980,
             "years_held": 5.42,
             "too_early": false,
-            "option_income": -6755
+            "option_income": -6745
           },
           {
             "buy_date": "2020-09-30",
             "quantity": 37,
-            "buy_price": 1130.0,
+            "buy_price": 1130,
             "invested": 41810,
             "current_price": 3473.2,
             "current_value": 128508,
@@ -213,7 +213,7 @@
         ],
         "deep_dive": false,
         "asset_class": "stock",
-        "surplus": 240081
+        "surplus": 240091
       },
       {
         "name": "Apollo Hospitals",
@@ -225,14 +225,14 @@
         "invested": 1123356,
         "current": 1923250,
         "nifty": 1584260,
-        "option_income": -8817,
+        "option_income": -8815,
         "lots": [
           {
             "buy_date": "2020-08-31",
             "quantity": 17,
             "buy_price": 1641.6,
             "invested": 27907,
-            "current_price": 7693.0,
+            "current_price": 7693,
             "current_value": 130781,
             "nifty_buy_tri": 169.3,
             "nifty_report_tri": 448.08,
@@ -249,7 +249,7 @@
             "quantity": 17,
             "buy_price": 1790.15,
             "invested": 30433,
-            "current_price": 7693.0,
+            "current_price": 7693,
             "current_value": 130781,
             "nifty_buy_tri": 166.52,
             "nifty_report_tri": 448.08,
@@ -259,14 +259,14 @@
             "days_held": 1980,
             "years_held": 5.42,
             "too_early": false,
-            "option_income": -70251
+            "option_income": -70250
           },
           {
             "buy_date": "2020-11-10",
             "quantity": 17,
             "buy_price": 2019.2,
             "invested": 34326,
-            "current_price": 7693.0,
+            "current_price": 7693,
             "current_value": 130781,
             "nifty_buy_tri": 185.9,
             "nifty_report_tri": 448.08,
@@ -283,7 +283,7 @@
             "quantity": 15,
             "buy_price": 2425.2,
             "invested": 36378,
-            "current_price": 7693.0,
+            "current_price": 7693,
             "current_value": 115395,
             "nifty_buy_tri": 213.1,
             "nifty_report_tri": 448.08,
@@ -300,7 +300,7 @@
             "quantity": 14,
             "buy_price": 2612.5,
             "invested": 36575,
-            "current_price": 7693.0,
+            "current_price": 7693,
             "current_value": 107702,
             "nifty_buy_tri": 207.27,
             "nifty_report_tri": 448.08,
@@ -317,7 +317,7 @@
             "quantity": 13,
             "buy_price": 2928.62,
             "invested": 38072,
-            "current_price": 7693.0,
+            "current_price": 7693,
             "current_value": 100009,
             "nifty_buy_tri": 226.97,
             "nifty_report_tri": 448.08,
@@ -334,7 +334,7 @@
             "quantity": 14,
             "buy_price": 3275.05,
             "invested": 45851,
-            "current_price": 7693.0,
+            "current_price": 7693,
             "current_value": 107702,
             "nifty_buy_tri": 244.41,
             "nifty_report_tri": 448.08,
@@ -351,7 +351,7 @@
             "quantity": 12,
             "buy_price": 4477.87,
             "invested": 53734,
-            "current_price": 7693.0,
+            "current_price": 7693,
             "current_value": 92316,
             "nifty_buy_tri": 274.25,
             "nifty_report_tri": 448.08,
@@ -366,9 +366,9 @@
           {
             "buy_date": "2022-01-25",
             "quantity": 16,
-            "buy_price": 4440.0,
+            "buy_price": 4440,
             "invested": 71040,
-            "current_price": 7693.0,
+            "current_price": 7693,
             "current_value": 123088,
             "nifty_buy_tri": 271.56,
             "nifty_report_tri": 448.08,
@@ -378,14 +378,14 @@
             "days_held": 1490,
             "years_held": 4.08,
             "too_early": false,
-            "option_income": 26029
+            "option_income": 26030
           },
           {
             "buy_date": "2022-03-04",
             "quantity": 21,
             "buy_price": 4786.9,
             "invested": 100525,
-            "current_price": 7693.0,
+            "current_price": 7693,
             "current_value": 161553,
             "nifty_buy_tri": 254.81,
             "nifty_report_tri": 448.08,
@@ -402,7 +402,7 @@
             "quantity": 94,
             "buy_price": 6899.1,
             "invested": 648515,
-            "current_price": 7693.0,
+            "current_price": 7693,
             "current_value": 723142,
             "nifty_buy_tri": 447.6,
             "nifty_report_tri": 448.08,
@@ -417,7 +417,7 @@
         ],
         "deep_dive": false,
         "asset_class": "stock",
-        "surplus": 182731
+        "surplus": 182733
       },
       {
         "name": "Hindustan Aeronautics",
@@ -429,7 +429,7 @@
         "invested": 1319130,
         "current": 1207620,
         "nifty": 1315138,
-        "option_income": 329948,
+        "option_income": 329949,
         "lots": [
           {
             "buy_date": "2024-09-19",
@@ -446,12 +446,12 @@
             "days_held": 522,
             "years_held": 1.43,
             "too_early": false,
-            "option_income": 329948
+            "option_income": 329949
           }
         ],
         "deep_dive": false,
         "asset_class": "stock",
-        "surplus": 165495
+        "surplus": 165496
       },
       {
         "name": "Thermax",
@@ -650,14 +650,14 @@
         "invested": 1022595,
         "current": 894600,
         "nifty": 1019501,
-        "option_income": 219809,
+        "option_income": 219811,
         "lots": [
           {
             "buy_date": "2024-09-19",
             "quantity": 2100,
             "buy_price": 486.95,
             "invested": 1022595,
-            "current_price": 426.0,
+            "current_price": 426,
             "current_value": 894600,
             "nifty_buy_tri": 449.44,
             "nifty_report_tri": 448.08,
@@ -667,14 +667,14 @@
             "days_held": 522,
             "years_held": 1.43,
             "too_early": false,
-            "option_income": 219809
+            "option_income": 219811
           },
           {
             "buy_date": "2026-01-28",
             "quantity": 600,
-            "buy_price": 439.0,
+            "buy_price": 439,
             "invested": 263400,
-            "current_price": 426.0,
+            "current_price": 426,
             "current_value": 255600,
             "nifty_buy_tri": 440.06,
             "nifty_report_tri": 448.08,
@@ -689,7 +689,7 @@
         ],
         "deep_dive": false,
         "asset_class": "stock",
-        "surplus": 50772
+        "surplus": 50774
       }
     ],
     "fail": [
@@ -708,7 +708,7 @@
           {
             "buy_date": "2016-02-26",
             "quantity": 25400,
-            "buy_price": 830.0,
+            "buy_price": 830,
             "invested": 21082000,
             "current_price": 2345.4,
             "current_value": 59573160,
@@ -730,32 +730,32 @@
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockCagr": 31.3,
               "niftyCagr": 31.4,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": 17.0,
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
+              "stockCagr": 17,
               "niftyCagr": -17.5,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockCagr": 10.4,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockCagr": -12.8,
               "niftyCagr": -1.5,
               "listed": true
@@ -764,32 +764,32 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockDD": 17.3,
               "niftyDD": 11.9,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockDD": 19.8,
               "niftyDD": 38.1,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockDD": 30.9,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockDD": 26.2,
               "niftyDD": 17.8,
               "listed": true
@@ -799,7 +799,7 @@
             "name": "Hindustan Unilever",
             "shares": 25400,
             "price": 2345.4,
-            "costPerShare": 830.0,
+            "costPerShare": 830,
             "taxRate": 14.95
           },
           "terminal": {
@@ -807,7 +807,7 @@
             "ticker": "HINDUNILVR",
             "totalShares": 25400,
             "price": 2345.4,
-            "costPerShare": 830.0,
+            "costPerShare": 830,
             "taxRate": 14.95,
             "niftyCagr": 16.2,
             "hcCagr": 25,
@@ -827,14 +827,14 @@
         "invested": 4011222,
         "current": 2856000,
         "nifty": 9782412,
-        "option_income": 485625,
+        "option_income": 485629,
         "lots": [
           {
             "buy_date": "2020-10-27",
             "quantity": 1470,
             "buy_price": 2009.88,
             "invested": 2954524,
-            "current_price": 1428.0,
+            "current_price": 1428,
             "current_value": 2099160,
             "nifty_buy_tri": 176.32,
             "nifty_report_tri": 448.08,
@@ -844,14 +844,14 @@
             "days_held": 1945,
             "years_held": 5.33,
             "too_early": false,
-            "option_income": 420762
+            "option_income": 420765
           },
           {
             "buy_date": "2020-11-10",
             "quantity": 13,
             "buy_price": 2067.5,
             "invested": 26878,
-            "current_price": 1428.0,
+            "current_price": 1428,
             "current_value": 18564,
             "nifty_buy_tri": 185.9,
             "nifty_report_tri": 448.08,
@@ -866,9 +866,9 @@
           {
             "buy_date": "2020-12-30",
             "quantity": 485,
-            "buy_price": 1992.0,
+            "buy_price": 1992,
             "invested": 966120,
-            "current_price": 1428.0,
+            "current_price": 1428,
             "current_value": 692580,
             "nifty_buy_tri": 208.44,
             "nifty_report_tri": 448.08,
@@ -878,14 +878,14 @@
             "days_held": 1881,
             "years_held": 5.15,
             "too_early": false,
-            "option_income": 56611
+            "option_income": 56612
           },
           {
             "buy_date": "2021-01-05",
             "quantity": 11,
             "buy_price": 1973.35,
             "invested": 21707,
-            "current_price": 1428.0,
+            "current_price": 1428,
             "current_value": 15708,
             "nifty_buy_tri": 213.1,
             "nifty_report_tri": 448.08,
@@ -902,7 +902,7 @@
             "quantity": 11,
             "buy_price": 1905.05,
             "invested": 20956,
-            "current_price": 1428.0,
+            "current_price": 1428,
             "current_value": 15708,
             "nifty_buy_tri": 207.27,
             "nifty_report_tri": 448.08,
@@ -919,7 +919,7 @@
             "quantity": 10,
             "buy_price": 2103.7,
             "invested": 21037,
-            "current_price": 1428.0,
+            "current_price": 1428,
             "current_value": 14280,
             "nifty_buy_tri": 226.97,
             "nifty_report_tri": 448.08,
@@ -934,37 +934,37 @@
         ],
         "deep_dive": true,
         "asset_class": "stock",
-        "deficit": 7830701,
+        "deficit": 7830697,
         "cards": {
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockCagr": 45.2,
               "niftyCagr": 31.4,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockCagr": -2.4,
               "niftyCagr": -17.5,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockCagr": 31.8,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockCagr": -1.5,
               "niftyCagr": -1.5,
               "listed": true
@@ -973,32 +973,32 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockDD": 12.8,
               "niftyDD": 11.9,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockDD": 45.1,
               "niftyDD": 38.1,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockDD": 21.9,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockDD": 20.7,
               "niftyDD": 17.8,
               "listed": true
@@ -1007,7 +1007,7 @@
           "redeployment": {
             "name": "Reliance Industries",
             "shares": 2000,
-            "price": 1428.0,
+            "price": 1428,
             "costPerShare": 2005.61,
             "taxRate": 14.95
           },
@@ -1015,7 +1015,7 @@
             "name": "Reliance Industries",
             "ticker": "RELIANCE",
             "totalShares": 2000,
-            "price": 1428.0,
+            "price": 1428,
             "costPerShare": 2005.61,
             "taxRate": 14.95,
             "niftyCagr": 16.2,
@@ -1033,10 +1033,10 @@
         "niftyCagr": 19.5,
         "hurdle": 22.5,
         "hurdlePct": 3,
-        "invested": 3157870,
-        "current": 5002083,
-        "nifty": 8584943,
-        "option_income": 500444,
+        "invested": 3157871,
+        "current": 5002085,
+        "nifty": 8584945,
+        "option_income": 500446,
         "lots": [
           {
             "buy_date": "2018-09-26",
@@ -1044,7 +1044,7 @@
             "buy_price": 5662.35,
             "invested": 96260,
             "current_price": 6122.5,
-            "current_value": 104082,
+            "current_value": 104083,
             "nifty_buy_tri": 164.44,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 262297,
@@ -1070,15 +1070,15 @@
             "days_held": 2042,
             "years_held": 5.59,
             "too_early": false,
-            "option_income": 418774
+            "option_income": 418776
           },
           {
             "buy_date": "2020-08-13",
             "quantity": 97,
-            "buy_price": 3848.0,
+            "buy_price": 3848,
             "invested": 373256,
             "current_price": 6122.5,
-            "current_value": 593882,
+            "current_value": 593883,
             "nifty_buy_tri": 168.08,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 995053,
@@ -1160,7 +1160,7 @@
           {
             "buy_date": "2021-01-28",
             "quantity": 6,
-            "buy_price": 3646.0,
+            "buy_price": 3646,
             "invested": 21876,
             "current_price": 6122.5,
             "current_value": 36735,
@@ -1178,12 +1178,12 @@
             "buy_date": "2021-03-15",
             "quantity": 6,
             "buy_price": 3403.75,
-            "invested": 20422,
+            "invested": 20423,
             "current_price": 6122.5,
             "current_value": 36735,
             "nifty_buy_tri": 226.97,
             "nifty_report_tri": 448.08,
-            "shadow_nifty": 40317,
+            "shadow_nifty": 40319,
             "nifty_cagr": 14.75,
             "stock_cagr": 14.42,
             "days_held": 1806,
@@ -1194,37 +1194,37 @@
         ],
         "deep_dive": true,
         "asset_class": "stock",
-        "deficit": 4366128,
+        "deficit": 4366126,
         "cards": {
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockCagr": 32.5,
               "niftyCagr": 31.4,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockCagr": -4.3,
               "niftyCagr": -17.5,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockCagr": 27.1,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockCagr": -2.7,
               "niftyCagr": -1.5,
               "listed": true
@@ -1233,33 +1233,33 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockDD": 20.7,
               "niftyDD": 11.9,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
-              "stockDD": 38.0,
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
+              "stockDD": 38,
               "niftyDD": 38.1,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
-              "stockDD": 25.0,
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
+              "stockDD": 25,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
-              "stockDD": 29.0,
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
+              "stockDD": 29,
               "niftyDD": 17.8,
               "listed": true
             }
@@ -1301,7 +1301,7 @@
           {
             "buy_date": "2020-12-10",
             "quantity": 50,
-            "buy_price": 3660.0,
+            "buy_price": 3660,
             "invested": 183000,
             "current_price": 1509.6,
             "current_value": 75480,
@@ -1318,7 +1318,7 @@
           {
             "buy_date": "2020-12-18",
             "quantity": 100,
-            "buy_price": 3810.0,
+            "buy_price": 3810,
             "invested": 381000,
             "current_price": 1509.6,
             "current_value": 150960,
@@ -1335,7 +1335,7 @@
           {
             "buy_date": "2021-05-11",
             "quantity": 100,
-            "buy_price": 5250.0,
+            "buy_price": 5250,
             "invested": 525000,
             "current_price": 1509.6,
             "current_value": 150960,
@@ -1352,7 +1352,7 @@
           {
             "buy_date": "2021-06-30",
             "quantity": 200,
-            "buy_price": 4400.0,
+            "buy_price": 4400,
             "invested": 880000,
             "current_price": 1509.6,
             "current_value": 301920,
@@ -1374,33 +1374,33 @@
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockCagr": 0,
               "niftyCagr": 0,
               "listed": false
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockCagr": 0,
               "niftyCagr": -17.5,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockCagr": 57.1,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": -4.0,
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
+              "stockCagr": -4,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -1408,32 +1408,32 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockDD": 0,
               "niftyDD": 0,
               "listed": false
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockDD": 52.2,
               "niftyDD": 38.1,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockDD": 39.9,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockDD": 30.8,
               "niftyDD": 17.8,
               "listed": true
@@ -1464,83 +1464,83 @@
       {
         "name": "Dixon Technologies",
         "symbol": "DIXON",
-        "cagr": -100.0,
+        "cagr": -100,
         "niftyCagr": 15.2,
         "hurdle": 18.2,
         "hurdlePct": 3,
         "invested": 804000,
         "current": 2119800,
         "nifty": 1589076,
-        "option_income": -3683296,
+        "option_income": -3683288,
         "lots": [
           {
             "buy_date": "2021-05-05",
             "quantity": 100,
-            "buy_price": 4090.0,
+            "buy_price": 4090,
             "invested": 409000,
-            "current_price": 10599.0,
+            "current_price": 10599,
             "current_value": 1059900,
             "nifty_buy_tri": 225.38,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 813137,
             "nifty_cagr": 15.37,
-            "stock_cagr": -100.0,
+            "stock_cagr": -100,
             "days_held": 1755,
             "years_held": 4.8,
             "too_early": false,
-            "option_income": -1841648
+            "option_income": -1841644
           },
           {
             "buy_date": "2021-05-07",
             "quantity": 100,
-            "buy_price": 3950.0,
+            "buy_price": 3950,
             "invested": 395000,
-            "current_price": 10599.0,
+            "current_price": 10599,
             "current_value": 1059900,
             "nifty_buy_tri": 228.1,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 775939,
             "nifty_cagr": 15.11,
-            "stock_cagr": -100.0,
+            "stock_cagr": -100,
             "days_held": 1753,
             "years_held": 4.8,
             "too_early": false,
-            "option_income": -1841648
+            "option_income": -1841644
           }
         ],
         "deep_dive": true,
         "asset_class": "stock",
-        "deficit": 3360587,
+        "deficit": 3360579,
         "cards": {
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockCagr": 0,
               "niftyCagr": 31.4,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockCagr": -7.7,
               "niftyCagr": -17.5,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockCagr": 97.6,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockCagr": -18.9,
               "niftyCagr": -1.5,
               "listed": true
@@ -1549,32 +1549,32 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockDD": 17.1,
               "niftyDD": 11.9,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockDD": 51.4,
               "niftyDD": 38.1,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
-              "stockDD": 54.0,
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
+              "stockDD": 54,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockDD": 46.2,
               "niftyDD": 17.8,
               "listed": true
@@ -1583,16 +1583,16 @@
           "redeployment": {
             "name": "Dixon Technologies",
             "shares": 200,
-            "price": 10599.0,
-            "costPerShare": 4020.0,
+            "price": 10599,
+            "costPerShare": 4020,
             "taxRate": 14.95
           },
           "terminal": {
             "name": "Dixon Technologies",
             "ticker": "DIXON",
             "totalShares": 200,
-            "price": 10599.0,
-            "costPerShare": 4020.0,
+            "price": 10599,
+            "costPerShare": 4020,
             "taxRate": 14.95,
             "niftyCagr": 16.2,
             "hcCagr": 25,
@@ -1634,7 +1634,7 @@
           {
             "buy_date": "2020-11-24",
             "quantity": 644,
-            "buy_price": 889.0,
+            "buy_price": 889,
             "invested": 572516,
             "current_price": 488.6,
             "current_value": 314658,
@@ -1651,7 +1651,7 @@
           {
             "buy_date": "2021-05-27",
             "quantity": 200,
-            "buy_price": 2268.0,
+            "buy_price": 2268,
             "invested": 453600,
             "current_price": 488.6,
             "current_value": 97720,
@@ -1673,32 +1673,32 @@
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockCagr": 0,
               "niftyCagr": 0,
               "listed": false
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockCagr": 0,
               "niftyCagr": 0,
               "listed": false
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockCagr": 0,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockCagr": -19.2,
               "niftyCagr": -1.5,
               "listed": true
@@ -1707,32 +1707,32 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockDD": 0,
               "niftyDD": 0,
               "listed": false
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockDD": 0,
               "niftyDD": 0,
               "listed": false
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
-              "stockDD": 35.0,
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
+              "stockDD": 35,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockDD": 32.2,
               "niftyDD": 17.8,
               "listed": true
@@ -1770,14 +1770,14 @@
         "invested": 898500,
         "current": 740500,
         "nifty": 1893964,
-        "option_income": 231614,
+        "option_income": 231613,
         "lots": [
           {
             "buy_date": "2021-01-06",
             "quantity": 500,
-            "buy_price": 1797.0,
+            "buy_price": 1797,
             "invested": 898500,
-            "current_price": 1481.0,
+            "current_price": 1481,
             "current_value": 740500,
             "nifty_buy_tri": 212.57,
             "nifty_report_tri": 448.08,
@@ -1787,42 +1787,42 @@
             "days_held": 1874,
             "years_held": 5.13,
             "too_early": false,
-            "option_income": 231614
+            "option_income": 231613
           }
         ],
         "deep_dive": true,
         "asset_class": "stock",
-        "deficit": 1187240,
+        "deficit": 1187241,
         "cards": {
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockCagr": 23.3,
               "niftyCagr": 31.4,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockCagr": 18.4,
               "niftyCagr": -17.5,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockCagr": 24.4,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockCagr": -7.8,
               "niftyCagr": -1.5,
               "listed": true
@@ -1831,32 +1831,32 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockDD": 23.5,
               "niftyDD": 11.9,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockDD": 25.2,
               "niftyDD": 38.1,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockDD": 27.3,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockDD": 20.4,
               "niftyDD": 17.8,
               "listed": true
@@ -1865,16 +1865,16 @@
           "redeployment": {
             "name": "Pidilite Industries",
             "shares": 500,
-            "price": 1481.0,
-            "costPerShare": 1797.0,
+            "price": 1481,
+            "costPerShare": 1797,
             "taxRate": 14.95
           },
           "terminal": {
             "name": "Pidilite Industries",
             "ticker": "PIDILITIND",
             "totalShares": 500,
-            "price": 1481.0,
-            "costPerShare": 1797.0,
+            "price": 1481,
+            "costPerShare": 1797,
             "taxRate": 14.95,
             "niftyCagr": 16.2,
             "hcCagr": 25,
@@ -1899,7 +1899,7 @@
           {
             "buy_date": "2021-05-21",
             "quantity": 2000,
-            "buy_price": 353.0,
+            "buy_price": 353,
             "invested": 706000,
             "current_price": 309.35,
             "current_value": 618700,
@@ -1921,32 +1921,32 @@
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockCagr": 20.4,
               "niftyCagr": 31.4,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockCagr": -28.3,
               "niftyCagr": -17.5,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockCagr": 90.9,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockCagr": -47.9,
               "niftyCagr": -1.5,
               "listed": true
@@ -1955,32 +1955,32 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockDD": 34.9,
               "niftyDD": 11.9,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockDD": 70.8,
               "niftyDD": 38.1,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockDD": 33.3,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockDD": 67.3,
               "niftyDD": 17.8,
               "listed": true
@@ -1990,7 +1990,7 @@
             "name": "Praj Industries",
             "shares": 2000,
             "price": 309.35,
-            "costPerShare": 353.0,
+            "costPerShare": 353,
             "taxRate": 14.95
           },
           "terminal": {
@@ -1998,7 +1998,7 @@
             "ticker": "PRAJIND",
             "totalShares": 2000,
             "price": 309.35,
-            "costPerShare": 353.0,
+            "costPerShare": 353,
             "taxRate": 14.95,
             "niftyCagr": 16.2,
             "hcCagr": 25,
@@ -2023,7 +2023,7 @@
           {
             "buy_date": "2021-03-26",
             "quantity": 100,
-            "buy_price": 3804.0,
+            "buy_price": 3804,
             "invested": 380400,
             "current_price": 234.54,
             "current_value": 23454,
@@ -2045,32 +2045,32 @@
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockCagr": 45.1,
               "niftyCagr": 31.4,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockCagr": -6.4,
               "niftyCagr": -17.5,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockCagr": 24.7,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockCagr": -14.9,
               "niftyCagr": -1.5,
               "listed": true
@@ -2079,32 +2079,32 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockDD": 35.7,
               "niftyDD": 11.9,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockDD": 48.1,
               "niftyDD": 38.1,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockDD": 72.8,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockDD": 39.3,
               "niftyDD": 17.8,
               "listed": true
@@ -2114,7 +2114,7 @@
             "name": "Vaibhav Global",
             "shares": 100,
             "price": 234.54,
-            "costPerShare": 3804.0,
+            "costPerShare": 3804,
             "taxRate": 14.95
           },
           "terminal": {
@@ -2122,7 +2122,7 @@
             "ticker": "VAIBHAVGBL",
             "totalShares": 100,
             "price": 234.54,
-            "costPerShare": 3804.0,
+            "costPerShare": 3804,
             "taxRate": 14.95,
             "niftyCagr": 16.2,
             "hcCagr": 25,
@@ -2169,32 +2169,32 @@
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockCagr": 40.4,
               "niftyCagr": 31.4,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockCagr": -1.5,
               "niftyCagr": -17.5,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockCagr": 37.4,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockCagr": -21.5,
               "niftyCagr": -1.5,
               "listed": true
@@ -2203,32 +2203,32 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockDD": 31.2,
               "niftyDD": 11.9,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockDD": 37.2,
               "niftyDD": 38.1,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockDD": 27.4,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockDD": 36.3,
               "niftyDD": 17.8,
               "listed": true
@@ -2293,33 +2293,33 @@
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockCagr": 79.6,
               "niftyCagr": 31.4,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockCagr": -34.4,
               "niftyCagr": -17.5,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockCagr": 54.9,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": 19.0,
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
+              "stockCagr": 19,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -2327,32 +2327,32 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
-              "stockDD": 15.0,
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
+              "stockDD": 15,
               "niftyDD": 11.9,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
-              "stockDD": 62.0,
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
+              "stockDD": 62,
               "niftyDD": 38.1,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockDD": 44.8,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockDD": 26.4,
               "niftyDD": 17.8,
               "listed": true
@@ -2388,9 +2388,9 @@
         "hurdle": 20.1,
         "hurdlePct": 3,
         "invested": 567254,
-        "current": 862225,
+        "current": 862229,
         "nifty": 1122310,
-        "option_income": -129172,
+        "option_income": -129165,
         "lots": [
           {
             "buy_date": "2020-08-31",
@@ -2407,7 +2407,7 @@
             "days_held": 2002,
             "years_held": 5.48,
             "too_early": false,
-            "option_income": -5263
+            "option_income": -5262
           },
           {
             "buy_date": "2020-09-22",
@@ -2424,7 +2424,7 @@
             "days_held": 1980,
             "years_held": 5.42,
             "too_early": false,
-            "option_income": -5263
+            "option_income": -5262
           },
           {
             "buy_date": "2020-11-10",
@@ -2441,7 +2441,7 @@
             "days_held": 1931,
             "years_held": 5.29,
             "too_early": false,
-            "option_income": -28988
+            "option_income": -28987
           },
           {
             "buy_date": "2021-01-05",
@@ -2466,7 +2466,7 @@
             "buy_price": 842.8,
             "invested": 27812,
             "current_price": 1326.5,
-            "current_value": 43774,
+            "current_value": 43775,
             "nifty_buy_tri": 207.27,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 60124,
@@ -2500,7 +2500,7 @@
             "buy_price": 950.05,
             "invested": 31352,
             "current_price": 1326.5,
-            "current_value": 43774,
+            "current_value": 43775,
             "nifty_buy_tri": 244.41,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 57478,
@@ -2526,7 +2526,7 @@
             "days_held": 1606,
             "years_held": 4.4,
             "too_early": false,
-            "option_income": -3031
+            "option_income": -3030
           },
           {
             "buy_date": "2022-01-25",
@@ -2534,7 +2534,7 @@
             "buy_price": 891.35,
             "invested": 32980,
             "current_price": 1326.5,
-            "current_value": 49080,
+            "current_value": 49081,
             "nifty_buy_tri": 271.56,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 54418,
@@ -2543,7 +2543,7 @@
             "days_held": 1490,
             "years_held": 4.08,
             "too_early": false,
-            "option_income": -4005
+            "option_income": -4004
           },
           {
             "buy_date": "2022-03-04",
@@ -2568,7 +2568,7 @@
             "buy_price": 909.35,
             "invested": 262802,
             "current_price": 1326.5,
-            "current_value": 383358,
+            "current_value": 383359,
             "nifty_buy_tri": 238.63,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 493468,
@@ -2577,42 +2577,42 @@
             "days_held": 1344,
             "years_held": 3.68,
             "too_early": false,
-            "option_income": -44013
+            "option_income": -44011
           }
         ],
         "deep_dive": true,
         "asset_class": "stock",
-        "deficit": 520049,
+        "deficit": 520038,
         "cards": {
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
-              "stockCagr": 8.0,
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
+              "stockCagr": 8,
               "niftyCagr": 31.4,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockCagr": -18.1,
               "niftyCagr": -17.5,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockCagr": 39.5,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockCagr": -14.4,
               "niftyCagr": -1.5,
               "listed": true
@@ -2621,33 +2621,33 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockDD": 20.1,
               "niftyDD": 11.9,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockDD": 44.3,
               "niftyDD": 38.1,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockDD": 26.5,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
-              "stockDD": 22.0,
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
+              "stockDD": 22,
               "niftyDD": 17.8,
               "listed": true
             }
@@ -2677,19 +2677,19 @@
       {
         "name": "Siemens",
         "symbol": "SIEMENS",
-        "cagr": 3.0,
+        "cagr": 3,
         "niftyCagr": 11.3,
         "hurdle": 14.3,
         "hurdlePct": 3,
         "invested": 869100,
         "current": 495330,
         "nifty": 975214,
-        "option_income": 55302,
+        "option_income": 55306,
         "lots": [
           {
             "buy_date": "2025-01-22",
             "quantity": 75,
-            "buy_price": 5840.0,
+            "buy_price": 5840,
             "invested": 438000,
             "current_price": 3302.2,
             "current_value": 247665,
@@ -2701,12 +2701,12 @@
             "days_held": 397,
             "years_held": 1.09,
             "too_early": false,
-            "option_income": 46688
+            "option_income": 46690
           },
           {
             "buy_date": "2025-01-27",
             "quantity": 75,
-            "buy_price": 5748.0,
+            "buy_price": 5748,
             "invested": 431100,
             "current_price": 3302.2,
             "current_value": 247665,
@@ -2714,16 +2714,16 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 489328,
             "nifty_cagr": 12.53,
-            "stock_cagr": -0.43,
+            "stock_cagr": -0.42,
             "days_held": 392,
             "years_held": 1.07,
             "too_early": false,
-            "option_income": 8614
+            "option_income": 8616
           },
           {
             "buy_date": "2026-01-28",
             "quantity": 150,
-            "buy_price": 2978.0,
+            "buy_price": 2978,
             "invested": 446700,
             "current_price": 3302.2,
             "current_value": 495330,
@@ -2731,7 +2731,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 454841,
             "nifty_cagr": 28.88,
-            "stock_cagr": 323.21,
+            "stock_cagr": 323.22,
             "days_held": 26,
             "years_held": 0.07,
             "too_early": true,
@@ -2740,37 +2740,37 @@
         ],
         "deep_dive": true,
         "asset_class": "stock",
-        "deficit": 452987,
+        "deficit": 452983,
         "cards": {
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockCagr": 18.3,
               "niftyCagr": 31.4,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockCagr": -11.6,
               "niftyCagr": -17.5,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockCagr": 55.1,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockCagr": -18.5,
               "niftyCagr": -1.5,
               "listed": true
@@ -2779,32 +2779,32 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
-              "stockDD": 23.0,
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
+              "stockDD": 23,
               "niftyDD": 11.9,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockDD": 40.8,
               "niftyDD": 38.1,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockDD": 17.6,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockDD": 42.1,
               "niftyDD": 17.8,
               "listed": true
@@ -2814,7 +2814,7 @@
             "name": "Siemens",
             "shares": 300,
             "price": 3302.2,
-            "costPerShare": 4386.0,
+            "costPerShare": 4386,
             "taxRate": 14.95
           },
           "terminal": {
@@ -2822,7 +2822,7 @@
             "ticker": "SIEMENS",
             "totalShares": 300,
             "price": 3302.2,
-            "costPerShare": 4386.0,
+            "costPerShare": 4386,
             "taxRate": 14.95,
             "niftyCagr": 16.2,
             "hcCagr": 25,
@@ -2840,17 +2840,17 @@
         "hurdle": 21.7,
         "hurdlePct": 3,
         "invested": 448000,
-        "current": 133712,
+        "current": 133713,
         "nifty": 841218,
-        "option_income": 392107,
+        "option_income": 392111,
         "lots": [
           {
             "buy_date": "2022-06-20",
             "quantity": 125,
-            "buy_price": 3584.0,
+            "buy_price": 3584,
             "invested": 448000,
             "current_price": 1069.7,
-            "current_value": 133712,
+            "current_value": 133713,
             "nifty_buy_tri": 238.63,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 841218,
@@ -2859,42 +2859,42 @@
             "days_held": 1344,
             "years_held": 3.68,
             "too_early": false,
-            "option_income": 392107
+            "option_income": 392111
           }
         ],
         "deep_dive": true,
         "asset_class": "stock",
-        "deficit": 396507,
+        "deficit": 396502,
         "cards": {
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockCagr": 38.7,
               "niftyCagr": 31.4,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockCagr": 12.4,
               "niftyCagr": -17.5,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockCagr": 40.3,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockCagr": -25.9,
               "niftyCagr": -1.5,
               "listed": true
@@ -2903,32 +2903,32 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockDD": 18.6,
               "niftyDD": 11.9,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockDD": 45.1,
               "niftyDD": 38.1,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockDD": 51.9,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockDD": 40.7,
               "niftyDD": 17.8,
               "listed": true
@@ -2938,7 +2938,7 @@
             "name": "Info Edge (Naukri)",
             "shares": 125,
             "price": 1069.7,
-            "costPerShare": 3584.0,
+            "costPerShare": 3584,
             "taxRate": 14.95
           },
           "terminal": {
@@ -2946,7 +2946,7 @@
             "ticker": "NAUKRI",
             "totalShares": 125,
             "price": 1069.7,
-            "costPerShare": 3584.0,
+            "costPerShare": 3584,
             "taxRate": 14.95,
             "niftyCagr": 16.2,
             "hcCagr": 25,
@@ -3090,7 +3090,7 @@
           {
             "buy_date": "2021-10-01",
             "quantity": 7,
-            "buy_price": 3067.0,
+            "buy_price": 3067,
             "invested": 21469,
             "current_price": 4307.6,
             "current_value": 30153,
@@ -3146,32 +3146,32 @@
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockCagr": 5.2,
               "niftyCagr": 31.4,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": 16.0,
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
+              "stockCagr": 16,
               "niftyCagr": -17.5,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockCagr": 35.5,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockCagr": 20.6,
               "niftyCagr": -1.5,
               "listed": true
@@ -3180,32 +3180,32 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockDD": 31.5,
               "niftyDD": 11.9,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockDD": 24.6,
               "niftyDD": 38.1,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockDD": 23.6,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockDD": 17.6,
               "niftyDD": 17.8,
               "listed": true
@@ -3236,7 +3236,7 @@
       {
         "name": "LTIMindtree",
         "symbol": "MINDTREE",
-        "cagr": 9.0,
+        "cagr": 9,
         "niftyCagr": 18.7,
         "hurdle": 21.7,
         "hurdlePct": 3,
@@ -3256,7 +3256,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 1038671,
             "nifty_cagr": 18.68,
-            "stock_cagr": 9.0,
+            "stock_cagr": 9,
             "days_held": 1344,
             "years_held": 3.68,
             "too_early": false,
@@ -3270,32 +3270,32 @@
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockCagr": 0,
               "niftyCagr": 31.4,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockCagr": 1.3,
               "niftyCagr": -17.5,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockCagr": 41.2,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockCagr": -16.1,
               "niftyCagr": -1.5,
               "listed": true
@@ -3304,32 +3304,32 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockDD": 14.3,
               "niftyDD": 11.9,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockDD": 36.4,
               "niftyDD": 38.1,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockDD": 49.4,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockDD": 39.8,
               "niftyDD": 17.8,
               "listed": true
@@ -3358,15 +3358,117 @@
         }
       },
       {
+        "name": "ICICI Nifty200 Momentum 30",
+        "symbol": "MOMENTUM50",
+        "cagr": -9.6,
+        "niftyCagr": 3.7,
+        "hurdle": 5.7,
+        "hurdlePct": 2,
+        "invested": 594552,
+        "current": 521600,
+        "nifty": 623098,
+        "option_income": 0,
+        "lots": [
+          {
+            "buy_date": "2024-10-17",
+            "quantity": 2000,
+            "buy_price": 62.78,
+            "invested": 125560,
+            "current_price": 52.16,
+            "current_value": 104320,
+            "nifty_buy_tri": 440.48,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 127726,
+            "nifty_cagr": 1.27,
+            "stock_cagr": -12.8,
+            "days_held": 494,
+            "years_held": 1.35,
+            "too_early": false,
+            "option_income": 0
+          },
+          {
+            "buy_date": "2024-10-18",
+            "quantity": 15,
+            "buy_price": 62.25,
+            "invested": 934,
+            "current_price": 52.16,
+            "current_value": 782,
+            "nifty_buy_tri": 441.7,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 947,
+            "nifty_cagr": 1.07,
+            "stock_cagr": -12.33,
+            "days_held": 493,
+            "years_held": 1.35,
+            "too_early": false,
+            "option_income": 0
+          },
+          {
+            "buy_date": "2024-11-04",
+            "quantity": 4985,
+            "buy_price": 58.8,
+            "invested": 293118,
+            "current_price": 52.16,
+            "current_value": 260018,
+            "nifty_buy_tri": 424.6,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 309327,
+            "nifty_cagr": 4.22,
+            "stock_cagr": -8.78,
+            "days_held": 476,
+            "years_held": 1.3,
+            "too_early": false,
+            "option_income": 0
+          },
+          {
+            "buy_date": "2024-11-14",
+            "quantity": 1000,
+            "buy_price": 56.4,
+            "invested": 56400,
+            "current_price": 52.16,
+            "current_value": 52160,
+            "nifty_buy_tri": 414.3,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 60999,
+            "nifty_cagr": 6.34,
+            "stock_cagr": -5.94,
+            "days_held": 466,
+            "years_held": 1.28,
+            "too_early": false,
+            "option_income": 0
+          },
+          {
+            "buy_date": "2024-11-29",
+            "quantity": 2000,
+            "buy_price": 59.27,
+            "invested": 118540,
+            "current_price": 52.16,
+            "current_value": 104320,
+            "nifty_buy_tri": 428.01,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 124099,
+            "nifty_cagr": 3.78,
+            "stock_cagr": -9.83,
+            "days_held": 451,
+            "years_held": 1.23,
+            "too_early": false,
+            "option_income": 0
+          }
+        ],
+        "deep_dive": false,
+        "asset_class": "active_mf",
+        "deficit": 117057
+      },
+      {
         "name": "Indraprastha Gas",
         "symbol": "IGL",
         "cagr": 3.9,
         "niftyCagr": 13.7,
         "hurdle": 16.7,
         "hurdlePct": 3,
-        "invested": 30680,
+        "invested": 30681,
         "current": 3738,
-        "nifty": 90526,
+        "nifty": 90529,
         "option_income": 0,
         "lots": [
           {
@@ -3376,7 +3478,7 @@
             "invested": 7272,
             "current_price": 169.9,
             "current_value": 1019,
-            "nifty_buy_tri": 147.0,
+            "nifty_buy_tri": 147,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 22166,
             "nifty_cagr": 13.95,
@@ -3390,12 +3492,12 @@
             "buy_date": "2017-08-18",
             "quantity": 2,
             "buy_price": 1283.25,
-            "invested": 2566,
+            "invested": 2567,
             "current_price": 169.9,
             "current_value": 340,
             "nifty_buy_tri": 149.92,
             "nifty_report_tri": 448.08,
-            "shadow_nifty": 7669,
+            "shadow_nifty": 7672,
             "nifty_cagr": 13.72,
             "stock_cagr": 5.03,
             "days_held": 3111,
@@ -3440,7 +3542,7 @@
           {
             "buy_date": "2017-10-19",
             "quantity": 2,
-            "buy_price": 1562.0,
+            "buy_price": 1562,
             "invested": 3124,
             "current_price": 169.9,
             "current_value": 340,
@@ -3457,38 +3559,38 @@
         ],
         "deep_dive": true,
         "asset_class": "stock",
-        "deficit": 109101,
+        "deficit": 109105,
         "cards": {
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockCagr": 77.5,
               "niftyCagr": 31.4,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": 1.0,
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
+              "stockCagr": 1,
               "niftyCagr": -17.5,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 15.0,
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
+              "stockCagr": 15,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": -28.0,
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
+              "stockCagr": -28,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -3496,32 +3598,32 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockDD": 10.3,
               "niftyDD": 11.9,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockDD": 41.6,
               "niftyDD": 38.1,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockDD": 43.9,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockDD": 44.2,
               "niftyDD": 17.8,
               "listed": true
@@ -3531,7 +3633,7 @@
             "name": "Indraprastha Gas",
             "shares": 22,
             "price": 169.9,
-            "costPerShare": 1394.55,
+            "costPerShare": 1394.59,
             "taxRate": 14.95
           },
           "terminal": {
@@ -3539,7 +3641,7 @@
             "ticker": "IGL",
             "totalShares": 22,
             "price": 169.9,
-            "costPerShare": 1394.55,
+            "costPerShare": 1394.59,
             "taxRate": 14.95,
             "niftyCagr": 16.2,
             "hcCagr": 25,
@@ -3550,113 +3652,11 @@
         }
       },
       {
-        "name": "ICICI Nifty200 Momentum 30",
-        "symbol": "MOMENTUM50",
-        "cagr": -1.9,
-        "niftyCagr": 3.7,
-        "hurdle": 5.7,
-        "hurdlePct": 2,
-        "invested": 594552,
-        "current": 580000,
-        "nifty": 623098,
-        "option_income": 0,
-        "lots": [
-          {
-            "buy_date": "2024-10-17",
-            "quantity": 2000,
-            "buy_price": 62.78,
-            "invested": 125560,
-            "current_price": 58.0,
-            "current_value": 116000,
-            "nifty_buy_tri": 440.48,
-            "nifty_report_tri": 448.08,
-            "shadow_nifty": 127726,
-            "nifty_cagr": 1.27,
-            "stock_cagr": -5.69,
-            "days_held": 494,
-            "years_held": 1.35,
-            "too_early": false,
-            "option_income": 0
-          },
-          {
-            "buy_date": "2024-10-18",
-            "quantity": 15,
-            "buy_price": 62.25,
-            "invested": 934,
-            "current_price": 58.0,
-            "current_value": 870,
-            "nifty_buy_tri": 441.7,
-            "nifty_report_tri": 448.08,
-            "shadow_nifty": 947,
-            "nifty_cagr": 1.07,
-            "stock_cagr": -5.12,
-            "days_held": 493,
-            "years_held": 1.35,
-            "too_early": false,
-            "option_income": 0
-          },
-          {
-            "buy_date": "2024-11-04",
-            "quantity": 4985,
-            "buy_price": 58.8,
-            "invested": 293118,
-            "current_price": 58.0,
-            "current_value": 289130,
-            "nifty_buy_tri": 424.6,
-            "nifty_report_tri": 448.08,
-            "shadow_nifty": 309327,
-            "nifty_cagr": 4.22,
-            "stock_cagr": -1.05,
-            "days_held": 476,
-            "years_held": 1.3,
-            "too_early": false,
-            "option_income": 0
-          },
-          {
-            "buy_date": "2024-11-14",
-            "quantity": 1000,
-            "buy_price": 56.4,
-            "invested": 56400,
-            "current_price": 58.0,
-            "current_value": 58000,
-            "nifty_buy_tri": 414.3,
-            "nifty_report_tri": 448.08,
-            "shadow_nifty": 60999,
-            "nifty_cagr": 6.34,
-            "stock_cagr": 2.22,
-            "days_held": 466,
-            "years_held": 1.28,
-            "too_early": false,
-            "option_income": 0
-          },
-          {
-            "buy_date": "2024-11-29",
-            "quantity": 2000,
-            "buy_price": 59.27,
-            "invested": 118540,
-            "current_price": 58.0,
-            "current_value": 116000,
-            "nifty_buy_tri": 428.01,
-            "nifty_report_tri": 448.08,
-            "shadow_nifty": 124099,
-            "nifty_cagr": 3.78,
-            "stock_cagr": -1.74,
-            "days_held": 451,
-            "years_held": 1.23,
-            "too_early": false,
-            "option_income": 0
-          }
-        ],
-        "deep_dive": false,
-        "asset_class": "active_mf",
-        "deficit": 58657
-      },
-      {
         "name": "NTPC",
         "symbol": "NTPC",
         "cagr": 11.8,
-        "niftyCagr": 6.0,
-        "hurdle": 9.0,
+        "niftyCagr": 6,
+        "hurdle": 9,
         "hurdlePct": 3,
         "invested": 1640565,
         "current": 1689525,
@@ -3683,7 +3683,7 @@
           {
             "buy_date": "2024-11-27",
             "quantity": 1500,
-            "buy_price": 370.0,
+            "buy_price": 370,
             "invested": 555000,
             "current_price": 375.45,
             "current_value": 563175,
@@ -3722,32 +3722,32 @@
           "phases": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
-              "stockCagr": 23.0,
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
+              "stockCagr": 23,
               "niftyCagr": 31.4,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockCagr": -22.1,
               "niftyCagr": -17.5,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 54.0,
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
+              "stockCagr": 54,
               "niftyCagr": 35.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockCagr": -8.2,
               "niftyCagr": -1.5,
               "listed": true
@@ -3756,32 +3756,32 @@
           "drawdowns": [
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Feb 2016 \u2192 Jan 2018",
+              "icon": "↗",
+              "period": "Feb 2016 → Jan 2018",
               "stockDD": 13.2,
               "niftyDD": 11.9,
               "listed": true
             },
             {
               "regime": "Bear",
-              "icon": "\u2198",
-              "period": "Feb 2018 \u2192 Mar 2020",
+              "icon": "↘",
+              "period": "Feb 2018 → Mar 2020",
               "stockDD": 48.7,
               "niftyDD": 38.1,
               "listed": true
             },
             {
               "regime": "Bull",
-              "icon": "\u2197",
-              "period": "Mar 2020 \u2192 Sep 2024",
+              "icon": "↗",
+              "period": "Mar 2020 → Sep 2024",
               "stockDD": 25.4,
               "niftyDD": 17.8,
               "listed": true
             },
             {
               "regime": "Sideways",
-              "icon": "\u2192",
-              "period": "Oct 2024 \u2192 Feb 2026",
+              "icon": "→",
+              "period": "Oct 2024 → Feb 2026",
               "stockDD": 32.2,
               "niftyDD": 17.8,
               "listed": true
@@ -3831,7 +3831,7 @@
             "nifty_cagr": 0,
             "stock_cagr": 0,
             "days_held": 0,
-            "years_held": 0.0,
+            "years_held": 0,
             "too_early": true,
             "option_income": 0
           },
@@ -3848,7 +3848,7 @@
             "nifty_cagr": 0,
             "stock_cagr": 0,
             "days_held": 0,
-            "years_held": 0.0,
+            "years_held": 0,
             "too_early": true,
             "option_income": 0
           }
@@ -3864,7 +3864,7 @@
           {
             "buy_date": "2025-12-10",
             "quantity": 150,
-            "buy_price": 4851.0,
+            "buy_price": 4851,
             "invested": 727650,
             "current_price": 4862.2,
             "current_value": 729330,
@@ -3876,12 +3876,12 @@
             "days_held": 75,
             "years_held": 0.21,
             "too_early": true,
-            "option_income": 171539
+            "option_income": 171541
           },
           {
             "buy_date": "2025-12-11",
             "quantity": 30,
-            "buy_price": 4790.0,
+            "buy_price": 4790,
             "invested": 143700,
             "current_price": 4862.2,
             "current_value": 145866,
@@ -3898,7 +3898,7 @@
           {
             "buy_date": "2026-01-28",
             "quantity": 120,
-            "buy_price": 4760.0,
+            "buy_price": 4760,
             "invested": 571200,
             "current_price": 4862.2,
             "current_value": 583464,
@@ -3924,7 +3924,7 @@
           {
             "buy_date": "2026-02-11",
             "quantity": 1000,
-            "buy_price": 1019.0,
+            "buy_price": 1019,
             "invested": 1019000,
             "current_price": 1011.3,
             "current_value": 1011300,
@@ -3972,20 +3972,20 @@
         "name": "ICICI Nifty 500 Index",
         "symbol": "MONIFTY500",
         "invested": 8782791,
-        "current": 8930000,
+        "current": 9104800,
         "lots": [
           {
             "buy_date": "2024-11-04",
             "quantity": 10000,
             "buy_price": 22.79,
             "invested": 227900,
-            "current_price": 23.5,
-            "current_value": 235000,
+            "current_price": 23.96,
+            "current_value": 239600,
             "nifty_buy_tri": 424.6,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 240503,
             "nifty_cagr": 4.22,
-            "stock_cagr": 2.38,
+            "stock_cagr": 3.92,
             "days_held": 476,
             "years_held": 1.3,
             "too_early": false,
@@ -3996,13 +3996,13 @@
             "quantity": 20000,
             "buy_price": 22.85,
             "invested": 457000,
-            "current_price": 23.5,
-            "current_value": 470000,
+            "current_price": 23.96,
+            "current_value": 479200,
             "nifty_buy_tri": 424.6,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 482272,
             "nifty_cagr": 4.22,
-            "stock_cagr": 2.18,
+            "stock_cagr": 3.71,
             "days_held": 476,
             "years_held": 1.3,
             "too_early": false,
@@ -4013,13 +4013,13 @@
             "quantity": 30000,
             "buy_price": 22.75,
             "invested": 682500,
-            "current_price": 23.5,
-            "current_value": 705000,
+            "current_price": 23.96,
+            "current_value": 718800,
             "nifty_buy_tri": 424.6,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 720242,
             "nifty_cagr": 4.22,
-            "stock_cagr": 2.52,
+            "stock_cagr": 4.06,
             "days_held": 476,
             "years_held": 1.3,
             "too_early": false,
@@ -4030,13 +4030,13 @@
             "quantity": 5000,
             "buy_price": 22.8,
             "invested": 114000,
-            "current_price": 23.5,
-            "current_value": 117500,
+            "current_price": 23.96,
+            "current_value": 119800,
             "nifty_buy_tri": 424.6,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 120304,
             "nifty_cagr": 4.22,
-            "stock_cagr": 2.35,
+            "stock_cagr": 3.88,
             "days_held": 476,
             "years_held": 1.3,
             "too_early": false,
@@ -4047,13 +4047,13 @@
             "quantity": 10597,
             "buy_price": 22.75,
             "invested": 241082,
-            "current_price": 23.5,
-            "current_value": 249030,
+            "current_price": 23.96,
+            "current_value": 253904,
             "nifty_buy_tri": 428.01,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 252387,
             "nifty_cagr": 3.78,
-            "stock_cagr": 2.66,
+            "stock_cagr": 4.29,
             "days_held": 451,
             "years_held": 1.23,
             "too_early": false,
@@ -4064,13 +4064,13 @@
             "quantity": 24403,
             "buy_price": 22.83,
             "invested": 557120,
-            "current_price": 23.5,
-            "current_value": 573470,
+            "current_price": 23.96,
+            "current_value": 584696,
             "nifty_buy_tri": 423.48,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 589483,
-            "nifty_cagr": 5.0,
-            "stock_cagr": 2.53,
+            "nifty_cagr": 5,
+            "stock_cagr": 4.26,
             "days_held": 423,
             "years_held": 1.16,
             "too_early": false,
@@ -4081,13 +4081,13 @@
             "quantity": 30000,
             "buy_price": 22.1,
             "invested": 663000,
-            "current_price": 23.5,
-            "current_value": 705000,
+            "current_price": 23.96,
+            "current_value": 718800,
             "nifty_buy_tri": 404.61,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 734231,
             "nifty_cagr": 9.82,
-            "stock_cagr": 5.8,
+            "stock_cagr": 7.7,
             "days_held": 398,
             "years_held": 1.09,
             "too_early": false,
@@ -4098,13 +4098,13 @@
             "quantity": 8314,
             "buy_price": 21.9,
             "invested": 182077,
-            "current_price": 23.5,
-            "current_value": 195379,
+            "current_price": 23.96,
+            "current_value": 199203,
             "nifty_buy_tri": 402.46,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 202716,
             "nifty_cagr": 10.44,
-            "stock_cagr": 6.74,
+            "stock_cagr": 8.67,
             "days_held": 395,
             "years_held": 1.08,
             "too_early": false,
@@ -4115,13 +4115,13 @@
             "quantity": 11686,
             "buy_price": 21.39,
             "invested": 249964,
-            "current_price": 23.5,
-            "current_value": 274621,
+            "current_price": 23.96,
+            "current_value": 279997,
             "nifty_buy_tri": 394.76,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 283726,
             "nifty_cagr": 12.53,
-            "stock_cagr": 9.16,
+            "stock_cagr": 11.15,
             "days_held": 392,
             "years_held": 1.07,
             "too_early": false,
@@ -4132,13 +4132,13 @@
             "quantity": 10000,
             "buy_price": 21.19,
             "invested": 211900,
-            "current_price": 23.5,
-            "current_value": 235000,
+            "current_price": 23.96,
+            "current_value": 239600,
             "nifty_buy_tri": 394.76,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 240521,
             "nifty_cagr": 12.53,
-            "stock_cagr": 10.12,
+            "stock_cagr": 12.13,
             "days_held": 392,
             "years_held": 1.07,
             "too_early": false,
@@ -4149,13 +4149,13 @@
             "quantity": 10,
             "buy_price": 23.31,
             "invested": 233,
-            "current_price": 23.5,
-            "current_value": 235,
+            "current_price": 23.96,
+            "current_value": 240,
             "nifty_buy_tri": 435.05,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 240,
             "nifty_cagr": 49.07,
-            "stock_cagr": 12.26,
+            "stock_cagr": 49.25,
             "days_held": 27,
             "years_held": 0.07,
             "too_early": true,
@@ -4166,13 +4166,13 @@
             "quantity": 99990,
             "buy_price": 23.44,
             "invested": 2343766,
-            "current_price": 23.5,
-            "current_value": 2349765,
+            "current_price": 23.96,
+            "current_value": 2395760,
             "nifty_buy_tri": 440.06,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 2386481,
             "nifty_cagr": 28.88,
-            "stock_cagr": 3.66,
+            "stock_cagr": 36.1,
             "days_held": 26,
             "years_held": 0.07,
             "too_early": true,
@@ -4181,15 +4181,15 @@
           {
             "buy_date": "2026-02-01",
             "quantity": 24898,
-            "buy_price": 23.0,
+            "buy_price": 23,
             "invested": 572654,
-            "current_price": 23.5,
-            "current_value": 585103,
+            "current_price": 23.96,
+            "current_value": 596556,
             "nifty_buy_tri": 431.1,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 595209,
             "nifty_cagr": 89.91,
-            "stock_cagr": 42.91,
+            "stock_cagr": 97.17,
             "days_held": 22,
             "years_held": 0.06,
             "too_early": true,
@@ -4200,8 +4200,8 @@
             "quantity": 95102,
             "buy_price": 23.97,
             "invested": 2279595,
-            "current_price": 23.5,
-            "current_value": 2234897,
+            "current_price": 23.96,
+            "current_value": 2278644,
             "nifty_buy_tri": 448.08,
             "nifty_report_tri": 448.08,
             "shadow_nifty": 2279595,
@@ -4221,33 +4221,33 @@
     "fail_count": 19,
     "too_early_count": 4,
     "no_test_count": 1,
-    "total_surplus": 5835443,
-    "total_deficit": 88574759
+    "total_surplus": 5835461,
+    "total_deficit": 88633130
   },
   "fno_summary": {
-    "total_attributed": 730203,
-    "total_unattributed": 11650931,
+    "total_attributed": 730247,
+    "total_unattributed": 11650952,
     "by_symbol": {
-      "DIXON": -3683296,
-      "HINDUNILVR": 1983470,
-      "BRITANNIA": 500444,
-      "RELIANCE": 485625,
-      "NAUKRI": 392107,
-      "HAL": 329948,
-      "PIDILITIND": 231614,
-      "COALINDIA": 220829,
+      "APOLLOHOSP": -8815,
+      "BHARTIARTL": 122919,
+      "BRITANNIA": 500446,
+      "CIPLA": -129165,
+      "COALINDIA": 220831,
+      "DIXON": -3683288,
+      "HAL": 329949,
       "HAVELLS": -218850,
-      "INDIGO": 192742,
-      "CIPLA": -129172,
-      "BHARTIARTL": 122916,
-      "NTPC": 116175,
-      "TATASTEEL": 77205,
-      "SIEMENS": 54606,
-      "MINDTREE": 50440,
-      "RBLBANK": 10478,
-      "APOLLOHOSP": -8817,
+      "HINDUNILVR": 1983470,
+      "INDIGO": 192744,
       "KFINTECH": 2900,
-      "MUTHOOTFIN": -1163
+      "MINDTREE": 50440,
+      "MUTHOOTFIN": -1153,
+      "NAUKRI": 392111,
+      "NTPC": 116175,
+      "PIDILITIND": 231613,
+      "RBLBANK": 10478,
+      "RELIANCE": 485629,
+      "SIEMENS": 54610,
+      "TATASTEEL": 77205
     }
   }
 }
