@@ -1,5 +1,8 @@
 {
+  "client_name": "Vimal Kapur",
   "report_date": "2026-02-23",
+  "tax_rate": 14.95,
+  "ltcg_exemption": 125000,
   "portfolio": {
     "total_invested": 63337442,
     "total_current": 114826873,
@@ -800,7 +803,8 @@
             "shares": 25400,
             "price": 2345.4,
             "costPerShare": 830,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "Hindustan Unilever",
@@ -809,6 +813,7 @@
             "price": 2345.4,
             "costPerShare": 830,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
@@ -1009,7 +1014,8 @@
             "shares": 2000,
             "price": 1428,
             "costPerShare": 2005.61,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "Reliance Industries",
@@ -1018,6 +1024,7 @@
             "price": 1428,
             "costPerShare": 2005.61,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
@@ -1269,7 +1276,8 @@
             "shares": 817,
             "price": 6122.5,
             "costPerShare": 3865.2,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "Britannia Industries",
@@ -1278,6 +1286,7 @@
             "price": 6122.5,
             "costPerShare": 3865.2,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
@@ -1444,7 +1453,8 @@
             "shares": 450,
             "price": 1509.6,
             "costPerShare": 4375.56,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "Affle India",
@@ -1453,6 +1463,7 @@
             "price": 1509.6,
             "costPerShare": 4375.56,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
@@ -1585,7 +1596,8 @@
             "shares": 200,
             "price": 10599,
             "costPerShare": 4020,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "Dixon Technologies",
@@ -1594,6 +1606,7 @@
             "price": 10599,
             "costPerShare": 4020,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
@@ -1743,7 +1756,8 @@
             "shares": 1210,
             "price": 488.6,
             "costPerShare": 1121.91,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "Hindustan Foods",
@@ -1752,6 +1766,7 @@
             "price": 488.6,
             "costPerShare": 1121.91,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
@@ -1867,7 +1882,8 @@
             "shares": 500,
             "price": 1481,
             "costPerShare": 1797,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "Pidilite Industries",
@@ -1876,6 +1892,7 @@
             "price": 1481,
             "costPerShare": 1797,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
@@ -1991,7 +2008,8 @@
             "shares": 2000,
             "price": 309.35,
             "costPerShare": 353,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "Praj Industries",
@@ -2000,6 +2018,7 @@
             "price": 309.35,
             "costPerShare": 353,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
@@ -2115,7 +2134,8 @@
             "shares": 100,
             "price": 234.54,
             "costPerShare": 3804,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "Vaibhav Global",
@@ -2124,6 +2144,7 @@
             "price": 234.54,
             "costPerShare": 3804,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
@@ -2239,7 +2260,8 @@
             "shares": 600,
             "price": 1412.8,
             "costPerShare": 1029.5,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "Havells India",
@@ -2248,6 +2270,7 @@
             "price": 1412.8,
             "costPerShare": 1029.5,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
@@ -2363,7 +2386,8 @@
             "shares": 425,
             "price": 208.14,
             "costPerShare": 871.91,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "Tata Steel",
@@ -2372,6 +2396,7 @@
             "price": 208.14,
             "costPerShare": 871.91,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
@@ -2657,7 +2682,8 @@
             "shares": 650,
             "price": 1326.5,
             "costPerShare": 872.7,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "Cipla",
@@ -2666,6 +2692,7 @@
             "price": 1326.5,
             "costPerShare": 872.7,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
@@ -2815,7 +2842,8 @@
             "shares": 300,
             "price": 3302.2,
             "costPerShare": 4386,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "Siemens",
@@ -2824,6 +2852,7 @@
             "price": 3302.2,
             "costPerShare": 4386,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
@@ -2939,7 +2968,8 @@
             "shares": 125,
             "price": 1069.7,
             "costPerShare": 3584,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "Info Edge (Naukri)",
@@ -2948,6 +2978,7 @@
             "price": 1069.7,
             "costPerShare": 3584,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
@@ -3216,7 +3247,8 @@
             "shares": 92,
             "price": 4307.6,
             "costPerShare": 2758.22,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "Torrent Pharma",
@@ -3225,6 +3257,7 @@
             "price": 4307.6,
             "costPerShare": 2758.22,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
@@ -3340,7 +3373,8 @@
             "shares": 200,
             "price": 4831.5,
             "costPerShare": 2765.78,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "LTIMindtree",
@@ -3349,6 +3383,7 @@
             "price": 4831.5,
             "costPerShare": 2765.78,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
@@ -3634,7 +3669,8 @@
             "shares": 22,
             "price": 169.9,
             "costPerShare": 1394.59,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "Indraprastha Gas",
@@ -3643,6 +3679,7 @@
             "price": 169.9,
             "costPerShare": 1394.59,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
@@ -3792,7 +3829,8 @@
             "shares": 4500,
             "price": 375.45,
             "costPerShare": 364.57,
-            "taxRate": 14.95
+            "taxRate": 14.95,
+            "ltcgExemption": 125000
           },
           "terminal": {
             "name": "NTPC",
@@ -3801,6 +3839,7 @@
             "price": 375.45,
             "costPerShare": 364.57,
             "taxRate": 14.95,
+            "ltcgExemption": 125000,
             "niftyCagr": 16.2,
             "hcCagr": 25,
             "niftyPct": 80,
