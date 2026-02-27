@@ -4,8 +4,8 @@
   "tax_rate": 14.95,
   "ltcg_exemption": 125000,
   "portfolio": {
-    "total_invested": 120053967,
-    "total_current": 215366732,
+    "total_invested": 99470486,
+    "total_current": 156567037,
     "by_class": {
       "active_mf": {
         "invested": 594552,
@@ -23,9 +23,9 @@
         "count": 1
       },
       "stock": {
-        "invested": 109026283,
-        "current": 202563782,
-        "count": 29
+        "invested": 88442802,
+        "current": 143764087,
+        "count": 30
       }
     }
   },
@@ -200,6 +200,40 @@
         "deep_dive": false,
         "asset_class": "gold_etf",
         "surplus": 1251045
+      },
+      {
+        "name": "KWIL",
+        "symbol": "KWIL",
+        "cagr": 43.4,
+        "niftyCagr": 1.7,
+        "hurdle": 4.7,
+        "hurdlePct": 3,
+        "invested": 498519,
+        "current": 773465,
+        "nifty": 508645,
+        "option_income": 0,
+        "lots": [
+          {
+            "buy_date": "2024-12-05",
+            "quantity": 28700,
+            "buy_price": 17.37,
+            "invested": 498519,
+            "current_price": 26.95,
+            "current_value": 773465,
+            "nifty_buy_tri": 439.16,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 508645,
+            "nifty_cagr": 1.66,
+            "stock_cagr": 43.41,
+            "days_held": 445,
+            "years_held": 1.22,
+            "too_early": false,
+            "option_income": 0
+          }
+        ],
+        "deep_dive": false,
+        "asset_class": "stock",
+        "surplus": 246461
       },
       {
         "name": "Muthoot Finance",
@@ -852,14 +886,14 @@
       {
         "name": "Hindustan Unilever",
         "symbol": "HINDUNILVR",
-        "cagr": 12.6,
+        "cagr": 12.7,
         "niftyCagr": 16.2,
         "hurdle": 19.2,
         "hurdlePct": 3,
-        "invested": 57264516,
-        "current": 119849940,
-        "nifty": 256899122,
-        "option_income": 2174762,
+        "invested": 36182516,
+        "current": 60276780,
+        "nifty": 162321403,
+        "option_income": 1987419,
         "lots": [
           {
             "buy_date": "2016-02-26",
@@ -872,33 +906,16 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 162321403,
             "nifty_cagr": 16.21,
-            "stock_cagr": 12.61,
+            "stock_cagr": 12.69,
             "days_held": 3650,
             "years_held": 9.99,
             "too_early": false,
-            "option_income": 1093765
-          },
-          {
-            "buy_date": "2016-02-26",
-            "quantity": 25400,
-            "buy_price": 830,
-            "invested": 21082000,
-            "current_price": 2345.4,
-            "current_value": 59573160,
-            "nifty_buy_tri": 99.88,
-            "nifty_report_tri": 448.08,
-            "shadow_nifty": 94577719,
-            "nifty_cagr": 16.21,
-            "stock_cagr": 12.68,
-            "days_held": 3650,
-            "years_held": 9.99,
-            "too_early": false,
-            "option_income": 1080997
+            "option_income": 1987419
           }
         ],
         "deep_dive": true,
         "asset_class": "stock",
-        "deficit": 209296591,
+        "deficit": 147080764,
         "cards": {
           "phases": [
             {
@@ -970,18 +987,18 @@
           ],
           "redeployment": {
             "name": "Hindustan Unilever",
-            "shares": 51100,
+            "shares": 25700,
             "price": 2345.4,
-            "costPerShare": 1120.64,
+            "costPerShare": 1407.88,
             "taxRate": 14.95,
             "ltcgExemption": 125000
           },
           "terminal": {
             "name": "Hindustan Unilever",
             "ticker": "HINDUNILVR",
-            "totalShares": 51100,
+            "totalShares": 25700,
             "price": 2345.4,
-            "costPerShare": 1120.64,
+            "costPerShare": 1407.88,
             "taxRate": 14.95,
             "ltcgExemption": 125000,
             "niftyCagr": 16.2,
@@ -3718,15 +3735,15 @@
     ]
   },
   "summary": {
-    "pass_count": 12,
+    "pass_count": 13,
     "fail_count": 15,
     "too_early_count": 4,
     "no_test_count": 1,
-    "total_surplus": 8402114,
-    "total_deficit": 249996287
+    "total_surplus": 8648575,
+    "total_deficit": 187780460
   },
   "fno_summary": {
-    "total_attributed": 1468220,
+    "total_attributed": 1280878,
     "total_unattributed": 11069084,
     "by_symbol": {
       "APOLLOHOSP": -8816,
@@ -3737,7 +3754,7 @@
       "DIXON": -3683288,
       "HAL": 329949,
       "HAVELLS": -218850,
-      "HINDUNILVR": 2174762,
+      "HINDUNILVR": 1987419,
       "INDIGO": 192744,
       "INFY": 829917,
       "ITC": -234560,
