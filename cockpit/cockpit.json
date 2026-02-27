@@ -18,14 +18,14 @@
         "count": 1
       },
       "index_mf": {
-        "invested": 8782791,
-        "current": 9104800,
-        "count": 1
+        "invested": 23038224,
+        "current": 24964139,
+        "count": 3
       },
       "stock": {
-        "invested": 88442802,
-        "current": 143735961,
-        "count": 30
+        "invested": 74187369,
+        "current": 127876622,
+        "count": 28
       }
     }
   },
@@ -83,7 +83,7 @@
         "surplus": 3805468
       },
       {
-        "name": "NESTLEIND",
+        "name": "Nestle India",
         "symbol": "NESTLEIND",
         "cagr": 9.3,
         "niftyCagr": 15.9,
@@ -251,40 +251,6 @@
         "deep_dive": false,
         "asset_class": "stock",
         "surplus": 240091
-      },
-      {
-        "name": "KWIL",
-        "symbol": "KWIL",
-        "cagr": 39.1,
-        "niftyCagr": 1.7,
-        "hurdle": 4.7,
-        "hurdlePct": 3,
-        "invested": 498519,
-        "current": 745339,
-        "nifty": 508645,
-        "option_income": 0,
-        "lots": [
-          {
-            "buy_date": "2024-12-05",
-            "quantity": 28700,
-            "buy_price": 17.37,
-            "invested": 498519,
-            "current_price": 25.97,
-            "current_value": 745339,
-            "nifty_buy_tri": 439.16,
-            "nifty_report_tri": 448.08,
-            "shadow_nifty": 508645,
-            "nifty_cagr": 1.66,
-            "stock_cagr": 39.11,
-            "days_held": 445,
-            "years_held": 1.22,
-            "too_early": false,
-            "option_income": 0
-          }
-        ],
-        "deep_dive": false,
-        "asset_class": "stock",
-        "surplus": 218335
       },
       {
         "name": "Torrent Pharma",
@@ -474,7 +440,7 @@
         "surplus": 192403
       },
       {
-        "name": "ENRIN",
+        "name": "Enercon India",
         "symbol": "ENRIN",
         "cagr": 46.1,
         "niftyCagr": 8,
@@ -542,7 +508,7 @@
         "surplus": 165496
       },
       {
-        "name": "JIOFIN",
+        "name": "Jio Financial Services",
         "symbol": "JIOFIN",
         "cagr": 31.9,
         "niftyCagr": 17.7,
@@ -795,40 +761,6 @@
         "deep_dive": false,
         "asset_class": "stock",
         "surplus": 138348
-      },
-      {
-        "name": "LIQUIDBEES",
-        "symbol": "LIQUIDBEES",
-        "cagr": 2.9,
-        "niftyCagr": 4.9,
-        "hurdle": 7.9,
-        "hurdlePct": 3,
-        "invested": 13756914,
-        "current": 15114000,
-        "nifty": 14532376,
-        "option_income": 0,
-        "lots": [
-          {
-            "buy_date": "2025-01-01",
-            "quantity": 15114,
-            "buy_price": 910.21,
-            "invested": 13756914,
-            "current_price": 1000,
-            "current_value": 15114000,
-            "nifty_buy_tri": 424.17,
-            "nifty_report_tri": 448.08,
-            "shadow_nifty": 14532376,
-            "nifty_cagr": 4.91,
-            "stock_cagr": 2.91,
-            "days_held": 418,
-            "years_held": 1.14,
-            "too_early": false,
-            "option_income": 0
-          }
-        ],
-        "deep_dive": false,
-        "asset_class": "stock",
-        "surplus": 109852
       },
       {
         "name": "Coal India",
@@ -1769,7 +1701,7 @@
         }
       },
       {
-        "name": "INFY",
+        "name": "Infosys",
         "symbol": "INFY",
         "cagr": 16,
         "niftyCagr": 18.3,
@@ -1939,7 +1871,7 @@
             }
           ],
           "redeployment": {
-            "name": "INFY",
+            "name": "Infosys",
             "shares": 3900,
             "price": 1327.5,
             "costPerShare": 711.68,
@@ -1947,7 +1879,7 @@
             "ltcgExemption": 125000
           },
           "terminal": {
-            "name": "INFY",
+            "name": "Infosys",
             "ticker": "INFY",
             "totalShares": 3900,
             "price": 1327.5,
@@ -2814,7 +2746,7 @@
         }
       },
       {
-        "name": "ITCHOTELS",
+        "name": "ITC Hotels",
         "symbol": "ITCHOTELS",
         "cagr": -28,
         "niftyCagr": 10.2,
@@ -2916,7 +2848,7 @@
             }
           ],
           "redeployment": {
-            "name": "ITCHOTELS",
+            "name": "ITC Hotels",
             "shares": 1665,
             "price": 180.86,
             "costPerShare": 366.46,
@@ -2924,7 +2856,7 @@
             "ltcgExemption": 125000
           },
           "terminal": {
-            "name": "ITCHOTELS",
+            "name": "ITC Hotels",
             "ticker": "ITCHOTELS",
             "totalShares": 1665,
             "price": 180.86,
@@ -3487,6 +3419,56 @@
     ],
     "noTest": [
       {
+        "name": "K-Water International",
+        "symbol": "KWIL",
+        "invested": 498519,
+        "current": 745339,
+        "lots": [
+          {
+            "buy_date": "2024-12-05",
+            "quantity": 28700,
+            "buy_price": 17.37,
+            "invested": 498519,
+            "current_price": 25.97,
+            "current_value": 745339,
+            "nifty_buy_tri": 439.16,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 508645,
+            "nifty_cagr": 1.66,
+            "stock_cagr": 39.11,
+            "days_held": 445,
+            "years_held": 1.22,
+            "too_early": false,
+            "option_income": 0
+          }
+        ]
+      },
+      {
+        "name": "Nippon Liquid ETF",
+        "symbol": "LIQUIDBEES",
+        "invested": 13756914,
+        "current": 15114000,
+        "lots": [
+          {
+            "buy_date": "2025-01-01",
+            "quantity": 15114,
+            "buy_price": 910.21,
+            "invested": 13756914,
+            "current_price": 1000,
+            "current_value": 15114000,
+            "nifty_buy_tri": 424.17,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 14532376,
+            "nifty_cagr": 4.91,
+            "stock_cagr": 8.57,
+            "days_held": 418,
+            "years_held": 1.14,
+            "too_early": false,
+            "option_income": 0
+          }
+        ]
+      },
+      {
         "name": "ICICI Nifty 500 Index",
         "symbol": "MONIFTY500",
         "invested": 8782791,
@@ -3735,11 +3717,11 @@
     ]
   },
   "summary": {
-    "pass_count": 13,
+    "pass_count": 11,
     "fail_count": 15,
     "too_early_count": 4,
-    "no_test_count": 1,
-    "total_surplus": 8620449,
+    "no_test_count": 3,
+    "total_surplus": 8292262,
     "total_deficit": 187780460
   },
   "fno_summary": {
