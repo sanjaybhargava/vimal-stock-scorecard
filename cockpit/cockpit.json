@@ -5,7 +5,7 @@
   "ltcg_exemption": 125000,
   "portfolio": {
     "total_invested": 99470486,
-    "total_current": 156567037,
+    "total_current": 156538911,
     "by_class": {
       "active_mf": {
         "invested": 594552,
@@ -24,7 +24,7 @@
       },
       "stock": {
         "invested": 88442802,
-        "current": 143764087,
+        "current": 143735961,
         "count": 30
       }
     }
@@ -202,40 +202,6 @@
         "surplus": 1251045
       },
       {
-        "name": "KWIL",
-        "symbol": "KWIL",
-        "cagr": 43.4,
-        "niftyCagr": 1.7,
-        "hurdle": 4.7,
-        "hurdlePct": 3,
-        "invested": 498519,
-        "current": 773465,
-        "nifty": 508645,
-        "option_income": 0,
-        "lots": [
-          {
-            "buy_date": "2024-12-05",
-            "quantity": 28700,
-            "buy_price": 17.37,
-            "invested": 498519,
-            "current_price": 26.95,
-            "current_value": 773465,
-            "nifty_buy_tri": 439.16,
-            "nifty_report_tri": 448.08,
-            "shadow_nifty": 508645,
-            "nifty_cagr": 1.66,
-            "stock_cagr": 43.41,
-            "days_held": 445,
-            "years_held": 1.22,
-            "too_early": false,
-            "option_income": 0
-          }
-        ],
-        "deep_dive": false,
-        "asset_class": "stock",
-        "surplus": 246461
-      },
-      {
         "name": "Muthoot Finance",
         "symbol": "MUTHOOTFIN",
         "cagr": 27.2,
@@ -285,6 +251,40 @@
         "deep_dive": false,
         "asset_class": "stock",
         "surplus": 240091
+      },
+      {
+        "name": "KWIL",
+        "symbol": "KWIL",
+        "cagr": 39.1,
+        "niftyCagr": 1.7,
+        "hurdle": 4.7,
+        "hurdlePct": 3,
+        "invested": 498519,
+        "current": 745339,
+        "nifty": 508645,
+        "option_income": 0,
+        "lots": [
+          {
+            "buy_date": "2024-12-05",
+            "quantity": 28700,
+            "buy_price": 17.37,
+            "invested": 498519,
+            "current_price": 25.97,
+            "current_value": 745339,
+            "nifty_buy_tri": 439.16,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 508645,
+            "nifty_cagr": 1.66,
+            "stock_cagr": 39.11,
+            "days_held": 445,
+            "years_held": 1.22,
+            "too_early": false,
+            "option_income": 0
+          }
+        ],
+        "deep_dive": false,
+        "asset_class": "stock",
+        "surplus": 218335
       },
       {
         "name": "Torrent Pharma",
@@ -3739,7 +3739,7 @@
     "fail_count": 15,
     "too_early_count": 4,
     "no_test_count": 1,
-    "total_surplus": 8648575,
+    "total_surplus": 8620449,
     "total_deficit": 187780460
   },
   "fno_summary": {
