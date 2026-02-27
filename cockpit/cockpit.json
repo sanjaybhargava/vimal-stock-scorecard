@@ -4,13 +4,13 @@
   "tax_rate": 14.95,
   "ltcg_exemption": 125000,
   "portfolio": {
-    "total_invested": 116470486,
-    "total_current": 175138611,
+    "total_invested": 131569193,
+    "total_current": 191022066,
     "by_class": {
       "active_mf": {
-        "invested": 594552,
-        "current": 521600,
-        "count": 1
+        "invested": 9693161,
+        "current": 10307920,
+        "count": 5
       },
       "gold_etf": {
         "invested": 1650341,
@@ -18,9 +18,9 @@
         "count": 1
       },
       "index_mf": {
-        "invested": 39539705,
-        "current": 42818500,
-        "count": 3
+        "invested": 45539803,
+        "current": 48915635,
+        "count": 4
       },
       "stock": {
         "invested": 74685888,
@@ -3192,6 +3192,40 @@
         }
       },
       {
+        "name": "Axis Nifty 100 Index Fund",
+        "symbol": "AXISNIFTY100",
+        "cagr": 5.3,
+        "niftyCagr": 5.4,
+        "hurdle": 7.4,
+        "hurdlePct": 2,
+        "invested": 5249153,
+        "current": 5740187,
+        "nifty": 5750007,
+        "option_income": 0,
+        "lots": [
+          {
+            "buy_date": "2024-06-03",
+            "quantity": 245517,
+            "buy_price": 21.38,
+            "invested": 5249153,
+            "current_price": 23.38,
+            "current_value": 5740187,
+            "nifty_buy_tri": 409.05,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 5750007,
+            "nifty_cagr": 5.43,
+            "stock_cagr": 5.32,
+            "days_held": 630,
+            "years_held": 1.72,
+            "too_early": false,
+            "option_income": 0
+          }
+        ],
+        "deep_dive": false,
+        "asset_class": "active_mf",
+        "deficit": 197608
+      },
+      {
         "name": "ICICI Nifty200 Momentum 30",
         "symbol": "MOMENTUM50",
         "cagr": -9.6,
@@ -3292,6 +3326,74 @@
         "deep_dive": false,
         "asset_class": "active_mf",
         "deficit": 117057
+      },
+      {
+        "name": "ICICI Smallcap 250 Index Fund",
+        "symbol": "ICICISMCAP250",
+        "cagr": 1.5,
+        "niftyCagr": 7.4,
+        "hurdle": 9.4,
+        "hurdlePct": 2,
+        "invested": 349881,
+        "current": 359260,
+        "nifty": 395876,
+        "option_income": 0,
+        "lots": [
+          {
+            "buy_date": "2024-05-31",
+            "quantity": 21813,
+            "buy_price": 16.04,
+            "invested": 349881,
+            "current_price": 16.47,
+            "current_value": 359260,
+            "nifty_buy_tri": 396.02,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 395876,
+            "nifty_cagr": 7.39,
+            "stock_cagr": 1.54,
+            "days_held": 633,
+            "years_held": 1.73,
+            "too_early": false,
+            "option_income": 0
+          }
+        ],
+        "deep_dive": false,
+        "asset_class": "active_mf",
+        "deficit": 49390
+      },
+      {
+        "name": "Motilal Oswal Midcap 150 Index Fund",
+        "symbol": "MOMIDCAP150",
+        "cagr": 8.6,
+        "niftyCagr": 7.4,
+        "hurdle": 9.4,
+        "hurdlePct": 2,
+        "invested": 1399811,
+        "current": 1614484,
+        "nifty": 1583827,
+        "option_income": 0,
+        "lots": [
+          {
+            "buy_date": "2024-05-31",
+            "quantity": 40352,
+            "buy_price": 34.69,
+            "invested": 1399811,
+            "current_price": 40.01,
+            "current_value": 1614484,
+            "nifty_buy_tri": 396.02,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 1583827,
+            "nifty_cagr": 7.39,
+            "stock_cagr": 8.58,
+            "days_held": 633,
+            "years_held": 1.73,
+            "too_early": false,
+            "option_income": 0
+          }
+        ],
+        "deep_dive": false,
+        "asset_class": "active_mf",
+        "deficit": 20452
       }
     ],
     "tooEarly": [
@@ -3425,6 +3527,49 @@
         ]
       },
       {
+        "name": "Parag Parikh Flexi Cap Fund",
+        "symbol": "PPFCF",
+        "invested": 2099764,
+        "current": 2072389,
+        "gain_loss": -27375,
+        "lots": [
+          {
+            "buy_date": "2026-01-29",
+            "quantity": 21284,
+            "buy_price": 93.96,
+            "invested": 1999845,
+            "current_price": 92.77,
+            "current_value": 1974517,
+            "nifty_buy_tri": 441.07,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 2031629,
+            "nifty_cagr": 25.91,
+            "stock_cagr": -16.99,
+            "days_held": 25,
+            "years_held": 0.07,
+            "too_early": true,
+            "option_income": 0
+          },
+          {
+            "buy_date": "2026-01-08",
+            "quantity": 1055,
+            "buy_price": 94.71,
+            "invested": 99919,
+            "current_price": 92.77,
+            "current_value": 97872,
+            "nifty_buy_tri": 451.27,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 99213,
+            "nifty_cagr": -5.48,
+            "stock_cagr": -15.16,
+            "days_held": 46,
+            "years_held": 0.13,
+            "too_early": true,
+            "option_income": 0
+          }
+        ]
+      },
+      {
         "name": "RBL Bank",
         "symbol": "RBLBANK",
         "invested": 961549,
@@ -3472,6 +3617,133 @@
             "stock_cagr": 0.73,
             "days_held": 4504,
             "years_held": 12.33,
+            "too_early": false,
+            "option_income": 0
+          }
+        ]
+      },
+      {
+        "name": "Axis Nifty 500 Index Fund",
+        "symbol": "AXISNIFTY500",
+        "invested": 6000098,
+        "current": 6097135,
+        "lots": [
+          {
+            "buy_date": "2024-10-28",
+            "quantity": 203886,
+            "buy_price": 9.81,
+            "invested": 2000122,
+            "current_price": 10.27,
+            "current_value": 2093909,
+            "nifty_buy_tri": 426.84,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 2099650,
+            "nifty_cagr": 3.74,
+            "stock_cagr": 3.53,
+            "days_held": 483,
+            "years_held": 1.32,
+            "too_early": false,
+            "option_income": 0
+          },
+          {
+            "buy_date": "2024-10-21",
+            "quantity": 99265,
+            "buy_price": 10.07,
+            "invested": 999599,
+            "current_price": 10.27,
+            "current_value": 1019452,
+            "nifty_buy_tri": 438.36,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 1021764,
+            "nifty_cagr": 1.65,
+            "stock_cagr": 1.48,
+            "days_held": 490,
+            "years_held": 1.34,
+            "too_early": false,
+            "option_income": 0
+          },
+          {
+            "buy_date": "2024-10-03",
+            "quantity": 48611,
+            "buy_price": 10.29,
+            "invested": 500207,
+            "current_price": 10.27,
+            "current_value": 499235,
+            "nifty_buy_tri": 447.6,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 500743,
+            "nifty_cagr": 0.08,
+            "stock_cagr": -0.14,
+            "days_held": 508,
+            "years_held": 1.39,
+            "too_early": false,
+            "option_income": 0
+          },
+          {
+            "buy_date": "2024-10-03",
+            "quantity": 97223,
+            "buy_price": 10.29,
+            "invested": 1000425,
+            "current_price": 10.27,
+            "current_value": 998480,
+            "nifty_buy_tri": 447.6,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 1001498,
+            "nifty_cagr": 0.08,
+            "stock_cagr": -0.14,
+            "days_held": 508,
+            "years_held": 1.39,
+            "too_early": false,
+            "option_income": 0
+          },
+          {
+            "buy_date": "2024-09-25",
+            "quantity": 47385,
+            "buy_price": 10.55,
+            "invested": 499912,
+            "current_price": 10.27,
+            "current_value": 486644,
+            "nifty_buy_tri": 459.21,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 487795,
+            "nifty_cagr": -1.72,
+            "stock_cagr": -1.89,
+            "days_held": 516,
+            "years_held": 1.41,
+            "too_early": false,
+            "option_income": 0
+          },
+          {
+            "buy_date": "2024-09-13",
+            "quantity": 48252,
+            "buy_price": 10.36,
+            "invested": 499891,
+            "current_price": 10.27,
+            "current_value": 495548,
+            "nifty_buy_tri": 450.82,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 496853,
+            "nifty_cagr": -0.42,
+            "stock_cagr": -0.6,
+            "days_held": 528,
+            "years_held": 1.45,
+            "too_early": false,
+            "option_income": 0
+          },
+          {
+            "buy_date": "2024-09-11",
+            "quantity": 49062,
+            "buy_price": 10.19,
+            "invested": 499942,
+            "current_price": 10.27,
+            "current_value": 503867,
+            "nifty_buy_tri": 443.33,
+            "nifty_report_tri": 448.08,
+            "shadow_nifty": 505299,
+            "nifty_cagr": 0.74,
+            "stock_cagr": 0.54,
+            "days_held": 530,
+            "years_held": 1.45,
             "too_early": false,
             "option_income": 0
           }
@@ -3752,11 +4024,11 @@
   },
   "summary": {
     "pass_count": 12,
-    "fail_count": 15,
-    "too_early_count": 4,
-    "no_test_count": 3,
+    "fail_count": 18,
+    "too_early_count": 5,
+    "no_test_count": 4,
     "total_surplus": 8510597,
-    "total_deficit": 187780460
+    "total_deficit": 188047910
   },
   "fno_summary": {
     "total_attributed": 1280878,
