@@ -1603,7 +1603,7 @@
         }
       },
       {
-        "name": "HDFC AMC / Edelweiss",
+        "name": "Hindustan Foods",
         "symbol": "HNDFDS",
         "cagr": -16.5,
         "niftyCagr": 16.4,
@@ -1739,14 +1739,14 @@
             }
           ],
           "redeployment": {
-            "name": "HDFC AMC / Edelweiss",
+            "name": "Hindustan Foods",
             "shares": 1210,
             "price": 488.6,
             "costPerShare": 1121.91,
             "taxRate": 14.95
           },
           "terminal": {
-            "name": "HDFC AMC / Edelweiss",
+            "name": "Hindustan Foods",
             "ticker": "HNDFDS",
             "totalShares": 1210,
             "price": 488.6,
