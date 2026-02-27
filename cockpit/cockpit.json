@@ -31,7 +31,7 @@
       {
         "name": "Bharti Airtel",
         "symbol": "BHARTIARTL",
-        "cagr": 31.6,
+        "cagr": 32.5,
         "niftyCagr": 19.2,
         "hurdle": 22.2,
         "hurdlePct": 3,
@@ -50,7 +50,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 4569859,
             "nifty_cagr": 19.15,
-            "stock_cagr": 30.18,
+            "stock_cagr": 31.04,
             "days_held": 1985,
             "years_held": 5.43,
             "too_early": false
@@ -66,7 +66,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 1909042,
             "nifty_cagr": 19.32,
-            "stock_cagr": 34.99,
+            "stock_cagr": 35.97,
             "days_held": 1956,
             "years_held": 5.36,
             "too_early": false
@@ -159,7 +159,7 @@
       {
         "name": "Dixon Technologies",
         "symbol": "DIXON",
-        "cagr": 22.4,
+        "cagr": 22.3,
         "niftyCagr": 15.2,
         "hurdle": 18.2,
         "hurdlePct": 3,
@@ -178,7 +178,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 813137,
             "nifty_cagr": 15.37,
-            "stock_cagr": 21.92,
+            "stock_cagr": 21.8,
             "days_held": 1755,
             "years_held": 4.8,
             "too_early": false
@@ -194,7 +194,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 775939,
             "nifty_cagr": 15.11,
-            "stock_cagr": 22.83,
+            "stock_cagr": 22.86,
             "days_held": 1753,
             "years_held": 4.8,
             "too_early": false
@@ -207,7 +207,7 @@
       {
         "name": "Muthoot Finance",
         "symbol": "MUTHOOTFIN",
-        "cagr": 25.2,
+        "cagr": 27.2,
         "niftyCagr": 20.0,
         "hurdle": 23.0,
         "hurdlePct": 3,
@@ -226,7 +226,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 1957291,
             "nifty_cagr": 20.03,
-            "stock_cagr": 25.36,
+            "stock_cagr": 27.37,
             "days_held": 1980,
             "years_held": 5.42,
             "too_early": false
@@ -242,7 +242,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 110965,
             "nifty_cagr": 19.82,
-            "stock_cagr": 23.12,
+            "stock_cagr": 24.93,
             "days_held": 1972,
             "years_held": 5.4,
             "too_early": false
@@ -255,7 +255,7 @@
       {
         "name": "Apollo Hospitals",
         "symbol": "APOLLOHOSP",
-        "cagr": 13.0,
+        "cagr": 13.3,
         "niftyCagr": 6.5,
         "hurdle": 9.5,
         "hurdlePct": 3,
@@ -274,7 +274,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 73860,
             "nifty_cagr": 19.43,
-            "stock_cagr": 32.55,
+            "stock_cagr": 33.01,
             "days_held": 2002,
             "years_held": 5.48,
             "too_early": false
@@ -290,7 +290,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 81891,
             "nifty_cagr": 20.03,
-            "stock_cagr": 30.86,
+            "stock_cagr": 31.19,
             "days_held": 1980,
             "years_held": 5.42,
             "too_early": false
@@ -306,7 +306,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 82737,
             "nifty_cagr": 18.11,
-            "stock_cagr": 28.79,
+            "stock_cagr": 28.94,
             "days_held": 1931,
             "years_held": 5.29,
             "too_early": false
@@ -322,7 +322,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 76491,
             "nifty_cagr": 15.58,
-            "stock_cagr": 25.22,
+            "stock_cagr": 24.7,
             "days_held": 1875,
             "years_held": 5.13,
             "too_early": false
@@ -338,7 +338,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 79068,
             "nifty_cagr": 16.42,
-            "stock_cagr": 23.74,
+            "stock_cagr": 23.96,
             "days_held": 1852,
             "years_held": 5.07,
             "too_early": false
@@ -354,7 +354,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 75161,
             "nifty_cagr": 14.75,
-            "stock_cagr": 21.57,
+            "stock_cagr": 21.33,
             "days_held": 1806,
             "years_held": 4.94,
             "too_early": false
@@ -370,7 +370,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 84059,
             "nifty_cagr": 13.8,
-            "stock_cagr": 19.98,
+            "stock_cagr": 20.59,
             "days_held": 1712,
             "years_held": 4.69,
             "too_early": false
@@ -386,7 +386,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 87793,
             "nifty_cagr": 11.81,
-            "stock_cagr": 13.1,
+            "stock_cagr": 13.52,
             "days_held": 1606,
             "years_held": 4.4,
             "too_early": false
@@ -402,7 +402,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 117218,
             "nifty_cagr": 13.06,
-            "stock_cagr": 14.42,
+            "stock_cagr": 14.48,
             "days_held": 1490,
             "years_held": 4.08,
             "too_early": false
@@ -418,7 +418,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 176772,
             "nifty_cagr": 15.26,
-            "stock_cagr": 12.68,
+            "stock_cagr": 13.26,
             "days_held": 1452,
             "years_held": 3.98,
             "too_early": false
@@ -434,7 +434,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 649210,
             "nifty_cagr": 0.08,
-            "stock_cagr": 8.15,
+            "stock_cagr": 8.38,
             "days_held": 508,
             "years_held": 1.39,
             "too_early": false
@@ -447,7 +447,7 @@
       {
         "name": "Thermax",
         "symbol": "THERMAX",
-        "cagr": 20.1,
+        "cagr": 20.8,
         "niftyCagr": 15.3,
         "hurdle": 18.3,
         "hurdlePct": 3,
@@ -466,7 +466,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 74419,
             "nifty_cagr": 19.43,
-            "stock_cagr": 29.66,
+            "stock_cagr": 29.98,
             "days_held": 2002,
             "years_held": 5.48,
             "too_early": false
@@ -482,7 +482,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 73387,
             "nifty_cagr": 20.03,
-            "stock_cagr": 30.77,
+            "stock_cagr": 31.42,
             "days_held": 1980,
             "years_held": 5.42,
             "too_early": false
@@ -498,7 +498,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 69731,
             "nifty_cagr": 18.11,
-            "stock_cagr": 30.2,
+            "stock_cagr": 30.99,
             "days_held": 1931,
             "years_held": 5.29,
             "too_early": false
@@ -514,7 +514,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 61863,
             "nifty_cagr": 15.58,
-            "stock_cagr": 27.15,
+            "stock_cagr": 26.66,
             "days_held": 1875,
             "years_held": 5.13,
             "too_early": false
@@ -530,7 +530,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 64020,
             "nifty_cagr": 16.42,
-            "stock_cagr": 26.57,
+            "stock_cagr": 26.9,
             "days_held": 1852,
             "years_held": 5.07,
             "too_early": false
@@ -546,7 +546,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 78701,
             "nifty_cagr": 14.75,
-            "stock_cagr": 18.3,
+            "stock_cagr": 18.48,
             "days_held": 1806,
             "years_held": 4.94,
             "too_early": false
@@ -562,7 +562,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 83245,
             "nifty_cagr": 13.8,
-            "stock_cagr": 17.79,
+            "stock_cagr": 18.96,
             "days_held": 1712,
             "years_held": 4.69,
             "too_early": false
@@ -578,7 +578,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 59798,
             "nifty_cagr": 11.81,
-            "stock_cagr": 21.19,
+            "stock_cagr": 21.87,
             "days_held": 1606,
             "years_held": 4.4,
             "too_early": false
@@ -594,7 +594,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 113939,
             "nifty_cagr": 13.06,
-            "stock_cagr": 12.2,
+            "stock_cagr": 12.54,
             "days_held": 1490,
             "years_held": 4.08,
             "too_early": false
@@ -610,7 +610,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 150335,
             "nifty_cagr": 15.26,
-            "stock_cagr": 13.61,
+            "stock_cagr": 14.95,
             "days_held": 1452,
             "years_held": 3.98,
             "too_early": false
@@ -625,7 +625,7 @@
       {
         "name": "Hindustan Unilever",
         "symbol": "HINDUNILVR",
-        "cagr": 10.9,
+        "cagr": 12.5,
         "niftyCagr": 16.2,
         "hurdle": 19.2,
         "hurdlePct": 3,
@@ -644,7 +644,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 94577719,
             "nifty_cagr": 16.21,
-            "stock_cagr": 10.95,
+            "stock_cagr": 12.5,
             "days_held": 3650,
             "years_held": 9.99,
             "too_early": false
@@ -659,7 +659,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Feb 2016 \u2192 Jan 2018",
-              "stockCagr": 29.0,
+              "stockCagr": 31.3,
               "niftyCagr": 31.4,
               "listed": true
             },
@@ -667,7 +667,7 @@
               "regime": "Bear",
               "icon": "\u2198",
               "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": 15.6,
+              "stockCagr": 17.0,
               "niftyCagr": -17.5,
               "listed": true
             },
@@ -675,7 +675,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 8.7,
+              "stockCagr": 10.4,
               "niftyCagr": 35.8,
               "listed": true
             },
@@ -683,7 +683,7 @@
               "regime": "Sideways",
               "icon": "\u2192",
               "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": -14.6,
+              "stockCagr": -12.8,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -747,7 +747,7 @@
       {
         "name": "Reliance Industries",
         "symbol": "RELIANCE",
-        "cagr": -6.2,
+        "cagr": 8.7,
         "niftyCagr": 18.3,
         "hurdle": 21.3,
         "hurdlePct": 3,
@@ -766,7 +766,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 7508298,
             "nifty_cagr": 19.14,
-            "stock_cagr": -6.22,
+            "stock_cagr": 8.55,
             "days_held": 1945,
             "years_held": 5.33,
             "too_early": false
@@ -782,7 +782,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 64785,
             "nifty_cagr": 18.11,
-            "stock_cagr": -6.76,
+            "stock_cagr": 8.12,
             "days_held": 1931,
             "years_held": 5.29,
             "too_early": false
@@ -798,7 +798,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 2076852,
             "nifty_cagr": 16.02,
-            "stock_cagr": -6.26,
+            "stock_cagr": 9.26,
             "days_held": 1881,
             "years_held": 5.15,
             "too_early": false
@@ -814,7 +814,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 45643,
             "nifty_cagr": 15.58,
-            "stock_cagr": -6.11,
+            "stock_cagr": 9.61,
             "days_held": 1875,
             "years_held": 5.13,
             "too_early": false
@@ -830,7 +830,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 45303,
             "nifty_cagr": 16.42,
-            "stock_cagr": -5.53,
+            "stock_cagr": 10.75,
             "days_held": 1852,
             "years_held": 5.07,
             "too_early": false
@@ -846,7 +846,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 41531,
             "nifty_cagr": 14.75,
-            "stock_cagr": -7.54,
+            "stock_cagr": 8.45,
             "days_held": 1806,
             "years_held": 4.94,
             "too_early": false
@@ -861,7 +861,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Feb 2016 \u2192 Jan 2018",
-              "stockCagr": 43.7,
+              "stockCagr": 45.2,
               "niftyCagr": 31.4,
               "listed": true
             },
@@ -869,7 +869,7 @@
               "regime": "Bear",
               "icon": "\u2198",
               "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": -3.0,
+              "stockCagr": -2.4,
               "niftyCagr": -17.5,
               "listed": true
             },
@@ -877,7 +877,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 31.3,
+              "stockCagr": 31.8,
               "niftyCagr": 35.8,
               "listed": true
             },
@@ -885,7 +885,7 @@
               "regime": "Sideways",
               "icon": "\u2192",
               "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": -1.8,
+              "stockCagr": -1.5,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -949,7 +949,7 @@
       {
         "name": "Britannia Industries",
         "symbol": "BRITANNIA",
-        "cagr": 8.6,
+        "cagr": 11.0,
         "niftyCagr": 19.5,
         "hurdle": 22.5,
         "hurdlePct": 3,
@@ -968,7 +968,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 262297,
             "nifty_cagr": 14.48,
-            "stock_cagr": 1.06,
+            "stock_cagr": 12.7,
             "days_held": 2707,
             "years_held": 7.41,
             "too_early": false
@@ -984,7 +984,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 7000263,
             "nifty_cagr": 19.8,
-            "stock_cagr": 8.71,
+            "stock_cagr": 10.88,
             "days_held": 2042,
             "years_held": 5.59,
             "too_early": false
@@ -1000,7 +1000,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 995053,
             "nifty_cagr": 19.4,
-            "stock_cagr": 8.76,
+            "stock_cagr": 10.99,
             "days_held": 2020,
             "years_held": 5.53,
             "too_early": false
@@ -1016,7 +1016,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 68832,
             "nifty_cagr": 19.43,
-            "stock_cagr": 9.54,
+            "stock_cagr": 11.1,
             "days_held": 2002,
             "years_held": 5.48,
             "too_early": false
@@ -1032,7 +1032,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 66959,
             "nifty_cagr": 20.03,
-            "stock_cagr": 10.55,
+            "stock_cagr": 12.0,
             "days_held": 1980,
             "years_held": 5.42,
             "too_early": false
@@ -1048,7 +1048,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 59147,
             "nifty_cagr": 18.11,
-            "stock_cagr": 11.12,
+            "stock_cagr": 12.8,
             "days_held": 1931,
             "years_held": 5.29,
             "too_early": false
@@ -1064,7 +1064,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 44783,
             "nifty_cagr": 15.58,
-            "stock_cagr": 11.2,
+            "stock_cagr": 12.94,
             "days_held": 1875,
             "years_held": 5.13,
             "too_early": false
@@ -1080,7 +1080,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 47292,
             "nifty_cagr": 16.42,
-            "stock_cagr": 10.76,
+            "stock_cagr": 12.79,
             "days_held": 1852,
             "years_held": 5.07,
             "too_early": false
@@ -1096,7 +1096,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 40317,
             "nifty_cagr": 14.75,
-            "stock_cagr": 12.61,
+            "stock_cagr": 14.13,
             "days_held": 1806,
             "years_held": 4.94,
             "too_early": false
@@ -1111,7 +1111,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Feb 2016 \u2192 Jan 2018",
-              "stockCagr": 31.6,
+              "stockCagr": 32.5,
               "niftyCagr": 31.4,
               "listed": true
             },
@@ -1119,7 +1119,7 @@
               "regime": "Bear",
               "icon": "\u2198",
               "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": -4.7,
+              "stockCagr": -4.3,
               "niftyCagr": -17.5,
               "listed": true
             },
@@ -1127,7 +1127,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 24.4,
+              "stockCagr": 27.1,
               "niftyCagr": 35.8,
               "listed": true
             },
@@ -1135,7 +1135,7 @@
               "regime": "Sideways",
               "icon": "\u2192",
               "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": -3.6,
+              "stockCagr": -2.7,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -1199,7 +1199,7 @@
       {
         "name": "Affle India",
         "symbol": "AFFLE",
-        "cagr": -19.9,
+        "cagr": 11.9,
         "niftyCagr": 14.9,
         "hurdle": 17.9,
         "hurdlePct": 3,
@@ -1218,7 +1218,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 406457,
             "nifty_cagr": 16.57,
-            "stock_cagr": -15.65,
+            "stock_cagr": 14.9,
             "days_held": 1901,
             "years_held": 5.2,
             "too_early": false
@@ -1234,7 +1234,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 830181,
             "nifty_cagr": 16.22,
-            "stock_cagr": -16.36,
+            "stock_cagr": 14.28,
             "days_held": 1893,
             "years_held": 5.18,
             "too_early": false
@@ -1250,7 +1250,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 1024841,
             "nifty_cagr": 14.99,
-            "stock_cagr": -22.92,
+            "stock_cagr": 7.73,
             "days_held": 1749,
             "years_held": 4.79,
             "too_early": false
@@ -1266,7 +1266,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 1606872,
             "nifty_cagr": 13.82,
-            "stock_cagr": -20.54,
+            "stock_cagr": 12.84,
             "days_held": 1699,
             "years_held": 4.65,
             "too_early": false
@@ -1523,7 +1523,7 @@
       {
         "name": "Pidilite Industries",
         "symbol": "PIDILITIND",
-        "cagr": -3.7,
+        "cagr": 10.8,
         "niftyCagr": 15.6,
         "hurdle": 18.6,
         "hurdlePct": 3,
@@ -1542,7 +1542,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 1893964,
             "nifty_cagr": 15.64,
-            "stock_cagr": -3.7,
+            "stock_cagr": 10.77,
             "days_held": 1874,
             "years_held": 5.13,
             "too_early": false
@@ -1557,7 +1557,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Feb 2016 \u2192 Jan 2018",
-              "stockCagr": 22.5,
+              "stockCagr": 23.3,
               "niftyCagr": 31.4,
               "listed": true
             },
@@ -1565,7 +1565,7 @@
               "regime": "Bear",
               "icon": "\u2198",
               "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": 17.6,
+              "stockCagr": 18.4,
               "niftyCagr": -17.5,
               "listed": true
             },
@@ -1573,7 +1573,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 23.9,
+              "stockCagr": 24.4,
               "niftyCagr": 35.8,
               "listed": true
             },
@@ -1581,7 +1581,7 @@
               "regime": "Sideways",
               "icon": "\u2192",
               "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": -8.2,
+              "stockCagr": -7.8,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -1645,7 +1645,7 @@
       {
         "name": "Praj Industries",
         "symbol": "PRAJIND",
-        "cagr": -2.7,
+        "cagr": -1.7,
         "niftyCagr": 14.6,
         "hurdle": 17.6,
         "hurdlePct": 3,
@@ -1664,7 +1664,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 1348729,
             "nifty_cagr": 14.56,
-            "stock_cagr": -2.73,
+            "stock_cagr": -1.67,
             "days_held": 1739,
             "years_held": 4.76,
             "too_early": false
@@ -1679,7 +1679,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Feb 2016 \u2192 Jan 2018",
-              "stockCagr": 17.9,
+              "stockCagr": 20.4,
               "niftyCagr": 31.4,
               "listed": true
             },
@@ -1687,7 +1687,7 @@
               "regime": "Bear",
               "icon": "\u2198",
               "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": -30.8,
+              "stockCagr": -28.3,
               "niftyCagr": -17.5,
               "listed": true
             },
@@ -1695,7 +1695,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 89.4,
+              "stockCagr": 90.9,
               "niftyCagr": 35.8,
               "listed": true
             },
@@ -1703,7 +1703,7 @@
               "regime": "Sideways",
               "icon": "\u2192",
               "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": -48.4,
+              "stockCagr": -47.9,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -1767,7 +1767,7 @@
       {
         "name": "Vaibhav Global",
         "symbol": "VAIBHAVGBL",
-        "cagr": -43.3,
+        "cagr": -19.7,
         "niftyCagr": 15.5,
         "hurdle": 18.5,
         "hurdlePct": 3,
@@ -1786,7 +1786,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 773084,
             "nifty_cagr": 15.52,
-            "stock_cagr": -43.27,
+            "stock_cagr": -19.74,
             "days_held": 1795,
             "years_held": 4.91,
             "too_early": false
@@ -1809,7 +1809,7 @@
               "regime": "Bear",
               "icon": "\u2198",
               "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": -7.2,
+              "stockCagr": -6.4,
               "niftyCagr": -17.5,
               "listed": true
             },
@@ -1817,7 +1817,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 22.1,
+              "stockCagr": 24.7,
               "niftyCagr": 35.8,
               "listed": true
             },
@@ -1825,7 +1825,7 @@
               "regime": "Sideways",
               "icon": "\u2192",
               "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": -17.1,
+              "stockCagr": -14.9,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -1889,7 +1889,7 @@
       {
         "name": "Info Edge (Naukri)",
         "symbol": "NAUKRI",
-        "cagr": -28.0,
+        "cagr": 11.9,
         "niftyCagr": 18.7,
         "hurdle": 21.7,
         "hurdlePct": 3,
@@ -1908,7 +1908,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 841218,
             "nifty_cagr": 18.68,
-            "stock_cagr": -28.01,
+            "stock_cagr": 11.92,
             "days_held": 1344,
             "years_held": 3.68,
             "too_early": false
@@ -1923,7 +1923,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Feb 2016 \u2192 Jan 2018",
-              "stockCagr": 38.0,
+              "stockCagr": 38.7,
               "niftyCagr": 31.4,
               "listed": true
             },
@@ -1931,7 +1931,7 @@
               "regime": "Bear",
               "icon": "\u2198",
               "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": 12.0,
+              "stockCagr": 12.4,
               "niftyCagr": -17.5,
               "listed": true
             },
@@ -1939,7 +1939,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 40.0,
+              "stockCagr": 40.3,
               "niftyCagr": 35.8,
               "listed": true
             },
@@ -1947,7 +1947,7 @@
               "regime": "Sideways",
               "icon": "\u2192",
               "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": -26.3,
+              "stockCagr": -25.9,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -2011,7 +2011,7 @@
       {
         "name": "Tata Steel",
         "symbol": "TATASTEEL",
-        "cagr": -32.2,
+        "cagr": 29.7,
         "niftyCagr": 18.7,
         "hurdle": 21.7,
         "hurdlePct": 3,
@@ -2030,7 +2030,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 695811,
             "nifty_cagr": 18.68,
-            "stock_cagr": -32.25,
+            "stock_cagr": 29.72,
             "days_held": 1344,
             "years_held": 3.68,
             "too_early": false
@@ -2045,7 +2045,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Feb 2016 \u2192 Jan 2018",
-              "stockCagr": 75.9,
+              "stockCagr": 79.6,
               "niftyCagr": 31.4,
               "listed": true
             },
@@ -2053,7 +2053,7 @@
               "regime": "Bear",
               "icon": "\u2198",
               "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": -35.7,
+              "stockCagr": -34.4,
               "niftyCagr": -17.5,
               "listed": true
             },
@@ -2061,7 +2061,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 49.7,
+              "stockCagr": 54.9,
               "niftyCagr": 35.8,
               "listed": true
             },
@@ -2069,7 +2069,7 @@
               "regime": "Sideways",
               "icon": "\u2192",
               "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": 17.1,
+              "stockCagr": 19.0,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -2133,7 +2133,7 @@
       {
         "name": "Siemens",
         "symbol": "SIEMENS",
-        "cagr": -40.6,
+        "cagr": -2.8,
         "niftyCagr": 11.3,
         "hurdle": 14.3,
         "hurdlePct": 3,
@@ -2152,7 +2152,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 485886,
             "nifty_cagr": 10.02,
-            "stock_cagr": -40.82,
+            "stock_cagr": -3.32,
             "days_held": 397,
             "years_held": 1.09,
             "too_early": false
@@ -2168,7 +2168,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 489328,
             "nifty_cagr": 12.53,
-            "stock_cagr": -40.34,
+            "stock_cagr": -2.29,
             "days_held": 392,
             "years_held": 1.07,
             "too_early": false
@@ -2184,7 +2184,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 454841,
             "nifty_cagr": 28.88,
-            "stock_cagr": 327.03,
+            "stock_cagr": 321.43,
             "days_held": 26,
             "years_held": 0.07,
             "too_early": true
@@ -2199,7 +2199,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Feb 2016 \u2192 Jan 2018",
-              "stockCagr": 15.0,
+              "stockCagr": 18.3,
               "niftyCagr": 31.4,
               "listed": true
             },
@@ -2207,7 +2207,7 @@
               "regime": "Bear",
               "icon": "\u2198",
               "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": -12.5,
+              "stockCagr": -11.6,
               "niftyCagr": -17.5,
               "listed": true
             },
@@ -2215,7 +2215,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 54.4,
+              "stockCagr": 55.1,
               "niftyCagr": 35.8,
               "listed": true
             },
@@ -2223,7 +2223,7 @@
               "regime": "Sideways",
               "icon": "\u2192",
               "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": -18.7,
+              "stockCagr": -18.5,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -2287,7 +2287,7 @@
       {
         "name": "Havells India",
         "symbol": "HAVELLS",
-        "cagr": 6.9,
+        "cagr": 7.6,
         "niftyCagr": 14.6,
         "hurdle": 17.6,
         "hurdlePct": 3,
@@ -2306,7 +2306,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 1180043,
             "nifty_cagr": 14.56,
-            "stock_cagr": 6.87,
+            "stock_cagr": 7.59,
             "days_held": 1739,
             "years_held": 4.76,
             "too_early": false
@@ -2321,7 +2321,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Feb 2016 \u2192 Jan 2018",
-              "stockCagr": 39.3,
+              "stockCagr": 40.4,
               "niftyCagr": 31.4,
               "listed": true
             },
@@ -2329,7 +2329,7 @@
               "regime": "Bear",
               "icon": "\u2198",
               "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": -2.4,
+              "stockCagr": -1.5,
               "niftyCagr": -17.5,
               "listed": true
             },
@@ -2337,7 +2337,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 36.7,
+              "stockCagr": 37.4,
               "niftyCagr": 35.8,
               "listed": true
             },
@@ -2345,7 +2345,7 @@
               "regime": "Sideways",
               "icon": "\u2192",
               "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": -22.0,
+              "stockCagr": -21.5,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -2409,7 +2409,7 @@
       {
         "name": "Cipla",
         "symbol": "CIPLA",
-        "cagr": 10.2,
+        "cagr": 10.9,
         "niftyCagr": 17.1,
         "hurdle": 20.1,
         "hurdlePct": 3,
@@ -2428,7 +2428,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 74128,
             "nifty_cagr": 19.43,
-            "stock_cagr": 11.85,
+            "stock_cagr": 12.75,
             "days_held": 2002,
             "years_held": 5.48,
             "too_early": false
@@ -2444,7 +2444,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 81834,
             "nifty_cagr": 20.03,
-            "stock_cagr": 10.3,
+            "stock_cagr": 11.12,
             "days_held": 1980,
             "years_held": 5.42,
             "too_early": false
@@ -2460,7 +2460,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 68603,
             "nifty_cagr": 18.11,
-            "stock_cagr": 11.97,
+            "stock_cagr": 13.13,
             "days_held": 1931,
             "years_held": 5.29,
             "too_early": false
@@ -2476,7 +2476,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 59796,
             "nifty_cagr": 15.58,
-            "stock_cagr": 9.4,
+            "stock_cagr": 10.44,
             "days_held": 1875,
             "years_held": 5.13,
             "too_early": false
@@ -2492,7 +2492,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 60124,
             "nifty_cagr": 16.42,
-            "stock_cagr": 9.36,
+            "stock_cagr": 10.19,
             "days_held": 1852,
             "years_held": 5.07,
             "too_early": false
@@ -2508,7 +2508,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 48697,
             "nifty_cagr": 14.75,
-            "stock_cagr": 10.89,
+            "stock_cagr": 11.46,
             "days_held": 1806,
             "years_held": 4.94,
             "too_early": false
@@ -2524,7 +2524,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 57478,
             "nifty_cagr": 13.8,
-            "stock_cagr": 7.38,
+            "stock_cagr": 8.22,
             "days_held": 1712,
             "years_held": 4.69,
             "too_early": false
@@ -2540,7 +2540,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 44717,
             "nifty_cagr": 11.81,
-            "stock_cagr": 7.19,
+            "stock_cagr": 7.76,
             "days_held": 1606,
             "years_held": 4.4,
             "too_early": false
@@ -2556,7 +2556,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 54418,
             "nifty_cagr": 13.06,
-            "stock_cagr": 10.24,
+            "stock_cagr": 10.67,
             "days_held": 1490,
             "years_held": 4.08,
             "too_early": false
@@ -2572,7 +2572,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 79047,
             "nifty_cagr": 15.26,
-            "stock_cagr": 9.15,
+            "stock_cagr": 10.19,
             "days_held": 1452,
             "years_held": 3.98,
             "too_early": false
@@ -2588,7 +2588,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 493468,
             "nifty_cagr": 18.68,
-            "stock_cagr": 10.81,
+            "stock_cagr": 11.23,
             "days_held": 1344,
             "years_held": 3.68,
             "too_early": false
@@ -2603,7 +2603,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Feb 2016 \u2192 Jan 2018",
-              "stockCagr": 7.6,
+              "stockCagr": 8.0,
               "niftyCagr": 31.4,
               "listed": true
             },
@@ -2611,7 +2611,7 @@
               "regime": "Bear",
               "icon": "\u2198",
               "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": -18.9,
+              "stockCagr": -18.1,
               "niftyCagr": -17.5,
               "listed": true
             },
@@ -2619,7 +2619,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 38.7,
+              "stockCagr": 39.5,
               "niftyCagr": 35.8,
               "listed": true
             },
@@ -2627,7 +2627,7 @@
               "regime": "Sideways",
               "icon": "\u2192",
               "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": -15.0,
+              "stockCagr": -14.4,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -2691,7 +2691,7 @@
       {
         "name": "Torrent Pharma",
         "symbol": "TORNTPHARM",
-        "cagr": 9.6,
+        "cagr": 28.6,
         "niftyCagr": 15.9,
         "hurdle": 18.9,
         "hurdlePct": 3,
@@ -2710,7 +2710,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 70052,
             "nifty_cagr": 19.43,
-            "stock_cagr": 9.29,
+            "stock_cagr": 25.51,
             "days_held": 2002,
             "years_held": 5.48,
             "too_early": false
@@ -2726,7 +2726,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 72435,
             "nifty_cagr": 20.03,
-            "stock_cagr": 9.06,
+            "stock_cagr": 25.27,
             "days_held": 1980,
             "years_held": 5.42,
             "too_early": false
@@ -2742,7 +2742,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 60933,
             "nifty_cagr": 18.11,
-            "stock_cagr": 10.61,
+            "stock_cagr": 28.75,
             "days_held": 1931,
             "years_held": 5.29,
             "too_early": false
@@ -2758,7 +2758,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 53124,
             "nifty_cagr": 15.58,
-            "stock_cagr": 8.7,
+            "stock_cagr": 26.12,
             "days_held": 1875,
             "years_held": 5.13,
             "too_early": false
@@ -2774,7 +2774,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 50913,
             "nifty_cagr": 16.42,
-            "stock_cagr": 10.33,
+            "stock_cagr": 27.82,
             "days_held": 1852,
             "years_held": 5.07,
             "too_early": false
@@ -2790,7 +2790,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 38418,
             "nifty_cagr": 14.75,
-            "stock_cagr": 12.25,
+            "stock_cagr": 30.82,
             "days_held": 1806,
             "years_held": 4.94,
             "too_early": false
@@ -2806,7 +2806,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 43193,
             "nifty_cagr": 13.8,
-            "stock_cagr": 8.45,
+            "stock_cagr": 27.22,
             "days_held": 1712,
             "years_held": 4.69,
             "too_early": false
@@ -2822,7 +2822,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 35077,
             "nifty_cagr": 11.81,
-            "stock_cagr": 8.03,
+            "stock_cagr": 28.03,
             "days_held": 1606,
             "years_held": 4.4,
             "too_early": false
@@ -2838,7 +2838,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 46734,
             "nifty_cagr": 13.06,
-            "stock_cagr": 8.0,
+            "stock_cagr": 29.69,
             "days_held": 1490,
             "years_held": 4.08,
             "too_early": false
@@ -2854,7 +2854,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 58841,
             "nifty_cagr": 15.26,
-            "stock_cagr": 11.56,
+            "stock_cagr": 35.03,
             "days_held": 1452,
             "years_held": 3.98,
             "too_early": false
@@ -2869,7 +2869,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Feb 2016 \u2192 Jan 2018",
-              "stockCagr": 4.0,
+              "stockCagr": 5.2,
               "niftyCagr": 31.4,
               "listed": true
             },
@@ -2877,7 +2877,7 @@
               "regime": "Bear",
               "icon": "\u2198",
               "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": 14.1,
+              "stockCagr": 16.0,
               "niftyCagr": -17.5,
               "listed": true
             },
@@ -2885,7 +2885,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 33.9,
+              "stockCagr": 35.5,
               "niftyCagr": 35.8,
               "listed": true
             },
@@ -2893,7 +2893,7 @@
               "regime": "Sideways",
               "icon": "\u2192",
               "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": 19.2,
+              "stockCagr": 20.6,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -2957,7 +2957,7 @@
       {
         "name": "LTIMindtree",
         "symbol": "MINDTREE",
-        "cagr": 16.4,
+        "cagr": 7.0,
         "niftyCagr": 18.7,
         "hurdle": 21.7,
         "hurdlePct": 3,
@@ -2976,7 +2976,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 1038671,
             "nifty_cagr": 18.68,
-            "stock_cagr": 16.37,
+            "stock_cagr": 6.99,
             "days_held": 1344,
             "years_held": 3.68,
             "too_early": false
@@ -2999,7 +2999,7 @@
               "regime": "Bear",
               "icon": "\u2198",
               "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": -0.3,
+              "stockCagr": 1.3,
               "niftyCagr": -17.5,
               "listed": true
             },
@@ -3007,7 +3007,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 39.5,
+              "stockCagr": 41.2,
               "niftyCagr": 35.8,
               "listed": true
             },
@@ -3015,7 +3015,7 @@
               "regime": "Sideways",
               "icon": "\u2192",
               "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": -17.1,
+              "stockCagr": -16.1,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -3079,7 +3079,7 @@
       {
         "name": "Coal India",
         "symbol": "COALINDIA",
-        "cagr": -8.9,
+        "cagr": 0.3,
         "niftyCagr": -0.2,
         "hurdle": 2.8,
         "hurdlePct": 3,
@@ -3098,7 +3098,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 1019501,
             "nifty_cagr": -0.21,
-            "stock_cagr": -8.93,
+            "stock_cagr": 0.26,
             "days_held": 522,
             "years_held": 1.43,
             "too_early": false
@@ -3114,7 +3114,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 268200,
             "nifty_cagr": 28.88,
-            "stock_cagr": -34.45,
+            "stock_cagr": -32.87,
             "days_held": 26,
             "years_held": 0.07,
             "too_early": true
@@ -3129,7 +3129,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Feb 2016 \u2192 Jan 2018",
-              "stockCagr": 0.7,
+              "stockCagr": 8.9,
               "niftyCagr": 31.4,
               "listed": true
             },
@@ -3137,7 +3137,7 @@
               "regime": "Bear",
               "icon": "\u2198",
               "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": -32.4,
+              "stockCagr": -25.9,
               "niftyCagr": -17.5,
               "listed": true
             },
@@ -3145,7 +3145,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 35.8,
+              "stockCagr": 48.1,
               "niftyCagr": 35.8,
               "listed": true
             },
@@ -3153,7 +3153,7 @@
               "regime": "Sideways",
               "icon": "\u2192",
               "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": -11.9,
+              "stockCagr": -4.1,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -3217,7 +3217,7 @@
       {
         "name": "Hindustan Aeronautics",
         "symbol": "HAL",
-        "cagr": -6.0,
+        "cagr": -2.2,
         "niftyCagr": -0.2,
         "hurdle": 2.8,
         "hurdlePct": 3,
@@ -3236,7 +3236,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 1315138,
             "nifty_cagr": -0.21,
-            "stock_cagr": -5.99,
+            "stock_cagr": -2.16,
             "days_held": 522,
             "years_held": 1.43,
             "too_early": false
@@ -3267,7 +3267,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 90.6,
+              "stockCagr": 94.6,
               "niftyCagr": 35.8,
               "listed": true
             },
@@ -3275,7 +3275,7 @@
               "regime": "Sideways",
               "icon": "\u2192",
               "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": -6.6,
+              "stockCagr": -5.3,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -3339,7 +3339,7 @@
       {
         "name": "NTPC",
         "symbol": "NTPC",
-        "cagr": 3.2,
+        "cagr": 6.1,
         "niftyCagr": 6.0,
         "hurdle": 9.0,
         "hurdlePct": 3,
@@ -3358,7 +3358,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 647363,
             "nifty_cagr": 4.22,
-            "stock_cagr": -6.35,
+            "stock_cagr": -2.42,
             "days_held": 476,
             "years_held": 1.3,
             "too_early": false
@@ -3374,7 +3374,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 580916,
             "nifty_cagr": 3.75,
-            "stock_cagr": 1.19,
+            "stock_cagr": 4.14,
             "days_held": 453,
             "years_held": 1.24,
             "too_early": false
@@ -3390,7 +3390,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 527437,
             "nifty_cagr": 10.93,
-            "stock_cagr": 17.96,
+            "stock_cagr": 19.44,
             "days_held": 390,
             "years_held": 1.07,
             "too_early": false
@@ -3405,7 +3405,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Feb 2016 \u2192 Jan 2018",
-              "stockCagr": 20.5,
+              "stockCagr": 23.0,
               "niftyCagr": 31.4,
               "listed": true
             },
@@ -3413,7 +3413,7 @@
               "regime": "Bear",
               "icon": "\u2198",
               "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": -24.9,
+              "stockCagr": -22.1,
               "niftyCagr": -17.5,
               "listed": true
             },
@@ -3421,7 +3421,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 47.1,
+              "stockCagr": 54.0,
               "niftyCagr": 35.8,
               "listed": true
             },
@@ -3429,7 +3429,7 @@
               "regime": "Sideways",
               "icon": "\u2192",
               "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": -10.8,
+              "stockCagr": -8.2,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -3493,7 +3493,7 @@
       {
         "name": "Indraprastha Gas",
         "symbol": "IGL",
-        "cagr": -22.1,
+        "cagr": 3.9,
         "niftyCagr": 13.7,
         "hurdle": 16.7,
         "hurdlePct": 3,
@@ -3512,7 +3512,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 22166,
             "nifty_cagr": 13.95,
-            "stock_cagr": -20.56,
+            "stock_cagr": 5.63,
             "days_held": 3118,
             "years_held": 8.54,
             "too_early": false
@@ -3528,7 +3528,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 7669,
             "nifty_cagr": 13.72,
-            "stock_cagr": -21.12,
+            "stock_cagr": 5.03,
             "days_held": 3111,
             "years_held": 8.52,
             "too_early": false
@@ -3544,7 +3544,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 34081,
             "nifty_cagr": 13.65,
-            "stock_cagr": -22.48,
+            "stock_cagr": 3.59,
             "days_held": 3076,
             "years_held": 8.42,
             "too_early": false
@@ -3560,7 +3560,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 17641,
             "nifty_cagr": 13.51,
-            "stock_cagr": -23.08,
+            "stock_cagr": 2.85,
             "days_held": 3056,
             "years_held": 8.37,
             "too_early": false
@@ -3576,7 +3576,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 8969,
             "nifty_cagr": 13.47,
-            "stock_cagr": -23.33,
+            "stock_cagr": 2.64,
             "days_held": 3049,
             "years_held": 8.35,
             "too_early": false
@@ -3591,7 +3591,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Feb 2016 \u2192 Jan 2018",
-              "stockCagr": 76.1,
+              "stockCagr": 77.5,
               "niftyCagr": 31.4,
               "listed": true
             },
@@ -3599,7 +3599,7 @@
               "regime": "Bear",
               "icon": "\u2198",
               "period": "Feb 2018 \u2192 Mar 2020",
-              "stockCagr": 0.3,
+              "stockCagr": 1.0,
               "niftyCagr": -17.5,
               "listed": true
             },
@@ -3607,7 +3607,7 @@
               "regime": "Bull",
               "icon": "\u2197",
               "period": "Mar 2020 \u2192 Sep 2024",
-              "stockCagr": 13.1,
+              "stockCagr": 15.0,
               "niftyCagr": 35.8,
               "listed": true
             },
@@ -3615,7 +3615,7 @@
               "regime": "Sideways",
               "icon": "\u2192",
               "period": "Oct 2024 \u2192 Feb 2026",
-              "stockCagr": -29.9,
+              "stockCagr": -28.0,
               "niftyCagr": -1.5,
               "listed": true
             }
@@ -3831,7 +3831,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 730880,
             "nifty_cagr": 2.18,
-            "stock_cagr": 1.13,
+            "stock_cagr": 5.88,
             "days_held": 75,
             "years_held": 0.21,
             "too_early": true
@@ -3847,7 +3847,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 143469,
             "nifty_cagr": -0.79,
-            "stock_cagr": 7.66,
+            "stock_cagr": 4.5,
             "days_held": 74,
             "years_held": 0.2,
             "too_early": true
@@ -3863,7 +3863,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 581610,
             "nifty_cagr": 28.88,
-            "stock_cagr": 34.77,
+            "stock_cagr": 39.23,
             "days_held": 26,
             "years_held": 0.07,
             "too_early": true
@@ -3887,7 +3887,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 1006489,
             "nifty_cagr": -31.34,
-            "stock_cagr": -20.62,
+            "stock_cagr": -28.48,
             "days_held": 12,
             "years_held": 0.03,
             "too_early": true
@@ -3911,7 +3911,7 @@
             "nifty_report_tri": 448.08,
             "shadow_nifty": 947258,
             "nifty_cagr": -8.32,
-            "stock_cagr": 39.88,
+            "stock_cagr": 39.22,
             "days_held": 63,
             "years_held": 0.17,
             "too_early": true
